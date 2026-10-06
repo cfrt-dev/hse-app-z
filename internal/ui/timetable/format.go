@@ -64,9 +64,9 @@ func relWeek(mon, cur time.Time) string {
 	case n == -1:
 		return ui.Tr("last week", "прошлая неделя")
 	case n > 1:
-		return ui.Trf("in %d weeks", "через %d %s", n, ui.PluralRU(n, "неделю", "недели", "недель"))
+		return ui.Tr("in ", "через ") + ui.Count(n, "week", "weeks", "неделю", "недели", "недель")
 	}
-	return ui.Trf("%d weeks ago", "%d %s назад", -n, ui.PluralRU(-n, "неделю", "недели", "недель"))
+	return ui.Count(-n, "week", "weeks", "неделю", "недели", "недель") + ui.Tr(" ago", " назад")
 }
 
 // fmtDur renders a duration rounded up to minutes: "25 min", "2 h",

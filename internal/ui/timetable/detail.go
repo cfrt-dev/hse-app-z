@@ -29,7 +29,7 @@ func lessonStatus(l api.Lesson, now time.Time) (string, lipgloss.Style) {
 		case days == 1:
 			return ui.Tr("tomorrow", "завтра"), ui.StyleDim
 		}
-		return ui.Trf("in %d days", "через %d %s", days, ui.PluralRU(days, "день", "дня", "дней")), ui.StyleDim
+		return ui.Tr("in ", "через ") + ui.Count(days, "day", "days", "день", "дня", "дней"), ui.StyleDim
 	case hasEnd && now.Before(end):
 		return ui.Tr("now · ends in ", "идёт · до конца ") + fmtDur(end.Sub(now)), ui.StyleOK.Bold(true)
 	case !hasEnd:

@@ -142,8 +142,15 @@ func runWithTimeout(cmd tea.Cmd, d time.Duration) tea.Msg {
 }
 
 // View renders the page and strips ANSI codes.
+// It fails the test if the screen shows a Go formatting error such as
+// "%!(EXTRA string=…)" or "%!d(MISSING)".
 func (h *Harness) View(w, ht int) string {
-	return ansi.Strip(h.Page.View(w, ht))
+	v := ansi.Strip(h.Page.View(w, ht))
+	if i := strings.Index(v, "%!"); i >= 0 {
+		h.T.Helper()
+		h.T.Errorf("format error on screen: %q", v[i:min(len(v), i+40)])
+	}
+	return v
 }
 
 // Statuses returns the footer messages emitted so far.
@@ -151,6 +158,9 @@ func (h *Harness) Statuses() []string {
 	var out []string
 	for _, m := range h.Emitted {
 		if s, ok := m.(ui.StatusMsg); ok {
+			if strings.Contains(s.Text, "%!") {
+				h.T.Errorf("format error in status message: %q", s.Text)
+			}
 			out = append(out, s.Text)
 		}
 	}

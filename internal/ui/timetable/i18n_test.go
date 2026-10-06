@@ -568,3 +568,37 @@ func TestAvatarFromSearchHit(t *testing.T) {
 		t.Error("group asked for a picture")
 	}
 }
+
+// English counterpart of TestRussianRelativeTimes: the plural strings are
+// built per language, so each language needs its own assertions (a format
+// shared by both once printed "in 3 days%!(EXTRA string=дня)" in English).
+func TestEnglishRelativeTimes(t *testing.T) {
+	ui.SetLang("en")
+	at := func(day, hh, mm int) time.Time { return time.Date(2026, 10, day, hh, mm, 0, 0, api.Moscow) }
+	mk := func(s, e time.Time) api.Lesson {
+		return api.Lesson{TimeZone: "Europe/Moscow", DateStart: api.FlexTime{Time: s}, DateEnd: api.FlexTime{Time: e}}
+	}
+	now := at(13, 12, 30)
+	for _, c := range []struct {
+		l    api.Lesson
+		want string
+	}{
+		{mk(at(13, 14, 40), at(13, 16, 0)), "starts in 2 h 10 min"},
+		{mk(at(14, 9, 30), at(14, 10, 50)), "tomorrow"},
+		{mk(at(15, 9, 30), at(15, 10, 50)), "in 2 days"},
+		{mk(at(16, 13, 0), at(16, 14, 20)), "in 3 days"},
+		{mk(at(13, 9, 0), time.Time{}), "started 3 h 30 min ago"},
+	} {
+		got, _ := lessonStatus(c.l, now)
+		if got != c.want || strings.Contains(got, "%!") {
+			t.Errorf("lessonStatus(%s) = %q, want %q", c.l.Start(), got, c.want)
+		}
+	}
+	cur := civil(at(12, 0, 0))
+	for n, want := range map[int]string{0: "this week", 1: "next week", -1: "last week", 2: "in 2 weeks",
+		5: "in 5 weeks", -3: "3 weeks ago", -11: "11 weeks ago"} {
+		if got := relWeek(cur.AddDate(0, 0, 7*n), cur); got != want {
+			t.Errorf("relWeek(%d) = %q, want %q", n, got, want)
+		}
+	}
+}
