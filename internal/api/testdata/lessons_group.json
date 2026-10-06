@@ -1,0 +1,100 @@
+[
+ {
+  "id": "1526514",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ТВИМС_Г_1159405_5#Г#Теория вероятностей и математическая статистика",
+  "auditorium_id": 533,
+  "auditorium": "310",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-05T10:00:00Z",
+  "date_end": "2026-10-05T11:20:00Z",
+  "created_at": "2026-09-08T10:03:18Z",
+  "updated_at": "2026-09-08T10:03:18Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz75091",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_emails": [
+   "aivchenko@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3073392",
+    "email": "aivchenko@hse.ru",
+    "full_name": "Ivchenko Aleksandr Vladimirovich",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3073392-1b37a76a-dd6a-4687-b722-387aa1e14f4c.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "824e0d58e1126c96fdbff44e41e1ed881017c3d6"
+ },
+ {
+  "id": "1526515",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ТВИМС_Г_1159405_5#Г#Теория вероятностей и математическая статистика",
+  "auditorium_id": 557,
+  "auditorium": "607",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-05T11:40:00Z",
+  "date_end": "2026-10-05T13:00:00Z",
+  "created_at": "2026-09-08T10:08:38Z",
+  "updated_at": "2026-09-08T10:08:38Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz75091",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "aivchenko@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3073392",
+    "email": "aivchenko@hse.ru",
+    "full_name": "Ivchenko Aleksandr Vladimirovich",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3073392-1b37a76a-dd6a-4687-b722-387aa1e14f4c.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "94dd14bfa0209da4c706989446a4595f703411e4"
+ }
+]

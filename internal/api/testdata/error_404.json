@@ -1,0 +1,14 @@
+{
+ "error": {
+  "name": "NotFound",
+  "message": "users.get: User not found",
+  "originError": {
+   "message": "Request failed with status code 404",
+   "name": "AxiosError",
+   "code": "ERR_BAD_REQUEST",
+   "status": 404,
+   "command": "users.get"
+  }
+ },
+ "trace_id": "8f6d1f84-ea73-4a59-a41c-1fac0c86fd22"
+}

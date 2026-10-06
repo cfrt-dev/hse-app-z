@@ -1,0 +1,107 @@
+[
+ {
+  "id": "lk2691052",
+  "full_name": "Reznichenko Margarita Vasilevna",
+  "email": "mreznichenko@hse.ru",
+  "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/2691052-cfbd4a8e-3785-42d1-820c-2a4c6e06d726.jpeg",
+  "has_phone": false,
+  "type": "STAFF",
+  "description": "Employee"
+ },
+ {
+  "id": "lk3121006",
+  "full_name": "Reznichenko Mikhail Dmitrievich",
+  "email": "mdreznichenko@hse.ru",
+  "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3121006-5e13bc92-c295-4e82-b8aa-824308202361.jpg",
+  "has_phone": false,
+  "type": "STAFF",
+  "description": "Employee"
+ },
+ {
+  "id": "lk2679482",
+  "full_name": "Reznichenko Egor Vladimirovich",
+  "email": "evreznichenko@edu.hse.ru",
+  "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/2679482-6b35ae49-e7e4-43a8-807d-3bb42a850b54.jpg",
+  "has_phone": false,
+  "type": "STUDENT",
+  "description": "Master МСМИА261"
+ },
+ {
+  "id": "lk2687486",
+  "full_name": "Reznichenko Aleksandr Vladislavovich",
+  "email": "avreznichenko_2@edu.hse.ru",
+  "has_phone": false,
+  "type": "STUDENT",
+  "description": "Student"
+ },
+ {
+  "id": "lk2714666",
+  "full_name": "Reznichenko Tatiana Valerevna",
+  "email": "tvreznichenko@edu.hse.ru",
+  "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/2714666-44528839-5a59-43a7-9d77-c8881ddb3c3c.jpeg",
+  "has_phone": false,
+  "type": "STUDENT",
+  "description": "Master МУОБР262"
+ },
+ {
+  "id": "lk2784726",
+  "full_name": "Reznichenko Kristina Aleksandrovna",
+  "email": "kareznichenko@edu.hse.ru",
+  "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/2784726-28f151a7-3ca5-405d-8b73-88970583ee7b.jpeg",
+  "has_phone": false,
+  "type": "STUDENT",
+  "description": "Bachelor БРО2311"
+ },
+ {
+  "id": "lk2790444",
+  "full_name": "Reznichenko Aleksandr Dmitrievich",
+  "email": "adreznichenko@edu.hse.ru",
+  "has_phone": false,
+  "type": "STUDENT",
+  "description": "Bachelor БПМИИ231"
+ },
+ {
+  "id": "lk3005711",
+  "full_name": "Reznichenko Mikhail Dmitrievich",
+  "email": "midmreznichenko@edu.hse.ru",
+  "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3005711-3739d493-7741-4041-974d-4e62a8a79fa8.jpeg",
+  "has_phone": false,
+  "type": "STUDENT",
+  "description": "Bachelor БИБ252"
+ },
+ {
+  "id": "lk3018236",
+  "full_name": "Reznichenko Olga Yurevna",
+  "email": "oyreznichenko@edu.hse.ru",
+  "has_phone": false,
+  "type": "STUDENT",
+  "description": "Master МУОБР252"
+ },
+ {
+  "id": "lk3065934",
+  "full_name": "Reznichenko Valeriia Mikhailovna",
+  "email": "vmreznichenko@edu.hse.ru",
+  "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3065934-ecada91b-7068-4332-8b70-866bfba4b6fb.jpg",
+  "has_phone": false,
+  "type": "STUDENT",
+  "description": "Bachelor БП25ДЗ10"
+ },
+ {
+  "id": "lk3117687",
+  "full_name": "Reznichenko Mariia Gennadevna",
+  "email": "mgreznichenko@edu.hse.ru",
+  "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3117687-1194c259-08d0-44f3-b312-0706bb9f0944.jpg",
+  "has_phone": false,
+  "type": "STUDENT",
+  "description": "Master МУВВО261"
+ },
+ {
+  "id": "lk139177",
+  "full_name": "Reznichenko Sofiya Ivanovna",
+  "email": "sreznichenko@hse.ru",
+  "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/139177-982a999f-3e47-43dc-ace1-25fd8717d2e8.jpeg",
+  "has_phone": false,
+  "type": "STAFF",
+  "description": "Ведущий научный сотрудник"
+ }
+]

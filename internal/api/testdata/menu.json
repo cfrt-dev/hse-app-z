@@ -1,0 +1,763 @@
+{
+ "cafe_id": "65109fbeb78246260f15bc88",
+ "current_day": "tuesday",
+ "available_days": [
+  "monday",
+  "tuesday",
+  "wednesday",
+  "thursday",
+  "friday",
+  "saturday"
+ ],
+ "sections": [
+  {
+   "section_name": "“FIX” set",
+   "price": 280,
+   "section": "complexFix",
+   "items": [
+    {
+     "item_name": "Baked beetroot salad with cucumber",
+     "item_name_opt": "Салат из запеченной свеклы с огурцом",
+     "item_id": "69e0eef68a82ba6c134ca6da",
+     "weight": "100 g",
+     "calories": "111.33 kcal",
+     "composition": "Запечённая свёкла (п/ф), свежие огурцы (п/ф), чесночная заправка (п/ф), китайский салат (п/ф), красный лук (п/ф), укроп (п/ф), петрушка (п/ф).",
+     "chips": [],
+     "section": "coldSnacks"
+    },
+    {
+     "item_name": "Vegetable paprikash soup",
+     "item_name_opt": "Суп \"Паприкаш\" овощной",
+     "item_id": "69e0eef68a82ba6c134ca6dc",
+     "weight": "250 g",
+     "calories": "131.63 kcal",
+     "composition": "картофель очищенный, перец с/м, смесь овощная с/м, морковь очищенная, лук репчатый очищенный, томаты кубик с/м, масло растительное, томат-паста, сахар вес., бульон овощной, соль приправа, петрушка зелень, приправа паприка дробленная, приправа орегано, приправа перец черный молотый, приправа лавровый лист, приправа перец черный горошек",
+     "chips": [
+      "vegetarian"
+     ],
+     "section": "first"
+    },
+    {
+     "item_name": "Beef broth with herbs and croutons",
+     "item_name_opt": "Бульон говяжий с зеленью и гренками",
+     "item_id": "69e0eef28a82ba6c134ca687",
+     "weight": "250 g",
+     "calories": "148.53 kcal",
+     "composition": "говядина суповой набор с/м, хлеб белый, лук репчатый очищенный, морковь очищенная, укроп зелень, соль приправа, бульон овощной, масло растительное, приправа паприка, приправа лавровый лист, приправа перец черный горошек, чеснок очищенный",
+     "chips": [],
+     "section": "first"
+    },
+    {
+     "item_name": "Chicken cocorito",
+     "item_name_opt": "Кокорито из курицы",
+     "item_id": "6a95ff81113b3d8e1404f098",
+     "weight": "90 g",
+     "calories": "221.18 kcal",
+     "composition": "куриное филе, молоко 3,2%, морковь очищенная, майонез, яйцо, лук репчатый очищенный, мука пшеничная, масло растительное, соль приправа, приправа перец черный молотый",
+     "chips": [],
+     "section": "second"
+    },
+    {
+     "item_name": "Boiled buckwheat",
+     "item_name_opt": "Гречка отварная",
+     "item_id": "69e0eef48a82ba6c134ca6be",
+     "weight": "150 g",
+     "calories": "282.28 kcal",
+     "composition": "крупа гречневая, масло растительное, соль приправа",
+     "chips": [],
+     "section": "sideDish"
+    },
+    {
+     "item_name": "Compote of berry mixture",
+     "item_name_opt": "Компот из ягодной смеси",
+     "item_id": "6a95ff82113b3d8e1404f0ab",
+     "weight": "200 g",
+     "calories": "44.18 kcal",
+     "composition": "Компотная смесь из ягод и фруктов, сахар, лимонная кислота, вода",
+     "chips": [],
+     "section": "drink"
+    },
+    {
+     "item_name": "Citrus drink",
+     "item_name_opt": "Напиток из цитрусовых",
+     "item_id": "69e0eef48a82ba6c134ca6c0",
+     "weight": "200 g",
+     "calories": "109.34 kcal",
+     "composition": "сахар вес., апельсин свежий, лимон свежий, лимонная кислота",
+     "chips": [],
+     "section": "drink"
+    },
+    {
+     "item_name": "Black tea/ green tea (pack 0.02 g)",
+     "item_name_opt": "Чай черный/ чай зеленый (пак 0,02 г.)",
+     "item_id": "69e0eef38a82ba6c134ca6a5",
+     "weight": "200 g",
+     "calories": "6 kcal",
+     "composition": "чай пакетированный, сахар, вода; tea bags, sugar, water",
+     "chips": [],
+     "section": "drink"
+    }
+   ]
+  },
+  {
+   "section_name": "“MIX” set",
+   "price": 350,
+   "section": "complexMix",
+   "items": [
+    {
+     "item_name": "Baked beetroot salad with cucumber",
+     "item_name_opt": "Салат из запеченной свеклы с огурцом",
+     "item_id": "69e0eef68a82ba6c134ca6da",
+     "weight": "100 g",
+     "calories": "111.33 kcal",
+     "composition": "Запечённая свёкла (п/ф), свежие огурцы (п/ф), чесночная заправка (п/ф), китайский салат (п/ф), красный лук (п/ф), укроп (п/ф), петрушка (п/ф).",
+     "chips": [],
+     "section": "coldSnacks"
+    },
+    {
+     "item_name": "Squid salad with sea cabbage",
+     "item_name_opt": "Салат из кальмаров с морской капустой",
+     "item_id": "6aa43407986c228a6cb0d59e",
+     "weight": "100 g",
+     "calories": "109.04 kcal",
+     "composition": "Кальмар (тушка зачищенная), капуста морская, морковь очищенная, яйцо отварное, лук репчатый, майонез, соль, перец чёрный молотый.",
+     "chips": [],
+     "section": "coldSnacks"
+    },
+    {
+     "item_name": "Quinoa and chickpea salad with tomatoes",
+     "item_name_opt": "Салат из киноа и нута с помидорами",
+     "item_id": "69e0eef38a82ba6c134ca6a9",
+     "weight": "100 g",
+     "calories": "180.2 kcal",
+     "composition": "Крупа киноа отварная, крупа нут, перец болгарский, помидоры, заправка на греческий салат.",
+     "chips": [],
+     "section": "coldSnacks"
+    },
+    {
+     "item_name": "Vegetable paprikash soup",
+     "item_name_opt": "Суп \"Паприкаш\" овощной",
+     "item_id": "69e0eef68a82ba6c134ca6dc",
+     "weight": "250 g",
+     "calories": "131.63 kcal",
+     "composition": "картофель очищенный, перец с/м, смесь овощная с/м, морковь очищенная, лук репчатый очищенный, томаты кубик с/м, масло растительное, томат-паста, сахар вес., бульон овощной, соль приправа, петрушка зелень, приправа паприка дробленная, приправа орегано, приправа перец черный молотый, приправа лавровый лист, приправа перец черный горошек",
+     "chips": [
+      "vegetarian"
+     ],
+     "section": "first"
+    },
+    {
+     "item_name": "Kharcho soup with beef",
+     "item_name_opt": "Суп-харчо с говядиной",
+     "item_id": "6a95ff81113b3d8e1404f095",
+     "weight": "250 g",
+     "calories": "189.57 kcal",
+     "composition": "лук репчатый очищенный, говядина б/к, крупа рис пропар., томат-паста, соус ткемали, масло растительное, сахар вес., чеснок очищенный, бульон говяжий, кинза зелень, морковь очищенная, соль приправа, приправа паприка, приправа перец черный горошек",
+     "chips": [],
+     "section": "first"
+    },
+    {
+     "item_name": "Chicken cocorito",
+     "item_name_opt": "Кокорито из курицы",
+     "item_id": "6a95ff81113b3d8e1404f098",
+     "weight": "90 g",
+     "calories": "221.18 kcal",
+     "composition": "куриное филе, молоко 3,2%, морковь очищенная, майонез, яйцо, лук репчатый очищенный, мука пшеничная, масло растительное, соль приправа, приправа перец черный молотый",
+     "chips": [],
+     "section": "second"
+    },
+    {
+     "item_name": "Turkey fillet baked with mushrooms",
+     "item_name_opt": "Филе индейки, запеченное с грибами",
+     "item_id": "69e0eef68a82ba6c134ca6e9",
+     "weight": "100 g",
+     "calories": "278.12 kcal",
+     "composition": "индейка филе, грибы шампиньоны с/м, лук репчатый очищенный, сыр, майонез, мука пшеничная, масло растительное, соль приправа, приправа перец черный молотый, приправа чеснок сушеный, бульон грибной",
+     "chips": [],
+     "section": "second"
+    },
+    {
+     "item_name": "Fish zrazy, stuffed with cheese and green butter.",
+     "item_name_opt": "Зраза рыбная, фаршированная сыром и зеленым маслом",
+     "item_id": "69e58faf353dc09394902a26",
+     "weight": "100 g",
+     "calories": "298.27 kcal",
+     "composition": "филе минтая, филе сайды, молоко 3,2%, сыр, хлеб белый, масло растительное, масло сливочное, сухари панировочные, яйцо, укроп зелень, соль приправа, приправа перец черный молотый, лимон свежий",
+     "chips": [],
+     "section": "second"
+    },
+    {
+     "item_name": "Ojahuri with pork",
+     "item_name_opt": "Оджахури со свининой",
+     "item_id": "6a95ff82113b3d8e1404f0a2",
+     "weight": "250 g",
+     "calories": "462.27 kcal",
+     "composition": "картофель очищенный, свинина б/к, лук репчатый очищенный, масло растительное, перец красный острый чили свежий, соль приправа, чеснок очищенный, приправа паприка, приправа хмели-сунели, бульон овощной, кинза зелень, петрушка зелень, приправа кориандр молотый, приправа перец черный горошек",
+     "chips": [],
+     "section": "second"
+    },
+    {
+     "item_name": "Chicken in a sour cream sauce with pesto",
+     "item_name_opt": "Курица в сметанном соусе с песто",
+     "item_id": "69e0eef68a82ba6c134ca6e0",
+     "weight": "75 g",
+     "calories": "206.85 kcal",
+     "composition": "куриное филе, помидоры свежие, масло растительное, молоко 3,2%, соль приправа, сливки 22%, петрушка зелень, мука пшеничная, укроп зелень, приправа перец черный молотый, лимон свежий, бульон овощной, сахар вес., чеснок очищенный, приправа базилик, сметана продукт 20%",
+     "chips": [],
+     "section": "second"
+    },
+    {
+     "item_name": "Couscous with vegetables",
+     "item_name_opt": "Кускус с овощами",
+     "item_id": "69e0eef48a82ba6c134ca6b1",
+     "weight": "150 g",
+     "calories": "198.78 kcal",
+     "composition": "смесь овощная с/м, крупа кускус, морковь очищенная, лук репчатый очищенный, масло растительное, соль приправа, бульон овощной, приправа карри",
+     "chips": [],
+     "section": "sideDish"
+    },
+    {
+     "item_name": "Green beans with sesame",
+     "item_name_opt": "Фасоль стручковая с кунжутом",
+     "item_id": "6a95ff82113b3d8e1404f0a8",
+     "weight": "150 g",
+     "calories": "146.41 kcal",
+     "composition": "фасоль стручковая с/м, соус соевый, масло растительное, соль приправа, кунжут",
+     "chips": [],
+     "section": "sideDish"
+    },
+    {
+     "item_name": "Boiled buckwheat",
+     "item_name_opt": "Гречка отварная",
+     "item_id": "69e0eef48a82ba6c134ca6be",
+     "weight": "150 g",
+     "calories": "282.28 kcal",
+     "composition": "крупа гречневая, масло растительное, соль приправа",
+     "chips": [],
+     "section": "sideDish"
+    },
+    {
+     "item_name": "Potato mashed potatoes",
+     "item_name_opt": "Картофельное пюре",
+     "item_id": "69e0eef68a82ba6c134ca6e1",
+     "weight": "150 g",
+     "calories": "99.92 kcal",
+     "composition": "Картофель,молоко,масло сливочное,соль",
+     "chips": [],
+     "section": "sideDish"
+    },
+    {
+     "item_name": "Compote of berry mixture",
+     "item_name_opt": "Компот из ягодной смеси",
+     "item_id": "6a95ff82113b3d8e1404f0ab",
+     "weight": "200 g",
+     "calories": "44.18 kcal",
+     "composition": "Компотная смесь из ягод и фруктов, сахар, лимонная кислота, вода",
+     "chips": [],
+     "section": "drink"
+    },
+    {
+     "item_name": "Citrus drink",
+     "item_name_opt": "Напиток из цитрусовых",
+     "item_id": "69e0eef48a82ba6c134ca6c0",
+     "weight": "200 g",
+     "calories": "109.34 kcal",
+     "composition": "сахар вес., апельсин свежий, лимон свежий, лимонная кислота",
+     "chips": [],
+     "section": "drink"
+    },
+    {
+     "item_name": "Black tea/ green tea (pack 0.02 g)",
+     "item_name_opt": "Чай черный/ чай зеленый (пак 0,02 г.)",
+     "item_id": "69e0eef38a82ba6c134ca6a5",
+     "weight": "200 g",
+     "calories": "6 kcal",
+     "composition": "чай пакетированный, сахар, вода; tea bags, sugar, water",
+     "chips": [],
+     "section": "drink"
+    }
+   ]
+  },
+  {
+   "section_name": "Breakfast",
+   "section": "breakfast",
+   "items": [
+    {
+     "item_name": "Herculean milk porridge with butter",
+     "item_name_opt": "Каша молочная геркулесовая с маслом",
+     "item_id": "69e0eef28a82ba6c134ca691",
+     "price": 54,
+     "weight": "200 g",
+     "calories": "131.58 kcal",
+     "composition": "Молоко, овсяные хлопья, сахар, соль, масло сливочное;Milk, oat flakes, sugar, salt, butter",
+     "section": "breakfast"
+    },
+    {
+     "item_name": "Boiled egg",
+     "item_name_opt": "Яйцо отварное",
+     "item_id": "69e0eef28a82ba6c134ca67c",
+     "price": 30,
+     "weight": "52 g",
+     "calories": "152.6 kcal",
+     "composition": "Яйцо; Egg",
+     "section": "breakfast"
+    },
+    {
+     "item_name": "Fried eggs",
+     "item_name_opt": "Яичница глазунья",
+     "item_id": "69e0eef28a82ba6c134ca67d",
+     "price": 30,
+     "weight": "46 g",
+     "calories": "250.68 kcal",
+     "composition": "Яйцо, соль, масло раст.; Egg, salt, oil melt.",
+     "section": "breakfast"
+    },
+    {
+     "item_name": "Curd cheese cakes with sour cream",
+     "item_name_opt": "Сырники творожные со сметаной",
+     "item_id": "69e0eef28a82ba6c134ca67e",
+     "price": 106,
+     "weight": "100 g",
+     "calories": "224.96 kcal",
+     "composition": "Творог, манка, яйцо, сахар, мука, масло раст., сметана, ванилин; Cottage cheese, semolina, egg, sugar, flour, vegetable oil, sour cream, vanillin",
+     "section": "breakfast"
+    },
+    {
+     "item_name": "Quesadilla with ham and cheese",
+     "item_name_opt": "Кесадилья с ветчиной и сыром",
+     "item_id": "69e0eef28a82ba6c134ca692",
+     "price": 156,
+     "weight": "170 g",
+     "calories": "252.06 kcal",
+     "composition": "Тортилья, майонез, кетчуп, ветчина, помидоры, сыр; Tortilla, mayonnaise, ketchup, ham, tomatoes, cheese",
+     "section": "breakfast"
+    },
+    {
+     "item_name": "Chicken nuggets",
+     "item_name_opt": "Наггетсы куриные",
+     "item_id": "69e0eef28a82ba6c134ca680",
+     "price": 160,
+     "weight": "120 g",
+     "calories": "379.76 kcal",
+     "composition": "Наггетсы куриные, масло раст.; Chicken nuggets, vegetable oil.",
+     "section": "breakfast"
+    },
+    {
+     "item_name": "Pizza caesar",
+     "item_name_opt": "Пицца цезарь",
+     "item_id": "69e0eef28a82ba6c134ca693",
+     "price": 120,
+     "weight": "115 g",
+     "calories": "231.71 kcal",
+     "composition": "Основа для пиццы, кетчуп, майонез, филе куриное, айсберг, сыр, черри; Pizza base, ketchup, mayonnaise, chicken fillet, iceberg, cheese, cherry",
+     "section": "breakfast"
+    },
+    {
+     "item_name": "Fried bacon",
+     "item_name_opt": "Бекон жареный",
+     "item_id": "69e0eef28a82ba6c134ca694",
+     "price": 120,
+     "weight": "30 g",
+     "calories": "973.85 kcal",
+     "composition": "Бекон, масло раст.; Bacon, butter rast.",
+     "section": "breakfast"
+    },
+    {
+     "item_name": "Sausage in pita bread",
+     "item_name_opt": "Сосиска в лаваше",
+     "item_id": "69e0eef28a82ba6c134ca695",
+     "price": 108,
+     "weight": "130 g",
+     "calories": "220.45 kcal",
+     "composition": "Сосиска, лаваш, сыр, яйцо, майонез, масло раст.; Sausage, pita bread, cheese, egg, mayonnaise, vegetable oil.",
+     "section": "breakfast"
+    },
+    {
+     "item_name": "Grilled chicken sausage",
+     "item_name_opt": "Сосиска куриная гриль",
+     "item_id": "69e0eef28a82ba6c134ca683",
+     "price": 144,
+     "weight": "70 g",
+     "calories": "220.45 kcal",
+     "composition": "Сосиска куриная, масло раст.; Chicken sausage, vegetable oil.",
+     "section": "breakfast"
+    },
+    {
+     "item_name": "Pancake with cottage cheese",
+     "item_name_opt": "Блинчик с творогом",
+     "item_id": "69e0eef28a82ba6c134ca681",
+     "price": 96,
+     "weight": "120 g",
+     "calories": "180.45 kcal",
+     "composition": "Мука, молоко, яйцо, сахар, соль, масло раст., сметана, творог; Flour, milk, egg, sugar, salt, vegetable oil, sour cream, cottage cheese",
+     "section": "breakfast"
+    },
+    {
+     "item_name": "Toast with ham and egg",
+     "item_name_opt": "Тост с ветчиной и яйцом",
+     "item_id": "69e0eef38a82ba6c134ca696",
+     "price": 102,
+     "weight": "120 g",
+     "calories": "252.83 kcal",
+     "composition": "Тостовый хлеб, майонез, кетчуп, ветчина, сыр, яйцо; Toast bread, mayonnaise, ketchup, ham, cheese, egg",
+     "section": "breakfast"
+    },
+    {
+     "item_name": "Pancake with meat",
+     "item_name_opt": "Блинчик с мясом",
+     "item_id": "69e0eef38a82ba6c134ca697",
+     "price": 96,
+     "weight": "120 g",
+     "calories": "226.26 kcal",
+     "composition": "Мука, молоко, яйцо, сахар, соль, масло раст., фарш мясной; Flour, milk, egg, sugar, salt, vegetable oil, minced meat",
+     "section": "breakfast"
+    }
+   ]
+  },
+  {
+   "section_name": "Cold snacks",
+   "section": "coldSnacks",
+   "items": [
+    {
+     "item_name": "Caesar Salad with Chicken",
+     "item_name_opt": "Салат Цезарь с курицей",
+     "item_id": "6a95ff81113b3d8e1404f090",
+     "price": 130,
+     "weight": "120 g",
+     "calories": "192.2 kcal",
+     "composition": "крабовые палочки, яйцо, огурцы свежие, майонез, кукуруза конс., крупа рис пропар., соль приправа, укроп зелень",
+     "section": "coldSnacks"
+    },
+    {
+     "item_name": "Baked beetroot salad with cucumber",
+     "item_name_opt": "Салат из запеченной свеклы с огурцом",
+     "item_id": "69e0eef68a82ba6c134ca6da",
+     "price": 80,
+     "weight": "100 g",
+     "calories": "111.33 kcal",
+     "composition": "Запечённая свёкла (п/ф), свежие огурцы (п/ф), чесночная заправка (п/ф), китайский салат (п/ф), красный лук (п/ф), укроп (п/ф), петрушка (п/ф).",
+     "chips": [],
+     "section": "coldSnacks"
+    },
+    {
+     "item_name": "Squid salad with sea cabbage",
+     "item_name_opt": "Салат из кальмаров с морской капустой",
+     "item_id": "6aa43407986c228a6cb0d59e",
+     "price": 96,
+     "weight": "100 g",
+     "calories": "109.04 kcal",
+     "composition": "Кальмар (тушка зачищенная), капуста морская, морковь очищенная, яйцо отварное, лук репчатый, майонез, соль, перец чёрный молотый.",
+     "chips": [],
+     "section": "coldSnacks"
+    },
+    {
+     "item_name": "Quinoa and chickpea salad with tomatoes",
+     "item_name_opt": "Салат из киноа и нута с помидорами",
+     "item_id": "69e0eef38a82ba6c134ca6a9",
+     "price": 100,
+     "weight": "100 g",
+     "calories": "180.2 kcal",
+     "composition": "Крупа киноа отварная, крупа нут, перец болгарский, помидоры, заправка на греческий салат.",
+     "chips": [],
+     "section": "coldSnacks"
+    }
+   ]
+  },
+  {
+   "section_name": "First",
+   "section": "first",
+   "items": [
+    {
+     "item_name": "Vegetable paprikash soup",
+     "item_name_opt": "Суп \"Паприкаш\" овощной",
+     "item_id": "69e0eef68a82ba6c134ca6dc",
+     "price": 90,
+     "weight": "250 g",
+     "calories": "131.63 kcal",
+     "composition": "картофель очищенный, перец с/м, смесь овощная с/м, морковь очищенная, лук репчатый очищенный, томаты кубик с/м, масло растительное, томат-паста, сахар вес., бульон овощной, соль приправа, петрушка зелень, приправа паприка дробленная, приправа орегано, приправа перец черный молотый, приправа лавровый лист, приправа перец черный горошек",
+     "chips": [
+      "vegetarian"
+     ],
+     "section": "first"
+    },
+    {
+     "item_name": "Kharcho soup with beef",
+     "item_name_opt": "Суп-харчо с говядиной",
+     "item_id": "6a95ff81113b3d8e1404f095",
+     "price": 105,
+     "weight": "250 g",
+     "calories": "189.57 kcal",
+     "composition": "лук репчатый очищенный, говядина б/к, крупа рис пропар., томат-паста, соус ткемали, масло растительное, сахар вес., чеснок очищенный, бульон говяжий, кинза зелень, морковь очищенная, соль приправа, приправа паприка, приправа перец черный горошек",
+     "chips": [],
+     "section": "first"
+    },
+    {
+     "item_name": "Beef broth with herbs and croutons",
+     "item_name_opt": "Бульон говяжий с зеленью и гренками",
+     "item_id": "69e0eef28a82ba6c134ca687",
+     "price": 72,
+     "weight": "250 g",
+     "calories": "148.53 kcal",
+     "composition": "говядина суповой набор с/м, хлеб белый, лук репчатый очищенный, морковь очищенная, укроп зелень, соль приправа, бульон овощной, масло растительное, приправа паприка, приправа лавровый лист, приправа перец черный горошек, чеснок очищенный",
+     "chips": [],
+     "section": "first"
+    }
+   ]
+  },
+  {
+   "section_name": "Second",
+   "section": "second",
+   "items": [
+    {
+     "item_name": "Chicken cocorito",
+     "item_name_opt": "Кокорито из курицы",
+     "item_id": "6a95ff81113b3d8e1404f098",
+     "price": 154,
+     "weight": "90 g",
+     "calories": "221.18 kcal",
+     "composition": "куриное филе, молоко 3,2%, морковь очищенная, майонез, яйцо, лук репчатый очищенный, мука пшеничная, масло растительное, соль приправа, приправа перец черный молотый",
+     "chips": [],
+     "section": "second"
+    },
+    {
+     "item_name": "Turkey fillet baked with mushrooms",
+     "item_name_opt": "Филе индейки, запеченное с грибами",
+     "item_id": "69e0eef68a82ba6c134ca6e9",
+     "price": 190,
+     "weight": "100 g",
+     "calories": "278.12 kcal",
+     "composition": "индейка филе, грибы шампиньоны с/м, лук репчатый очищенный, сыр, майонез, мука пшеничная, масло растительное, соль приправа, приправа перец черный молотый, приправа чеснок сушеный, бульон грибной",
+     "chips": [],
+     "section": "second"
+    },
+    {
+     "item_name": "Fish zrazy, stuffed with cheese and green butter.",
+     "item_name_opt": "Зраза рыбная, фаршированная сыром и зеленым маслом",
+     "item_id": "69e58faf353dc09394902a26",
+     "price": 180,
+     "weight": "100 g",
+     "calories": "298.27 kcal",
+     "composition": "филе минтая, филе сайды, молоко 3,2%, сыр, хлеб белый, масло растительное, масло сливочное, сухари панировочные, яйцо, укроп зелень, соль приправа, приправа перец черный молотый, лимон свежий",
+     "chips": [],
+     "section": "second"
+    },
+    {
+     "item_name": "Boiled beef",
+     "item_name_opt": "Говядина отварная",
+     "item_id": "6a95ff81113b3d8e1404f09c",
+     "price": 240,
+     "weight": "90 g",
+     "calories": "242.39 kcal",
+     "composition": "говядина б/к, соль приправа, приправа лавровый лист, приправа перец черный горошек, лук репчатый очищенный, морковь очищенная",
+     "chips": [
+      "dietary"
+     ],
+     "section": "second"
+    },
+    {
+     "item_name": "Poached boiled pork with vegetables",
+     "item_name_opt": "Буженина припущенная с овощами",
+     "item_id": "6a95ff82113b3d8e1404f09e",
+     "price": 180,
+     "weight": "82 g",
+     "calories": "401.72 kcal",
+     "composition": "свинина шея, смесь овощная с/м, масло растительное, соль приправа, горчица, чеснок очищенный, бульон овощной, приправа перец черный молотый",
+     "chips": [
+      "dietary"
+     ],
+     "section": "second"
+    },
+    {
+     "item_name": "Pasta with vegetables and tofu cheese",
+     "item_name_opt": "Паста с овощами и сыром тофу",
+     "item_id": "6a95ff82113b3d8e1404f0a0",
+     "price": 180,
+     "weight": "200 g",
+     "calories": "367.7 kcal",
+     "composition": "макароны спагетти, кабачки свежие, морковь очищенная, сыр тофу, перец свежий болгарский, масло растительное, лук репчатый очищенный, соль приправа, чеснок очищенный, бульон овощной, приправа перец черный молотый, петрушка зелень, приправа базилик, укроп зелень",
+     "chips": [
+      "vegetarian"
+     ],
+     "section": "second"
+    },
+    {
+     "item_name": "Ojahuri with pork",
+     "item_name_opt": "Оджахури со свининой",
+     "item_id": "6a95ff82113b3d8e1404f0a2",
+     "price": 185,
+     "weight": "250 g",
+     "calories": "462.27 kcal",
+     "composition": "картофель очищенный, свинина б/к, лук репчатый очищенный, масло растительное, перец красный острый чили свежий, соль приправа, чеснок очищенный, приправа паприка, приправа хмели-сунели, бульон овощной, кинза зелень, петрушка зелень, приправа кориандр молотый, приправа перец черный горошек",
+     "chips": [],
+     "section": "second"
+    },
+    {
+     "item_name": "Chicken in a sour cream sauce with pesto",
+     "item_name_opt": "Курица в сметанном соусе с песто",
+     "item_id": "69e0eef68a82ba6c134ca6e0",
+     "price": 200,
+     "weight": "75 g",
+     "calories": "206.85 kcal",
+     "composition": "куриное филе, помидоры свежие, масло растительное, молоко 3,2%, соль приправа, сливки 22%, петрушка зелень, мука пшеничная, укроп зелень, приправа перец черный молотый, лимон свежий, бульон овощной, сахар вес., чеснок очищенный, приправа базилик, сметана продукт 20%",
+     "chips": [],
+     "section": "second"
+    }
+   ]
+  },
+  {
+   "section_name": "Side dish",
+   "section": "sideDish",
+   "items": [
+    {
+     "item_name": "Couscous with vegetables",
+     "item_name_opt": "Кускус с овощами",
+     "item_id": "69e0eef48a82ba6c134ca6b1",
+     "price": 116,
+     "weight": "150 g",
+     "calories": "198.78 kcal",
+     "composition": "смесь овощная с/м, крупа кускус, морковь очищенная, лук репчатый очищенный, масло растительное, соль приправа, бульон овощной, приправа карри",
+     "chips": [],
+     "section": "sideDish"
+    },
+    {
+     "item_name": "Green beans with sesame",
+     "item_name_opt": "Фасоль стручковая с кунжутом",
+     "item_id": "6a95ff82113b3d8e1404f0a8",
+     "price": 120,
+     "weight": "150 g",
+     "calories": "146.41 kcal",
+     "composition": "фасоль стручковая с/м, соус соевый, масло растительное, соль приправа, кунжут",
+     "chips": [],
+     "section": "sideDish"
+    },
+    {
+     "item_name": "Boiled buckwheat",
+     "item_name_opt": "Гречка отварная",
+     "item_id": "69e0eef48a82ba6c134ca6be",
+     "price": 60,
+     "weight": "150 g",
+     "calories": "282.28 kcal",
+     "composition": "крупа гречневая, масло растительное, соль приправа",
+     "chips": [],
+     "section": "sideDish"
+    },
+    {
+     "item_name": "Potato mashed potatoes",
+     "item_name_opt": "Картофельное пюре",
+     "item_id": "69e0eef68a82ba6c134ca6e1",
+     "price": 70,
+     "weight": "150 g",
+     "calories": "99.92 kcal",
+     "composition": "Картофель,молоко,масло сливочное,соль",
+     "chips": [],
+     "section": "sideDish"
+    }
+   ]
+  },
+  {
+   "section_name": "Drink",
+   "section": "drink",
+   "items": [
+    {
+     "item_name": "Compote of berry mixture",
+     "item_name_opt": "Компот из ягодной смеси",
+     "item_id": "6a95ff82113b3d8e1404f0ab",
+     "price": 40,
+     "weight": "200 g",
+     "calories": "44.18 kcal",
+     "composition": "Компотная смесь из ягод и фруктов, сахар, лимонная кислота, вода",
+     "chips": [],
+     "section": "drink"
+    },
+    {
+     "item_name": "Citrus drink",
+     "item_name_opt": "Напиток из цитрусовых",
+     "item_id": "69e0eef48a82ba6c134ca6c0",
+     "price": 40,
+     "weight": "200 g",
+     "calories": "109.34 kcal",
+     "composition": "сахар вес., апельсин свежий, лимон свежий, лимонная кислота",
+     "chips": [],
+     "section": "drink"
+    },
+    {
+     "item_name": "Black tea/ green tea (pack 0.02 g)",
+     "item_name_opt": "Чай черный/ чай зеленый (пак 0,02 г.)",
+     "item_id": "69e0eef38a82ba6c134ca6a5",
+     "price": 40,
+     "weight": "200 g",
+     "calories": "6 kcal",
+     "composition": "чай пакетированный, сахар, вода; tea bags, sugar, water",
+     "chips": [],
+     "section": "drink"
+    }
+   ]
+  },
+  {
+   "section_name": "Other",
+   "section": "other",
+   "items": [
+    {
+     "item_name": "Wheat bread",
+     "item_name_opt": "Хлеб пшеничный",
+     "item_id": "69e0eef78a82ba6c134ca6ee",
+     "price": 4,
+     "weight": "20 g",
+     "calories": "252.61 kcal",
+     "composition": "хлеб пшеничный",
+     "section": "other"
+    },
+    {
+     "item_name": "Rye bread",
+     "item_name_opt": "Хлеб ржаной",
+     "item_id": "69e0eef78a82ba6c134ca6ef",
+     "price": 4,
+     "weight": "20 g",
+     "calories": "200.3 kcal",
+     "composition": "хлеб ржаной",
+     "section": "other"
+    },
+    {
+     "item_name": "Gastro Box No. 1",
+     "item_name_opt": "Гастро Бокс № 1",
+     "item_id": "6a95ff82113b3d8e1404f0ae",
+     "price": 2600,
+     "weight": "836 g",
+     "calories": "274.8 kcal",
+     "composition": "Татаки из тунца с соусом манго — 4 шт., коппа на пшеничном крутоне с творожным муссом — 4 шт., сфера с грецким орехом и ягодным соусом — 4 шт., мини‑брускетта с куриным филе и вялеными томатами — 4 шт., мини‑брускетта с грушей и рикоттой — 4 шт., мутаки",
+     "section": "other"
+    },
+    {
+     "item_name": "Gastro Box No. 2",
+     "item_name_opt": "Гастро Бокс № 2",
+     "item_id": "6a95ff82113b3d8e1404f0b0",
+     "price": 3100,
+     "weight": "936 g",
+     "calories": "342.18 kcal",
+     "composition": "мурманский лосось на пшеничном крутоне с сыром филадельфия — 4 шт., парма прошутто с карамелизированной грушей — 4 шт., капрезе в шоте (мини‑моцарелла с томатами черри и соусом песто) — 4 шт., мини‑брускетта с ростбифом (на багете) — 4 шт., мини‑брускетта с ветчиной палета косида на подушке из сырного мусса — 4 шт., кантуччи — 4 шт.",
+     "section": "other"
+    },
+    {
+     "item_name": "Gastro Box No. 3",
+     "item_name_opt": "Гастро Бокс № 3",
+     "item_id": "6a95ff82113b3d8e1404f0b2",
+     "price": 3100,
+     "weight": "936 g",
+     "calories": "226.15 kcal",
+     "composition": "канапе с масляной рыбой х/к, украшенное икрой палтуса и лаймом — 4 шт., салями в/к с мини‑моцареллой — 4 шт., канапе с копчёным сыром тофу и оливками — 4 шт., брускетта злаковая с ростбифом и физалисом — 4 шт., мини‑брускетта с сыровяленой шейкой и инжиром (свинина) — 4 шт., мутаки — 4 шт.",
+     "section": "other"
+    },
+    {
+     "item_name": "Gastro Box No. 4",
+     "item_name_opt": "Гастро Бокс № 4",
+     "item_id": "6a95ff82113b3d8e1404f0b4",
+     "price": 3000,
+     "weight": "936 g",
+     "calories": "281.74 kcal",
+     "composition": "ролл из лосося с сыром Филадельфия и вяленым томатом — 4 шт., куриный рулетик с вяленым томатом, украшенный голубикой — 4 шт., кантуччи с/п — 4 шт., рулетик из баклажанов с орехами — 4 шт., мини‑брускетта с творожным сыром, вялеными томатами и мортаделлой — 4 шт., мини‑брускетта с вялеными томатами — 4 шт.",
+     "section": "other"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "id": "lk3002547",
+ "full_name": "Nikitin Maksim Valerevich",
+ "birth_date": "2007-08-20",
+ "email": "makvalnikitin@edu.hse.ru",
+ "description": "Bachelor БИБ255",
+ "has_phone": false,
+ "type": "STUDENT",
+ "names": {
+  "last_name": "Nikitin",
+  "first_name": "Maksim",
+  "middle_name": "Valerevich"
+ },
+ "_id": "68b9b4d5131f304794625b00",
+ "sourceId": "cbce9db7-7a3b-11f0-a413-87ba01ce01e0",
+ "education": [
+  {
+   "id": "ccb94c0a-7a3b-11f0-a413-87ba01ce01e0",
+   "university_title": "HSE - Moscow",
+   "start_year": "2024",
+   "degree_level": "DEGREE_BACHELOR",
+   "program_id": "1d475d66-3694-11ee-bc01-87ba01ce01e0",
+   "program_title": "Information Security",
+   "faculty_title": "Московский институт электроники и математики им. А.Н. Тихонова",
+   "campus": "CAMPUS_MOS",
+   "group_id": "8a2bbaf5-876a-11f0-a413-87ba01ce01e0",
+   "group_title": "БИБ255",
+   "smart_plan_program_id": "97",
+   "degree": "Bachelor БИБ255"
+  }
+ ],
+ "campus": "CAMPUS_MOS",
+ "is_timetable_available": true,
+ "is_subordinates_available": false
+}

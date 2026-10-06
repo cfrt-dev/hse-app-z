@@ -1,0 +1,133 @@
+{
+ "items": [
+  {
+   "learn_period": "2025/2026 учебный год 4 модуль",
+   "learn_year": "2025/2026",
+   "published_at": "2026-07-16T22:28:15.372+03:00",
+   "title": "Current rating for 2025/2026 academic year (3-4 modules)",
+   "type": "current",
+   "learn_program": "Information Security",
+   "faculty": "Московский институт электроники и математики им. А.Н. Тихонова",
+   "group": "БИБ255",
+   "course": 1,
+   "credits": 47,
+   "credits_precise": 47,
+   "discipline_list": [
+    {
+     "discipline": "Algorithmization and Programming",
+     "current_rating": 6,
+     "grade": 8
+    },
+    {
+     "discipline": "English Language Integrative Exam",
+     "current_rating": 4,
+     "grade": 6
+    },
+    {
+     "discipline": "Discrete Mathematics",
+     "current_rating": 4,
+     "grade": 10
+    },
+    {
+     "discipline": "Informatics, Computer Systems and Networks",
+     "current_rating": 3,
+     "grade": 6
+    },
+    {
+     "discipline": "Informatics, Computer Systems and Networks",
+     "current_rating": 7,
+     "grade": 8
+    },
+    {
+     "discipline": "Russian History",
+     "current_rating": 3,
+     "grade": 6
+    },
+    {
+     "discipline": "Calculus",
+     "current_rating": 6,
+     "grade": 5
+    },
+    {
+     "discipline": "Independent Digital Literacy Test",
+     "current_rating": 3,
+     "grade": 9
+    },
+    {
+     "discipline": "The Foundations of Cryptography and Steganography",
+     "current_rating": 4,
+     "grade": 6
+    },
+    {
+     "discipline": "Physics",
+     "current_rating": 3,
+     "grade": 5
+    },
+    {
+     "discipline": "Physics",
+     "current_rating": 4,
+     "grade": 5
+    }
+   ],
+   "degree": "DEGREE_BACHELOR",
+   "campus": "CAMPUS_MOS",
+   "grade_mid": 6.73,
+   "grade_min": 5,
+   "grade_minor": null,
+   "percentil": 54,
+   "exam_all": 11,
+   "exam3": 0,
+   "exam10": 4,
+   "exam5": 3,
+   "exam7": 4,
+   "examb": 0,
+   "exame": null,
+   "examf": null,
+   "examg": 11,
+   "examn": 0,
+   "examp": null,
+   "examz": 0,
+   "examretake": 1,
+   "examretakegood": 0,
+   "place_curr": 14191,
+   "place_total": 26050,
+   "place_group_op_curr": 70,
+   "place_group_op_total": 127,
+   "place_op_curr": 247,
+   "place_op_course_curr": 70,
+   "place_op_course_total": 127,
+   "place_op_total": 453,
+   "gpa": 6.81,
+   "rating_koef": 1,
+   "rating_norm": 320,
+   "rating_group_norm": 320,
+   "rating_group_koef": 1,
+   "rating": 320
+  }
+ ],
+ "selected_academic_year": "2025/2026",
+ "selected_type": "current",
+ "selected_program": 1306560,
+ "available_programs": [
+  {
+   "id": 1306560,
+   "title": "Information Security",
+   "description": "БИБ255, 2 course"
+  }
+ ],
+ "available_types": [
+  "minor",
+  "retake",
+  "cumul",
+  "current"
+ ],
+ "selected_module_number": 4,
+ "available_module_numbers": [
+  2,
+  4
+ ],
+ "current_academic_year": "2026/2027",
+ "available_academic_years": [
+  "2025/2026"
+ ]
+}

@@ -1,0 +1,14 @@
+[
+ {
+  "id": "6ab3395b85ef4e9464628df4",
+  "is_dismissible": true,
+  "is_enabled": true,
+  "title": "HSE SmartPoint services got better",
+  "section": "search",
+  "groups": [],
+  "min_build_android": 130000,
+  "min_build_ios": 129553,
+  "max_build_android": 0,
+  "description": "The in-app browser got an update: documents download and open right away, and you can attach files from your device to a request"
+ }
+]

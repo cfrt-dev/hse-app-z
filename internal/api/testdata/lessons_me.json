@@ -1,0 +1,781 @@
+[
+ {
+  "id": "1549245",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ТВИМС_Г_1159405_5#Г#Теория вероятностей и математическая статистика",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-12T10:00:00Z",
+  "date_end": "2026-10-12T11:20:00Z",
+  "created_at": "2026-09-14T14:21:14Z",
+  "updated_at": "2026-09-14T14:21:14Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz75091",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_emails": [
+   "aivchenko@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3073392",
+    "email": "aivchenko@hse.ru",
+    "full_name": "Ivchenko Aleksandr Vladimirovich",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3073392-1b37a76a-dd6a-4687-b722-387aa1e14f4c.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "af48f872a1ddf842b68b8e514933912e109bd7d6"
+ },
+ {
+  "id": "1549246",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ТВИМС_Г_1159405_5#Г#Теория вероятностей и математическая статистика",
+  "auditorium_id": 549,
+  "auditorium": "412",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-12T11:40:00Z",
+  "date_end": "2026-10-12T13:00:00Z",
+  "created_at": "2026-09-14T14:21:27Z",
+  "updated_at": "2026-09-14T14:21:27Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz75091",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "aivchenko@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3073392",
+    "email": "aivchenko@hse.ru",
+    "full_name": "Ivchenko Aleksandr Vladimirovich",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3073392-1b37a76a-dd6a-4687-b722-387aa1e14f4c.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "7fabf7beb45bf6c5268123c9b378b07e135e39a7"
+ },
+ {
+  "id": "1103733",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Lecture",
+  "stream": "26_27_М_ТВИМС_П_1159405_1#П#Теория вероятностей и математическая статистика",
+  "auditorium_id": 549,
+  "auditorium": "412",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-13T08:10:00Z",
+  "date_end": "2026-10-13T09:30:00Z",
+  "created_at": "2026-05-12T13:20:23Z",
+  "updated_at": "2026-09-08T16:55:18Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz66024",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 2,
+  "lesson_number_end": 2,
+  "duration": [
+   2
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Lecture",
+  "is_ban": false,
+  "hash": "225042eaec04fc3a559d6993c3a28087fb5386e3"
+ },
+ {
+  "id": "1203515",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_МА_Г_980965_8#Г#Математический анализ",
+  "auditorium_id": 539,
+  "auditorium": "402",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-13T11:40:00Z",
+  "date_end": "2026-10-13T13:00:00Z",
+  "created_at": "2026-05-25T16:15:07Z",
+  "updated_at": "2026-05-25T16:15:07Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Calculus",
+  "discipline_id": 44913,
+  "group_id": "ruz69169",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/980967",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "vchetverikov@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3772",
+    "email": "vchetverikov@hse.ru",
+    "full_name": "Chetverikov Viktor Mikhailovich",
+    "description": "профессор-исследоват",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/151855.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "c811298d17f097aafab51c65e0da8735d12cd2b0"
+ },
+ {
+  "id": "1146532",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Lecture",
+  "stream": "26_27_М_Ф_П_961621_1#П#Физика",
+  "auditorium_id": 549,
+  "auditorium": "412",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-13T13:20:00Z",
+  "date_end": "2026-10-13T14:40:00Z",
+  "created_at": "2026-05-19T13:01:53Z",
+  "updated_at": "2026-05-19T13:01:53Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Physics",
+  "discipline_id": 45379,
+  "group_id": "ruz64337",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/961623",
+  "lesson_number_start": 5,
+  "lesson_number_end": 5,
+  "duration": [
+   5
+  ],
+  "lecturer_emails": [
+   "ashanenko@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk162332",
+    "email": "ashanenko@hse.ru",
+    "full_name": "Shanenko Arkadiy Arkadevich",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/162332-395e5cec-3203-4de7-9183-cc87de6b5161.jpeg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Lecture",
+  "is_ban": false,
+  "hash": "19089e20573436944c55313c3a46c1e2efa67d9f"
+ },
+ {
+  "id": "1180998",
+  "type": "Seminar",
+  "stream": "26_27_М_МИП_Г_1106466_8#Г#Мозг и психика",
+  "auditorium_id": 4174,
+  "auditorium": "Online",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-14T08:10:00Z",
+  "date_end": "2026-10-14T09:30:00Z",
+  "created_at": "2026-05-21T20:28:56Z",
+  "updated_at": "2026-09-08T20:44:40Z",
+  "importance_level": 2,
+  "location": null,
+  "discipline": "Brain and Psyche",
+  "discipline_id": 45323,
+  "group_id": "ruz51241",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1106467",
+  "lesson_number_start": 2,
+  "lesson_number_end": 2,
+  "duration": [
+   2
+  ],
+  "note": "https://hse.mts-link.ru/j/21474808/24395280096",
+  "stream_links": [
+   {
+    "link": "https://hse.mts-link.ru/j/21474808/24395280096",
+    "description": null
+   }
+  ],
+  "lecturer_emails": [
+   "nzhozhikashvili@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk5088",
+    "email": "nzhozhikashvili@hse.ru",
+    "full_name": "Zhozhikashvili Nataliya Aleksandrovna",
+    "description": "Преподаватель",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/137784.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "dc45444a7b8a2e83106e200399cd8b01770f71f8"
+ },
+ {
+  "id": "1045605",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Lecture",
+  "stream": "26_27_М_КМЗИ_П_1146484_1#П#Криптографические методы защиты информации",
+  "auditorium_id": 549,
+  "auditorium": "412",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-16T10:00:00Z",
+  "date_end": "2026-10-16T11:20:00Z",
+  "created_at": "2026-04-29T10:08:43Z",
+  "updated_at": "2026-04-29T10:08:43Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Cryptographic Methods of Information Security",
+  "discipline_id": 44349,
+  "group_id": "ruz50342",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1146485",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_emails": [
+   "oevsyutin@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk7629",
+    "email": "oevsyutin@hse.ru",
+    "full_name": "Evsyutin Oleg Olegovich",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/7629-fb299b45-595c-4a8d-88ee-396d0c519926.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Lecture",
+  "is_ban": false,
+  "hash": "17c761604cfd7b8181384bd6b9b24a045c39600a"
+ },
+ {
+  "id": "1199469",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Lecture",
+  "stream": "26_27_М_МА_П_980965_2#П#Математический анализ",
+  "auditorium_id": 547,
+  "auditorium": "410",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-16T11:40:00Z",
+  "date_end": "2026-10-16T13:00:00Z",
+  "created_at": "2026-05-25T14:28:53Z",
+  "updated_at": "2026-05-25T14:28:53Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Calculus",
+  "discipline_id": 44913,
+  "group_id": "ruz69163",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/980967",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "pakhmetiev@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk4919",
+    "email": "pakhmetiev@hse.ru",
+    "full_name": "Ahmetev Petr Mihaylovich",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/140262.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Lecture",
+  "is_ban": false,
+  "hash": "4957e069c76c277271caf09b59c65082a471e365"
+ },
+ {
+  "id": "1204655",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_Ф_Г_961621_5#Г#Физика",
+  "auditorium_id": 512,
+  "auditorium": "207",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-16T13:20:00Z",
+  "date_end": "2026-10-16T14:40:00Z",
+  "created_at": "2026-05-25T16:35:51Z",
+  "updated_at": "2026-05-25T16:40:46Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Physics",
+  "discipline_id": 45379,
+  "group_id": "ruz71591",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/961623",
+  "lesson_number_start": 5,
+  "lesson_number_end": 5,
+  "duration": [
+   5
+  ],
+  "lecturer_emails": [
+   "igaiduchenko@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk1269913",
+    "email": "igaiduchenko@hse.ru",
+    "full_name": "Gayduchenko Igor Andreevich",
+    "description": "Доцент",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "f00cb4843f892af5793e0c7c2fcb86d85f46733a"
+ },
+ {
+  "id": "1429087",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_КМЗИ_Г_1146484_5#Г#Криптографические методы защиты информации",
+  "auditorium_id": 529,
+  "auditorium": "306",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-17T10:00:00Z",
+  "date_end": "2026-10-17T11:20:00Z",
+  "created_at": "2026-08-17T11:35:01Z",
+  "updated_at": "2026-09-04T09:52:18Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Cryptographic Methods of Information Security",
+  "discipline_id": 44349,
+  "group_id": "ruz50347",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1146485",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_emails": [
+   "vimezentsev@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3118728",
+    "email": "vimezentsev@hse.ru",
+    "full_name": "Mezencev Vladislav Igorevich",
+    "description": "Преподаватель",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "d9018394705c2e89975af4814a9ee1a3a6255821"
+ },
+ {
+  "id": "1212749",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Practical sessions",
+  "stream": "26_27_М_Ф_С_961621_10#С#Физика",
+  "auditorium_id": 502,
+  "auditorium": "106",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-17T13:20:00Z",
+  "date_end": "2026-10-17T14:40:00Z",
+  "created_at": "2026-05-26T12:32:42Z",
+  "updated_at": "2026-09-07T23:31:32Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Physics",
+  "discipline_id": 45379,
+  "group_id": "ruz71595",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/961623",
+  "lesson_number_start": 5,
+  "lesson_number_end": 5,
+  "duration": [
+   5
+  ],
+  "lecturer_emails": [
+   "nlekomtsev@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk2736413",
+    "email": "nlekomtsev@hse.ru",
+    "full_name": "Lekomtsev Nikita Vladimirovich",
+    "description": "Ассистент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/2736413-8602272c-4fde-4937-b98e-c53e98e8a572.jpeg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Practical sessions",
+  "is_ban": false,
+  "hash": "0a2183db6f1f741cf7143d2cf5a21072439f879d"
+ },
+ {
+  "id": "1549251",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ТВИМС_Г_1159405_5#Г#Теория вероятностей и математическая статистика",
+  "auditorium_id": 4391,
+  "auditorium": "202",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-20T08:10:00Z",
+  "date_end": "2026-10-20T09:30:00Z",
+  "created_at": "2026-09-14T14:22:16Z",
+  "updated_at": "2026-09-14T14:22:16Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz75091",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 2,
+  "lesson_number_end": 2,
+  "duration": [
+   2
+  ],
+  "lecturer_emails": [
+   "aivchenko@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3073392",
+    "email": "aivchenko@hse.ru",
+    "full_name": "Ivchenko Aleksandr Vladimirovich",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3073392-1b37a76a-dd6a-4687-b722-387aa1e14f4c.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "8af1595e2d0978f3a0a8932ddd0c9bb25de77fd0"
+ },
+ {
+  "id": "1203521",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_МА_Г_980965_8#Г#Математический анализ",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-20T11:40:00Z",
+  "date_end": "2026-10-20T13:00:00Z",
+  "created_at": "2026-05-25T16:15:15Z",
+  "updated_at": "2026-05-25T16:15:15Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Calculus",
+  "discipline_id": 44913,
+  "group_id": "ruz69169",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/980967",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "vchetverikov@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3772",
+    "email": "vchetverikov@hse.ru",
+    "full_name": "Chetverikov Viktor Mikhailovich",
+    "description": "профессор-исследоват",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/151855.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "ba39f25d9a1e0ce6ee86bf9f6d9ef99c5d7b7dcb"
+ },
+ {
+  "id": "1180999",
+  "type": "Seminar",
+  "stream": "26_27_М_МИП_Г_1106466_8#Г#Мозг и психика",
+  "auditorium_id": 4174,
+  "auditorium": "Online",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-21T08:10:00Z",
+  "date_end": "2026-10-21T09:30:00Z",
+  "created_at": "2026-05-21T20:28:56Z",
+  "updated_at": "2026-09-08T20:44:40Z",
+  "importance_level": 2,
+  "location": null,
+  "discipline": "Brain and Psyche",
+  "discipline_id": 45323,
+  "group_id": "ruz51241",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1106467",
+  "lesson_number_start": 2,
+  "lesson_number_end": 2,
+  "duration": [
+   2
+  ],
+  "note": "https://hse.mts-link.ru/j/21474808/24395280096",
+  "stream_links": [
+   {
+    "link": "https://hse.mts-link.ru/j/21474808/24395280096",
+    "description": null
+   }
+  ],
+  "lecturer_emails": [
+   "nzhozhikashvili@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk5088",
+    "email": "nzhozhikashvili@hse.ru",
+    "full_name": "Zhozhikashvili Nataliya Aleksandrovna",
+    "description": "Преподаватель",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/137784.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "2167ddedf3b85371e0722670c8179c5b885dbf26"
+ },
+ {
+  "id": "1429088",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_КМЗИ_Г_1146484_5#Г#Криптографические методы защиты информации",
+  "auditorium_id": 529,
+  "auditorium": "306",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-24T10:00:00Z",
+  "date_end": "2026-10-24T11:20:00Z",
+  "created_at": "2026-08-17T11:35:01Z",
+  "updated_at": "2026-09-04T09:52:18Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Cryptographic Methods of Information Security",
+  "discipline_id": 44349,
+  "group_id": "ruz50347",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1146485",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_emails": [
+   "vimezentsev@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3118728",
+    "email": "vimezentsev@hse.ru",
+    "full_name": "Mezencev Vladislav Igorevich",
+    "description": "Преподаватель",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "3dc8dfbb556bb6359e6fded8c9696573e86b628f"
+ },
+ {
+  "id": "1212765",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Practical sessions",
+  "stream": "26_27_М_Ф_С_961621_10#С#Физика",
+  "auditorium_id": 502,
+  "auditorium": "106",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-24T13:20:00Z",
+  "date_end": "2026-10-24T14:40:00Z",
+  "created_at": "2026-05-26T12:33:45Z",
+  "updated_at": "2026-08-21T16:44:30Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Physics",
+  "discipline_id": 45379,
+  "group_id": "ruz71595",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/961623",
+  "lesson_number_start": 5,
+  "lesson_number_end": 5,
+  "duration": [
+   5
+  ],
+  "lecturer_emails": [
+   "nlekomtsev@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk2736413",
+    "email": "nlekomtsev@hse.ru",
+    "full_name": "Lekomtsev Nikita Vladimirovich",
+    "description": "Ассистент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/2736413-8602272c-4fde-4937-b98e-c53e98e8a572.jpeg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Practical sessions",
+  "is_ban": false,
+  "hash": "92360e228ef332250caa43377b32384f6535bac4"
+ }
+]

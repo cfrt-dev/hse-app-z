@@ -1,0 +1,45 @@
+{
+ "id": "lk3090238",
+ "full_name": "Kinderkneht Yana Anatolevna",
+ "birth_date": "0000-11-14",
+ "email": "yakinderknecht@hse.ru",
+ "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+ "description": "Профессор",
+ "has_phone": false,
+ "type": "STAFF",
+ "names": {
+  "last_name": "Kinderkneht",
+  "first_name": "Yana",
+  "middle_name": "Anatolevna"
+ },
+ "is_timetable_available": true,
+ "is_subordinates_available": false,
+ "staff_address": [
+  {
+   "label": "Москва, Таллинская ул., д. 34, room 422",
+   "room_code": "422",
+   "is_main": true,
+   "phone_internal_ext": null,
+   "phone_internal_full": null,
+   "campus": "CAMPUS_MOS"
+  }
+ ],
+ "staff_positions": [
+  {
+   "unit_name": "Учебные подразделения → Московский институт электроники и математики им. А.Н. Тихонова → Учебные подразделения → Департамент прикладной математики",
+   "unit_id": 1130,
+   "is_main": true,
+   "position_name": "Профессор",
+   "chief": {
+    "id": "lk3615",
+    "full_name": "Belov Aleksandr Vladimirovich",
+    "birth_date": "0000-01-22",
+    "email": "avbelov@hse.ru",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/97583.jpg",
+    "description": "Профессор",
+    "has_phone": true,
+    "type": "STAFF"
+   }
+  }
+ ]
+}

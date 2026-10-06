@@ -1,0 +1,1465 @@
+[
+ {
+  "id": "1465017",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_Г_Г_1251194_3#Г#Геометрия",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-05T08:10:00Z",
+  "date_end": "2026-10-05T09:30:00Z",
+  "created_at": "2026-08-26T12:46:57Z",
+  "updated_at": "2026-08-26T12:46:57Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Geometry",
+  "discipline_id": 48443,
+  "group_id": "ruz75112",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1251195",
+  "lesson_number_start": 2,
+  "lesson_number_end": 2,
+  "duration": [
+   2
+  ],
+  "lecturer_emails": [
+   "izahariev@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk4482",
+    "email": "izahariev@hse.ru",
+    "full_name": "Zaharev Ivan Yurevich",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/121277.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "e39931bc6145b98e576829949569952852344d06"
+ },
+ {
+  "id": "1549003",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ДУ_Г_1116209_4#Г#Дифференциальные уравнения",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-05T10:00:00Z",
+  "date_end": "2026-10-05T11:20:00Z",
+  "created_at": "2026-09-14T13:37:54Z",
+  "updated_at": "2026-09-14T13:37:54Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Differential Equations",
+  "discipline_id": 47447,
+  "group_id": "ruz60882",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1116210",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_emails": [
+   "ngayanov@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk775116",
+    "email": "ngayanov@hse.ru",
+    "full_name": "Gaianov Nikita Vladimirovich",
+    "description": "Ассистент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/775116-0e59b6aa-ee7d-4812-8624-b1f6c0cd46c2.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "e4ff72362dc5a172d0f00a60890387b7eee4e061"
+ },
+ {
+  "id": "1241855",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ОП_Г_1121452_3#Г#Объектно-ориентированное программирование",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-05T11:40:00Z",
+  "date_end": "2026-10-05T13:00:00Z",
+  "created_at": "2026-05-29T15:49:29Z",
+  "updated_at": "2026-05-29T15:49:29Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Object-Oriented Programming",
+  "discipline_id": 48216,
+  "group_id": "ruz64639",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1121453",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "elezhnev@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk5311",
+    "email": "elezhnev@hse.ru",
+    "full_name": "Lezhnev Evgeniy Vladimirovich",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/111423.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "ed4ef2bf7de3e0db2bb0c7c0db0ee63d3db1b2e0"
+ },
+ {
+  "id": "1241869",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ОП_Г_1121452_1#Г#Объектно-ориентированное программирование",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-05T13:20:00Z",
+  "date_end": "2026-10-05T14:40:00Z",
+  "created_at": "2026-05-29T15:51:04Z",
+  "updated_at": "2026-05-29T15:51:05Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Object-Oriented Programming",
+  "discipline_id": 48216,
+  "group_id": "ruz64637",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1121453",
+  "lesson_number_start": 5,
+  "lesson_number_end": 5,
+  "duration": [
+   5
+  ],
+  "lecturer_emails": [
+   "elezhnev@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk5311",
+    "email": "elezhnev@hse.ru",
+    "full_name": "Lezhnev Evgeniy Vladimirovich",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/111423.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "b844095e61b2803e23fc665ec139b3874348d35a"
+ },
+ {
+  "id": "1241885",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ОП_Г_1121452_4#Г#Объектно-ориентированное программирование",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-05T15:10:00Z",
+  "date_end": "2026-10-05T16:30:00Z",
+  "created_at": "2026-05-29T15:51:44Z",
+  "updated_at": "2026-05-29T15:51:45Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Object-Oriented Programming",
+  "discipline_id": 48216,
+  "group_id": "ruz64640",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1121453",
+  "lesson_number_start": 6,
+  "lesson_number_end": 6,
+  "duration": [
+   6
+  ],
+  "lecturer_emails": [
+   "elezhnev@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk5311",
+    "email": "elezhnev@hse.ru",
+    "full_name": "Lezhnev Evgeniy Vladimirovich",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/111423.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "a7345e7e0c803d6a5168906f706b5744ab8b2ed6"
+ },
+ {
+  "id": "1151446",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_Э_Г_1111896_9#Г#Экономика",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-06T08:10:00Z",
+  "date_end": "2026-10-06T09:30:00Z",
+  "created_at": "2026-05-19T16:46:41Z",
+  "updated_at": "2026-05-19T16:46:41Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Economics",
+  "discipline_id": 44702,
+  "group_id": "ruz50176",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1111897",
+  "lesson_number_start": 2,
+  "lesson_number_end": 2,
+  "duration": [
+   2
+  ],
+  "lecturer_emails": [
+   "elapteva@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk2779796",
+    "email": "elapteva@hse.ru",
+    "full_name": "Lapteva Evgeniia Vitalevna",
+    "description": "Преподаватель",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/2779796-4d933dc4-560b-41c3-a7a4-3daea6576015.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "fd8fd0df0eaae58883360d6f01ef62dd35f66ec2"
+ },
+ {
+  "id": "1136047",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_Ф_Г_961621_3#Г#Физика",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-06T10:00:00Z",
+  "date_end": "2026-10-06T11:20:00Z",
+  "created_at": "2026-05-18T13:34:52Z",
+  "updated_at": "2026-05-18T13:34:52Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Physics",
+  "discipline_id": 45379,
+  "group_id": "ruz71589",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/961623",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_emails": [
+   "anprihodko@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk25442",
+    "email": "anprihodko@hse.ru",
+    "full_name": "Prikhodko Anatoliy Nikolaevich",
+    "description": "Ст. преподаватель",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/25442-0c50e7bf-4d44-4388-ac0f-7d7f95960ec4.jpeg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "43e1be38811daa8f57dc267b81954efd080c6aaf"
+ },
+ {
+  "id": "1122693",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ФА_Г_952326_3#Г#Функциональный анализ",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-06T11:40:00Z",
+  "date_end": "2026-10-06T13:00:00Z",
+  "created_at": "2026-05-15T11:22:28Z",
+  "updated_at": "2026-05-15T11:22:28Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Functional Analysis",
+  "discipline_id": 44274,
+  "group_id": "ruz49396",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/952328",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "aparusnikova@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3718",
+    "email": "aparusnikova@hse.ru",
+    "full_name": "Parusnikova Anastasiya Vladimirovna",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/93739.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "f7d1a0d2bfdcc75c6e6d85355477f603039b0cdb"
+ },
+ {
+  "id": "1122683",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ФА_Г_952326_4#Г#Функциональный анализ",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-06T13:20:00Z",
+  "date_end": "2026-10-06T14:40:00Z",
+  "created_at": "2026-05-15T11:22:06Z",
+  "updated_at": "2026-05-15T11:22:06Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Functional Analysis",
+  "discipline_id": 44274,
+  "group_id": "ruz60947",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/952328",
+  "lesson_number_start": 5,
+  "lesson_number_end": 5,
+  "duration": [
+   5
+  ],
+  "lecturer_emails": [
+   "aparusnikova@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3718",
+    "email": "aparusnikova@hse.ru",
+    "full_name": "Parusnikova Anastasiya Vladimirovna",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/93739.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "3efdb38f4bed2e8d1a548b01abe0ef8cd876efeb"
+ },
+ {
+  "id": "1602599",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Lecture",
+  "stream": "26_27_М_СNИБЯМ_П_1201862_1#П#Современный NLP и большие языковые модели",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-06T15:10:00Z",
+  "date_end": "2026-10-06T16:30:00Z",
+  "created_at": "2026-09-29T14:49:42Z",
+  "updated_at": "2026-09-29T14:50:22Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Modern Natural Language Processing and Large Language Models",
+  "discipline_id": 49918,
+  "group_id": "ruz70187",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1201863",
+  "lesson_number_start": 6,
+  "lesson_number_end": 6,
+  "duration": [
+   6
+  ],
+  "lecturer_emails": [
+   "sslastnikov@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk4797",
+    "email": "sslastnikov@hse.ru",
+    "full_name": "Slastnikov Sergey Aleksandrovich",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/4797-3d8f1418-f597-4c15-82a8-25f41c18d665.jpeg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Lecture",
+  "is_ban": false,
+  "hash": "983c6366994e563b650f320aacf9b08edadceba5"
+ },
+ {
+  "id": "1602606",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_СNИБЯМ_Г_1201862_1#Г#Современный NLP и большие языковые модели",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-06T16:40:00Z",
+  "date_end": "2026-10-06T18:00:00Z",
+  "created_at": "2026-09-29T14:50:48Z",
+  "updated_at": "2026-09-29T14:50:48Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Modern Natural Language Processing and Large Language Models",
+  "discipline_id": 49918,
+  "group_id": "ruz70188",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1201863",
+  "lesson_number_start": 7,
+  "lesson_number_end": 7,
+  "duration": [
+   7
+  ],
+  "lecturer_emails": [
+   "sslastnikov@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk4797",
+    "email": "sslastnikov@hse.ru",
+    "full_name": "Slastnikov Sergey Aleksandrovich",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/4797-3d8f1418-f597-4c15-82a8-25f41c18d665.jpeg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "9ed40019983fe9513619bec85402d2aa857151db"
+ },
+ {
+  "id": "1493361",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Practical sessions",
+  "stream": "26_27_М_ПМАДПСИС_С_1119998_1#С#Прикладные методы анализа данных при создании информационно-аналитиче",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-07T08:10:00Z",
+  "date_end": "2026-10-07T09:30:00Z",
+  "created_at": "2026-08-31T13:52:06Z",
+  "updated_at": "2026-08-31T13:52:06Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Data Analysis Applications in the Development of Analytical Information Systems",
+  "discipline_id": 48249,
+  "group_id": "ruz64622",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1119999",
+  "lesson_number_start": 2,
+  "lesson_number_end": 2,
+  "duration": [
+   2
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "ruz31303",
+    "full_name": "Вак_новиков Роман Сергеевич",
+    "description": "Доцент"
+   }
+  ],
+  "kindOfWork": "Practical sessions",
+  "is_ban": false,
+  "hash": "02710b515213fce4d5d491c5bcd57f870243c01f"
+ },
+ {
+  "id": "1493365",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Practical sessions",
+  "stream": "26_27_М_ПМАДПСИС_С_1119998_2#С#Прикладные методы анализа данных при создании информационно-аналитиче",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-07T10:00:00Z",
+  "date_end": "2026-10-07T11:20:00Z",
+  "created_at": "2026-08-31T13:52:25Z",
+  "updated_at": "2026-08-31T13:52:25Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Data Analysis Applications in the Development of Analytical Information Systems",
+  "discipline_id": 48249,
+  "group_id": "ruz64623",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1119999",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "ruz31303",
+    "full_name": "Вак_новиков Роман Сергеевич",
+    "description": "Доцент"
+   }
+  ],
+  "kindOfWork": "Practical sessions",
+  "is_ban": false,
+  "hash": "fc796dd86009bc76dfbe6614a45e2aa9ca225186"
+ },
+ {
+  "id": "1170535",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Lecture",
+  "stream": "26_27_М_СВСИУИИ_П_1140493_1#П#Схемотехника вычислительных систем и устройств искусственного интеллек",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-07T15:10:00Z",
+  "date_end": "2026-10-07T16:30:00Z",
+  "created_at": "2026-05-21T12:10:33Z",
+  "updated_at": "2026-05-21T12:10:33Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Circuit Design of Computer Systems and Artificial Intelligence Devices",
+  "discipline_id": 48329,
+  "group_id": "ruz64378",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1140494",
+  "lesson_number_start": 6,
+  "lesson_number_end": 6,
+  "duration": [
+   6
+  ],
+  "lecturer_emails": [
+   "akonovalcev@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk2707948",
+    "email": "akonovalcev@hse.ru",
+    "full_name": "Konovalcev Anton Vyacheslavovich",
+    "description": "Ст. преподаватель",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Lecture",
+  "is_ban": false,
+  "hash": "f6152ec753635e35ab0ae18c693f3290418d4137"
+ },
+ {
+  "id": "1170600",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_СВСИУИИ_Г_1140493_1#Г#Схемотехника вычислительных систем и устройств искусственного интеллек",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-07T16:40:00Z",
+  "date_end": "2026-10-07T18:00:00Z",
+  "created_at": "2026-05-21T12:11:44Z",
+  "updated_at": "2026-05-21T12:11:44Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Circuit Design of Computer Systems and Artificial Intelligence Devices",
+  "discipline_id": 48329,
+  "group_id": "ruz64379",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1140494",
+  "lesson_number_start": 7,
+  "lesson_number_end": 7,
+  "duration": [
+   7
+  ],
+  "lecturer_emails": [
+   "akonovalcev@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk2707948",
+    "email": "akonovalcev@hse.ru",
+    "full_name": "Konovalcev Anton Vyacheslavovich",
+    "description": "Ст. преподаватель",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "455caef34d4989d7542572ae3785cd4a9231cc92"
+ },
+ {
+  "id": "1064201",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Practical sessions",
+  "stream": "26_27_М_АЯДОКЦОК-1_С_1121012_63#С#Английский язык для общих коммуникативных целей. Основной курс - 1",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-08T06:30:00Z",
+  "date_end": "2026-10-08T07:50:00Z",
+  "created_at": "2026-04-30T11:55:39Z",
+  "updated_at": "2026-09-08T18:56:57Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "English for General Communication Purposes. Upper-Intermediate Course - 1",
+  "discipline_id": 44486,
+  "group_id": "ruz57936",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1121013",
+  "lesson_number_start": 1,
+  "lesson_number_end": 1,
+  "duration": [
+   1
+  ],
+  "lecturer_emails": [
+   "iamartynova@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk2986235",
+    "email": "iamartynova@hse.ru",
+    "full_name": "Martynova Irina Anatolevna",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/2986235-79e4604f-6621-4082-9de7-8e3e7bef6f20.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Practical sessions",
+  "is_ban": false,
+  "hash": "998658660462541abdde84837db5eadde0ee432d"
+ },
+ {
+  "id": "1580786",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_АИП(К_Г_1271255_6#Г#Алгоритмизация и программирование (углубленный курс)",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-08T08:10:00Z",
+  "date_end": "2026-10-08T09:30:00Z",
+  "created_at": "2026-09-22T15:45:43Z",
+  "updated_at": "2026-09-22T15:45:43Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Algorithmization and Programming (Advanced Course)",
+  "discipline_id": 53111,
+  "group_id": "ruz88767",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1271256",
+  "lesson_number_start": 2,
+  "lesson_number_end": 2,
+  "duration": [
+   2
+  ],
+  "lecturer_emails": [
+   "aneklyudov@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090220",
+    "email": "aneklyudov@hse.ru",
+    "full_name": "Neklyudov Aleksey Alekseevich",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090220-f30b19ef-c76a-452e-b05b-ca30f1bc3c83.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "2e3932c9e4cd13859db4608932b31329b9844411"
+ },
+ {
+  "id": "1064209",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Practical sessions",
+  "stream": "26_27_М_АЯДОКЦОК-1_С_1121012_67#С#Английский язык для общих коммуникативных целей. Основной курс - 1",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-08T10:00:00Z",
+  "date_end": "2026-10-08T11:20:00Z",
+  "created_at": "2026-04-30T11:55:39Z",
+  "updated_at": "2026-10-04T18:48:59Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "English for General Communication Purposes. Upper-Intermediate Course - 1",
+  "discipline_id": 44486,
+  "group_id": "ruz57940",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1121013",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_emails": [
+   "iamartynova@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk2986235",
+    "email": "iamartynova@hse.ru",
+    "full_name": "Martynova Irina Anatolevna",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/2986235-79e4604f-6621-4082-9de7-8e3e7bef6f20.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Practical sessions",
+  "is_ban": false,
+  "hash": "3d1a693f7afa3257aef98de31b2d2b3836861aaa"
+ },
+ {
+  "id": "1362414",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Practical sessions",
+  "stream": "26_27_М_АЯДОКЦОК-1_С_1121012_68#С#Английский язык для общих коммуникативных целей. Основной курс - 1",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-08T11:40:00Z",
+  "date_end": "2026-10-08T13:00:00Z",
+  "created_at": "2026-07-28T21:45:40Z",
+  "updated_at": "2026-09-02T13:53:58Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "English for General Communication Purposes. Upper-Intermediate Course - 1",
+  "discipline_id": 44486,
+  "group_id": "ruz57941",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1121013",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "tpitra@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk1397",
+    "email": "tpitra@hse.ru",
+    "full_name": "Pitra Tatiana Georgievna",
+    "description": "Преподаватель",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/149462.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Practical sessions",
+  "is_ban": false,
+  "hash": "d799f8fdd32bb36988516568084ab7c85f17ea17"
+ },
+ {
+  "id": "1249429",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Lecture",
+  "stream": "26_27_М_ВВI_П_1216076_1#П#Введение в IoT/CPS",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-08T15:10:00Z",
+  "date_end": "2026-10-08T16:30:00Z",
+  "created_at": "2026-06-01T15:14:29Z",
+  "updated_at": "2026-09-24T11:03:48Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Introduction to IoT/CPS",
+  "discipline_id": 48623,
+  "group_id": "ruz66962",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1216077",
+  "lesson_number_start": 6,
+  "lesson_number_end": 6,
+  "duration": [
+   6
+  ],
+  "stream_links": [
+   {
+    "link": "https://telemost.yandex.ru/j/88705648092192",
+    "description": "https://telemost.yandex.ru/j/88705648092192"
+   }
+  ],
+  "lecturer_emails": [
+   "iagamirzian@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk5388",
+    "email": "iagamirzian@hse.ru",
+    "full_name": "Agamirzyan Igor Rubenovich",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/5388-174c07f8-06b5-4119-a11c-85af17076ff0.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Lecture",
+  "is_ban": false,
+  "hash": "5966dac6a3ebc2d121135689b257c2a2931f10a1"
+ },
+ {
+  "id": "1249552",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ВВI_Г_1216076_1#Г#Введение в IoT/CPS",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-08T16:40:00Z",
+  "date_end": "2026-10-08T18:00:00Z",
+  "created_at": "2026-06-01T15:14:46Z",
+  "updated_at": "2026-09-24T11:04:04Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Introduction to IoT/CPS",
+  "discipline_id": 48623,
+  "group_id": "ruz66963",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1216077",
+  "lesson_number_start": 7,
+  "lesson_number_end": 7,
+  "duration": [
+   7
+  ],
+  "stream_links": [
+   {
+    "link": "https://telemost.yandex.ru/j/88705648092192",
+    "description": "https://telemost.yandex.ru/j/88705648092192"
+   }
+  ],
+  "lecturer_emails": [
+   "iagamirzian@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk5388",
+    "email": "iagamirzian@hse.ru",
+    "full_name": "Agamirzyan Igor Rubenovich",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/5388-174c07f8-06b5-4119-a11c-85af17076ff0.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "e65f3394e699d99d847ec9b4c40510b6b33c3555"
+ },
+ {
+  "id": "1587955",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_АИГ(К_Г_1271253_1#Г#Алгебра и геометрия (углубленный курс)",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-09T06:30:00Z",
+  "date_end": "2026-10-09T07:50:00Z",
+  "created_at": "2026-09-24T11:54:33Z",
+  "updated_at": "2026-09-24T11:54:33Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Algebra and Geometry (Advanced Course)",
+  "discipline_id": 53120,
+  "group_id": "ruz88861",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1271254",
+  "lesson_number_start": 1,
+  "lesson_number_end": 1,
+  "duration": [
+   1
+  ],
+  "lecturer_emails": [
+   "apresnova@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk5596",
+    "email": "apresnova@hse.ru",
+    "full_name": "Presnova Anna Pavlovna",
+    "description": "Доцент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/5596-7522ef56-6bcb-4a4a-bc4c-c59c530fc716.jpeg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "ba16cc1c3f57253962b2da0f8ce1abd653845acd"
+ },
+ {
+  "id": "1224347",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_Э_Г_1111896_37#Г#Экономика",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-09T10:00:00Z",
+  "date_end": "2026-10-09T11:20:00Z",
+  "created_at": "2026-05-27T10:17:58Z",
+  "updated_at": "2026-05-27T10:17:59Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Economics",
+  "discipline_id": 44702,
+  "group_id": "ruz52596",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1111897",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_emails": [
+   "azhigaylov@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk8369",
+    "email": "azhigaylov@hse.ru",
+    "full_name": "Zhigailov Aleksandr Dmitrievich",
+    "description": "Ассистент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/8369-84572eb9-3297-4daa-a66e-2d981fb65ed1.jpeg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "1ae5be4874af65fb3eac9a1450869c5ab661d160"
+ },
+ {
+  "id": "1224355",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_Э_Г_1111896_38#Г#Экономика",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-09T11:40:00Z",
+  "date_end": "2026-10-09T13:00:00Z",
+  "created_at": "2026-05-27T10:19:18Z",
+  "updated_at": "2026-05-27T10:19:18Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Economics",
+  "discipline_id": 44702,
+  "group_id": "ruz52597",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1111897",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "azhigaylov@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk8369",
+    "email": "azhigaylov@hse.ru",
+    "full_name": "Zhigailov Aleksandr Dmitrievich",
+    "description": "Ассистент",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/8369-84572eb9-3297-4daa-a66e-2d981fb65ed1.jpeg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "4af1b9971f640ed7ae8970a15a61e1b739c39c55"
+ },
+ {
+  "id": "1162132",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Lecture",
+  "stream": "26_27_М_МНА_П_1131550_1#П#Методы некоммутативного анализа",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-09T13:20:00Z",
+  "date_end": "2026-10-09T14:40:00Z",
+  "created_at": "2026-05-20T14:08:35Z",
+  "updated_at": "2026-05-20T14:08:35Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Methods of Noncommutative Analysis",
+  "discipline_id": 49533,
+  "group_id": "ruz71153",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1131551",
+  "lesson_number_start": 5,
+  "lesson_number_end": 5,
+  "duration": [
+   5
+  ],
+  "lecturer_emails": [
+   "emnovikova@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3715",
+    "email": "emnovikova@hse.ru",
+    "full_name": "Novikova Elena Mihaylovna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3715-9660b447-6f35-4a09-b792-2940e0c3f934.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Lecture",
+  "is_ban": false,
+  "hash": "76c9c2cf7cadd56c403d54f9b7f2b3ffa5c460f1"
+ },
+ {
+  "id": "1162139",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_МНА_Г_1131550_1#Г#Методы некоммутативного анализа",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-09T15:10:00Z",
+  "date_end": "2026-10-09T16:30:00Z",
+  "created_at": "2026-05-20T14:08:45Z",
+  "updated_at": "2026-05-20T14:08:45Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Methods of Noncommutative Analysis",
+  "discipline_id": 49533,
+  "group_id": "ruz71154",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1131551",
+  "lesson_number_start": 6,
+  "lesson_number_end": 6,
+  "duration": [
+   6
+  ],
+  "lecturer_emails": [
+   "emnovikova@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3715",
+    "email": "emnovikova@hse.ru",
+    "full_name": "Novikova Elena Mihaylovna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3715-9660b447-6f35-4a09-b792-2940e0c3f934.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "b52cd5b865ec819cb203fdfdbda3dab3d2334ec3"
+ },
+ {
+  "id": "1544012",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ОС_Г_1149630_2#Г#Операционные системы",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-10T08:10:00Z",
+  "date_end": "2026-10-10T09:30:00Z",
+  "created_at": "2026-09-11T14:45:14Z",
+  "updated_at": "2026-09-11T14:45:14Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Operating Systems",
+  "discipline_id": 45467,
+  "group_id": "ruz65960",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1149631",
+  "lesson_number_start": 2,
+  "lesson_number_end": 2,
+  "duration": [
+   2
+  ],
+  "lecturer_emails": [
+   "onekrasova@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3118525",
+    "email": "onekrasova@hse.ru",
+    "full_name": "Nekrasova Olga Igorevna",
+    "description": "Ст. преподаватель",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3118525-06a501bf-4d0c-4d72-8c06-3df69ce0cd21.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "8b7851e73647800b8ba214e53e8b0f81c3aef2b6"
+ },
+ {
+  "id": "1447099",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_АИГ_Г_1146474_5#Г#Алгебра и геометрия",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-10T11:40:00Z",
+  "date_end": "2026-10-10T13:00:00Z",
+  "created_at": "2026-08-21T11:59:30Z",
+  "updated_at": "2026-08-21T11:59:30Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Algebra and Geometry",
+  "discipline_id": 47448,
+  "group_id": "ruz78980",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1146475",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "olga.li@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk2801409",
+    "email": "olga.li@hse.ru",
+    "full_name": "Li Olga Valentinovna",
+    "description": "Ст. преподаватель",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "7dcfdc44e2926077d8af88720716d1ad37a5c984"
+ },
+ {
+  "id": "1157071",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_БОС_Г_1152892_4#Г#Безопасность операционных систем",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-10T13:20:00Z",
+  "date_end": "2026-10-10T14:40:00Z",
+  "created_at": "2026-05-20T10:42:13Z",
+  "updated_at": "2026-09-23T16:06:07Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Operation Systems Security",
+  "discipline_id": 44567,
+  "group_id": "ruz50561",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1152893",
+  "lesson_number_start": 5,
+  "lesson_number_end": 5,
+  "duration": [
+   5
+  ],
+  "lecturer_emails": [
+   "ulevkina@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk2836506",
+    "email": "ulevkina@hse.ru",
+    "full_name": "Levkina Ulyana Sergeevna",
+    "description": "Преподаватель",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "22ef44f81b51ecd70f7687271a1ee29ac5599b08"
+ },
+ {
+  "id": "1447093",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_АИГ_Г_1146474_5#Г#Алгебра и геометрия",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-10T15:10:00Z",
+  "date_end": "2026-10-10T16:30:00Z",
+  "created_at": "2026-08-21T11:59:01Z",
+  "updated_at": "2026-10-01T11:30:42Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Algebra and Geometry",
+  "discipline_id": 47448,
+  "group_id": "ruz78980",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1146475",
+  "lesson_number_start": 6,
+  "lesson_number_end": 6,
+  "duration": [
+   6
+  ],
+  "lecturer_emails": [
+   "olga.li@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk2801409",
+    "email": "olga.li@hse.ru",
+    "full_name": "Li Olga Valentinovna",
+    "description": "Ст. преподаватель",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "b6c1cb769050350df1318a2f6defbad411c11192"
+ }
+]

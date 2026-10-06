@@ -1,0 +1,142 @@
+[
+ {
+  "id": 2592,
+  "category": "/ELK_YA-STUDENT_DOOR/ELK_Elementi-prakt-podgotovki_DOOR",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2592_aaeaea22f1c825b5.png",
+  "name": "Elements of Practical Training",
+  "description": "Application for an internship, term paper, graduation thesis, HSE Project Fair, plagiarism check, catalog of thesis papers of HSE students"
+ },
+ {
+  "id": 2593,
+  "category": "/ELK_YA-STUDENT_DOOR/ELK_Stipendii_DOOR",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2593_0b3ab2d9397a8e24.png",
+  "name": "Scholarships",
+  "description": "Application for a scholarship, including increased scholarship and state bursary"
+ },
+ {
+  "id": 2661,
+  "category": "/ELK_YA-STUDENT_DOOR/ELK_Skidki&Budget_DOOR",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2661_0b3ab2d9397a8e24.png",
+  "name": "Tuitition Discount and Transfer to the State-Funded Place",
+  "description": "Application for a discount and for a transfer to the state-funded place"
+ },
+ {
+  "id": 2598,
+  "category": "/ELK_YA-STUDENT_DOOR/ELK_STUDOTSENKA_DOOR",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2598_87d339199bf3a5db.png",
+  "name": "Feedback on the Learning Process",
+  "description": "Student evaluation of teaching quality, course assessment"
+ },
+ {
+  "id": 2662,
+  "category": "/ELK_YA-STUDENT_DOOR/ELK_YASTUDENT-SOCIAL_DOOR",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2662_55682eacf5fb7162.png",
+  "name": "Social Sphere",
+  "description": "Social Transport Card, vacation vouchers, fitness club loyalty programmes"
+ },
+ {
+  "id": 2585,
+  "url": "https://lms.hse.ru/index.php?page=portfolio",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2585_595416e4af47898d.png",
+  "name": "Portfolio",
+  "description": "My achievements"
+ },
+ {
+  "id": 2587,
+  "url": "https://edu.hse.ru/my/",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2587_aaeaea22f1c825b5.png",
+  "name": "My Courses",
+  "description": "My courses at Smart LMS"
+ },
+ {
+  "id": 2684,
+  "url": "https://smartpro.hse.ru/",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2684_aaeaea22f1c825b5.png",
+  "name": "SmartPro.Project Expo",
+  "description": "Research and applied projects"
+ },
+ {
+  "id": 2588,
+  "url": "https://courseselect.hse.ru/",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2588_aaeaea22f1c825b5.png",
+  "name": "LearningTrajectory Selection",
+  "description": "Selection of elective courses"
+ },
+ {
+  "id": 2589,
+  "url": "https://lk.hse.ru/student-services",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2589_aaeaea22f1c825b5.png",
+  "name": "Student Service Centre",
+  "description": "Ordering certificates and other documents, submittitng applications"
+ },
+ {
+  "id": 2590,
+  "url": "https://library.hse.ru/e-resources",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2590_70cc646c6e28711b.png",
+  "name": "Digital Library",
+  "description": "Electronic library resources, e-library, databases, e-books"
+ },
+ {
+  "id": 2591,
+  "url": "https://www.hse.ru/studyspravka/",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2591_70cc646c6e28711b.png",
+  "name": "HSE Academic Handbook",
+  "description": "Everything about the learning process"
+ },
+ {
+  "id": 2611,
+  "url": "https://www.hse.ru/edu/courses/",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2611_259ffd2646f97e98.png",
+  "name": "Course Сatalog",
+  "description": "All courses and continuing education programmes at HSE"
+ },
+ {
+  "id": 2621,
+  "url": "https://istudy.hse.ru/vbm-applications",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2621_aaeaea22f1c825b5.png",
+  "name": "Transfer to the State-Funded Place",
+  "description": "Application for a transfer from fee-paying basis to state-funded basis place"
+ },
+ {
+  "id": 2607,
+  "url": "https://www.hse.ru/news/announcements/?mode=expand&subscribe=1",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2607_8cd4474c3a483a7e.png",
+  "name": "HSE Event Announcements",
+  "description": "Subscribe to announcements of HSE events of interest"
+ },
+ {
+  "id": 2608,
+  "url": "https://lk.hse.ru/user-suggestions",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2119_a11a753276a52aed.png",
+  "name": "Feedback Hotline",
+  "description": "Report a problem, send feedback, complaint, suggestion"
+ },
+ {
+  "id": 2596,
+  "url": "https://www.hse.ru/medical/",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2596_6b7789e441ddda3c.png",
+  "name": "Medical Care",
+  "description": "Everything about medical care at HSE"
+ },
+ {
+  "id": 2609,
+  "url": "http://window-lms.hse.ru/",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2609_3432292134069e92.png",
+  "name": "Application \"International Exchange Programs\"",
+  "description": "Application for international academic exchange programs"
+ },
+ {
+  "id": 2610,
+  "url": "https://istudy.hse.ru/student-graduation-info",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2610_aaeaea22f1c825b5.png",
+  "name": "Graduation Module",
+  "description": "Service for graduate students on confirmation of diplomas and other data"
+ },
+ {
+  "id": 2667,
+  "url": "https://pmo.hse.ru/servicedesk/customer/portal/137",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2667_8b551825491ea63a.png",
+  "name": "Center for Management of the Educational Process of the Faculty of Law",
+  "description": "Submit an application, request or ask a question to the Center for Management of the Educational Process of the Faculty of Law"
+ }
+]

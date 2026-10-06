@@ -1,0 +1,70 @@
+[
+ {
+  "id": 2582,
+  "category": "/ELK_YA-STUDENT_DOOR",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2582_aaeaea22f1c825b5.png",
+  "name": "I am a Student",
+  "description": "Students services"
+ },
+ {
+  "id": 2986,
+  "category": "/ELK  - ELK_CSS_DOOR",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2986_a11a753276a52aed.png",
+  "name": "Student Service"
+ },
+ {
+  "id": 2948,
+  "category": "/ELK - ELK_EXTRA_DOOR",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2948_55682eacf5fb7162.png",
+  "name": "EXTRA",
+  "description": "Services for students related to extracurricular activities"
+ },
+ {
+  "id": 1938,
+  "category": "/ELK_Telework-Line_AllUsers",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/1938_5e798e5d97b6628b.png",
+  "name": "Digital Services Hotline",
+  "description": "IT services technical support, helpdesk"
+ },
+ {
+  "id": 2031,
+  "url": "https://lms.hse.ru/elk_login.php?role=student&elk_lms_url=https://lms.hse.ru/yii_index.php%3Fr=rt/hse-rt-student-event-list",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2031_2cdcfae5bad2eb92.png",
+  "name": "Rate your courses",
+  "description": "Student assessment of teachers and disciplines"
+ },
+ {
+  "id": 1786,
+  "category": "/ELK_ADM_AllUsers",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/1786_e0e157df31301a45.png",
+  "name": "Administrative services",
+  "description": "IT, HR, maintenance, financial and other services"
+ },
+ {
+  "id": 1796,
+  "category": "/ELK_EDU_AllUsers",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/1796_aaeaea22f1c825b5.png",
+  "name": "Education and Learning",
+  "description": "Degree and additional education, employee learning, online education, and student support"
+ },
+ {
+  "id": 2483,
+  "category": "/BPM - ELK_SocialNEW_global_Door-Users",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2483_55682eacf5fb7162.png",
+  "name": "Social services"
+ },
+ {
+  "id": 1897,
+  "category": "/ELK_SCI_AllUsers",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/1897_dfabd6ae6d3f1a21.png",
+  "name": "Scientific services",
+  "description": "Academic allowances, scientific fund competitions, academic personnel reserve"
+ },
+ {
+  "id": 2043,
+  "category": "/BPM - PORTAL_EVENT-SUBSCRIBE_AllUsers",
+  "icon": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/icons/service/2043_22133175e0d0738d.png",
+  "name": "Events",
+  "description": "Subscribe to event announcements"
+ }
+]

@@ -1,0 +1,639 @@
+[
+ {
+  "id": "1103732",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Lecture",
+  "stream": "26_27_М_ТВИМС_П_1159405_1#П#Теория вероятностей и математическая статистика",
+  "auditorium_id": 549,
+  "auditorium": "412",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-06T08:10:00Z",
+  "date_end": "2026-10-06T09:30:00Z",
+  "created_at": "2026-05-12T13:20:23Z",
+  "updated_at": "2026-09-08T16:55:18Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz66024",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 2,
+  "lesson_number_end": 2,
+  "duration": [
+   2
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Lecture",
+  "is_ban": false,
+  "hash": "582bb1dca604e5d20532b34ee84c9d6eaa92b8b8"
+ },
+ {
+  "id": "1103772",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ТВИМС_Г_1159405_2#Г#Теория вероятностей и математическая статистика",
+  "auditorium_id": 533,
+  "auditorium": "310",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-06T10:00:00Z",
+  "date_end": "2026-10-06T11:20:00Z",
+  "created_at": "2026-05-12T13:26:09Z",
+  "updated_at": "2026-09-08T16:55:58Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz69308",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "4725b8d49b5da5682a7efeeab07deb9dd2a288d2"
+ },
+ {
+  "id": "1103787",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ТВИМС_Г_1159405_1#Г#Теория вероятностей и математическая статистика",
+  "auditorium_id": 533,
+  "auditorium": "310",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-06T11:40:00Z",
+  "date_end": "2026-10-06T13:00:00Z",
+  "created_at": "2026-05-12T13:26:40Z",
+  "updated_at": "2026-09-08T16:56:35Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz69307",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "29860cb999a6ad7f0714baf685b008a9b5c282a7"
+ },
+ {
+  "id": "1331092",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ТВИМС_Г_1159405_2#Г#Теория вероятностей и математическая статистика",
+  "auditorium_id": 528,
+  "auditorium": "305",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-12T06:30:00Z",
+  "date_end": "2026-10-12T07:50:00Z",
+  "created_at": "2026-07-13T16:41:32Z",
+  "updated_at": "2026-09-08T16:55:58Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz69308",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 1,
+  "lesson_number_end": 1,
+  "duration": [
+   1
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "69a18d80b6cb42f8f3233fcb066b8132015715bb"
+ },
+ {
+  "id": "1331091",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ТВИМС_Г_1159405_1#Г#Теория вероятностей и математическая статистика",
+  "auditorium_id": 528,
+  "auditorium": "305",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-12T08:10:00Z",
+  "date_end": "2026-10-12T09:30:00Z",
+  "created_at": "2026-07-13T16:41:21Z",
+  "updated_at": "2026-09-08T16:58:31Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz69307",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 2,
+  "lesson_number_end": 2,
+  "duration": [
+   2
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "6511dd658c1769c5ac8156c8c39659c8976226c1"
+ },
+ {
+  "id": "1103733",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Lecture",
+  "stream": "26_27_М_ТВИМС_П_1159405_1#П#Теория вероятностей и математическая статистика",
+  "auditorium_id": 549,
+  "auditorium": "412",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-13T08:10:00Z",
+  "date_end": "2026-10-13T09:30:00Z",
+  "created_at": "2026-05-12T13:20:23Z",
+  "updated_at": "2026-09-08T16:55:18Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz66024",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 2,
+  "lesson_number_end": 2,
+  "duration": [
+   2
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Lecture",
+  "is_ban": false,
+  "hash": "225042eaec04fc3a559d6993c3a28087fb5386e3"
+ },
+ {
+  "id": "1103773",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ТВИМС_Г_1159405_2#Г#Теория вероятностей и математическая статистика",
+  "auditorium_id": 533,
+  "auditorium": "310",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-13T10:00:00Z",
+  "date_end": "2026-10-13T11:20:00Z",
+  "created_at": "2026-05-12T13:26:09Z",
+  "updated_at": "2026-09-08T16:55:58Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz69308",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "5ebb8d374377893d3458c3bb5f3e85a4f6765ffd"
+ },
+ {
+  "id": "1103788",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ТВИМС_Г_1159405_1#Г#Теория вероятностей и математическая статистика",
+  "auditorium_id": 533,
+  "auditorium": "310",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-13T11:40:00Z",
+  "date_end": "2026-10-13T13:00:00Z",
+  "created_at": "2026-05-12T13:26:40Z",
+  "updated_at": "2026-09-08T16:56:35Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz69307",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "eeb1c0ea6874c23eb90ebe1a9bddc4127adab9df"
+ },
+ {
+  "id": "1331198",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Research Seminar",
+  "stream": "26_27_М_Н-ИС_Г_1124925_1#Г#Научно - исследовательский семинар",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-19T08:10:00Z",
+  "date_end": "2026-10-19T09:30:00Z",
+  "created_at": "2026-07-13T17:15:19Z",
+  "updated_at": "2026-09-09T11:49:31Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Research Seminar",
+  "discipline_id": 47532,
+  "group_id": "ruz60969",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1124926",
+  "lesson_number_start": 2,
+  "lesson_number_end": 2,
+  "duration": [
+   2
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Research Seminar",
+  "is_ban": false,
+  "hash": "12d11f5b0f455ccba0a77b57189475557c225d4e"
+ },
+ {
+  "id": "1331199",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Research Seminar",
+  "stream": "26_27_М_Н-ИС_Г_1124925_2#Г#Научно - исследовательский семинар",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-19T10:00:00Z",
+  "date_end": "2026-10-19T11:20:00Z",
+  "created_at": "2026-07-13T17:15:28Z",
+  "updated_at": "2026-09-09T11:51:36Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Research Seminar",
+  "discipline_id": 47532,
+  "group_id": "ruz60970",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1124926",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Research Seminar",
+  "is_ban": false,
+  "hash": "e63f81e032796f5f6de4ea30b368481abf6c6cfb"
+ },
+ {
+  "id": "1331200",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Research Seminar",
+  "stream": "26_27_М_Н-ИС_Г_1124925_3#Г#Научно - исследовательский семинар",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-19T11:40:00Z",
+  "date_end": "2026-10-19T13:00:00Z",
+  "created_at": "2026-07-13T17:15:57Z",
+  "updated_at": "2026-09-09T11:52:15Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Research Seminar",
+  "discipline_id": 47532,
+  "group_id": "ruz60971",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1124926",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Research Seminar",
+  "is_ban": false,
+  "hash": "56f12163d611653728c73bc60284e414c6150ecf"
+ },
+ {
+  "id": "1362475",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ТВИМС_Г_1159405_2#Г#Теория вероятностей и математическая статистика",
+  "auditorium_id": 526,
+  "auditorium": "303",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-20T10:00:00Z",
+  "date_end": "2026-10-20T11:20:00Z",
+  "created_at": "2026-07-29T10:04:09Z",
+  "updated_at": "2026-09-08T16:55:58Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz69308",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 3,
+  "lesson_number_end": 3,
+  "duration": [
+   3
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "4ccbdc10bc7f756bb83a40de2a32d5c715bf7c4a"
+ },
+ {
+  "id": "1362476",
+  "building": "34 Tallinskaya st., Moscow",
+  "type": "Seminar",
+  "stream": "26_27_М_ТВИМС_Г_1159405_1#Г#Теория вероятностей и математическая статистика",
+  "auditorium_id": 539,
+  "auditorium": "402",
+  "city": "mos",
+  "time_zone": "Europe/Moscow",
+  "date_start": "2026-10-20T11:40:00Z",
+  "date_end": "2026-10-20T13:00:00Z",
+  "created_at": "2026-07-29T10:04:29Z",
+  "updated_at": "2026-09-08T16:58:31Z",
+  "importance_level": 2,
+  "building_id": 27,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.4099802,
+    55.80343019999999
+   ]
+  },
+  "discipline": "Probability Theory and Mathematical Statistics",
+  "discipline_id": 44917,
+  "group_id": "ruz69307",
+  "discipline_link": "https://www.hse.ru/en/edu/courses/smartplan/1159406",
+  "lesson_number_start": 4,
+  "lesson_number_end": 4,
+  "duration": [
+   4
+  ],
+  "lecturer_emails": [
+   "yakinderknecht@hse.ru"
+  ],
+  "lecturer_profiles": [
+   {
+    "id": "lk3090238",
+    "email": "yakinderknecht@hse.ru",
+    "full_name": "Kinderkneht Yana Anatolevna",
+    "description": "Профессор",
+    "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3090238-53b99131-7ed9-4ba0-8a5a-81d4593c76ac.jpg",
+    "has_phone": false,
+    "type": "STAFF"
+   }
+  ],
+  "kindOfWork": "Seminar",
+  "is_ban": false,
+  "hash": "813f21935d85245d3d756ea50472ca4d047d19ad"
+ }
+]

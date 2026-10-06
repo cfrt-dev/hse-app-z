@@ -1,0 +1,49 @@
+{
+ "id": "lk3615",
+ "full_name": "Belov Aleksandr Vladimirovich",
+ "birth_date": "0000-01-22",
+ "email": "avbelov@hse.ru",
+ "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/97583.jpg",
+ "description": "Профессор",
+ "has_phone": true,
+ "type": "STAFF",
+ "names": {
+  "last_name": "Belov",
+  "first_name": "Aleksandr",
+  "middle_name": "Vladimirovich"
+ },
+ "is_timetable_available": true,
+ "is_subordinates_available": true,
+ "staff_address": [
+  {
+   "label": "Москва, Таллинская ул., д. 34, room 613",
+   "room_code": "613",
+   "is_main": true,
+   "presence_type": "Consultation time",
+   "presence_time": "Еженедельно в четверг с 16-00Подключиться к конференции Zoomhttps://us02web.zoom.us/j/9617694288?pwd=eTdiQTdNUmQxZ1B4VWczMmFVRXNLZz09Идентификатор конференции: 961 769 4288Код доступа: 2tmup5",
+   "phone_internal_ext": "11086",
+   "phone_internal_full": "+7495772-95-90,11086",
+   "campus": "CAMPUS_MOS"
+  }
+ ],
+ "staff_positions": [
+  {
+   "unit_name": "Учебные подразделения → Московский институт электроники и математики им. А.Н. Тихонова → Учебные подразделения → Департамент прикладной математики",
+   "unit_id": 1130,
+   "is_main": true,
+   "position_name": "Профессор"
+  },
+  {
+   "unit_name": "Учебные подразделения → Московский институт электроники и математики им. А.Н. Тихонова → Учебные подразделения → Департамент прикладной математики",
+   "unit_id": 1130,
+   "is_main": false,
+   "position_name": "Руководитель департамента"
+  },
+  {
+   "unit_name": "Учебные подразделения → Московский институт электроники и математики им. А.Н. Тихонова → Учебные подразделения → Департамент прикладной математики",
+   "unit_id": 1130,
+   "is_main": false,
+   "position_name": "Руководитель департамента"
+  }
+ ]
+}

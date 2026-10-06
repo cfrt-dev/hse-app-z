@@ -1,0 +1,91 @@
+{
+ "items": [
+  {
+   "learn_period": "2025/2026 учебный год 2 модуль",
+   "learn_year": "2025/2026",
+   "published_at": "2026-02-25T12:32:17.669+03:00",
+   "title": "Cumulative rating for 2025/2026 academic year (1-2 modules)",
+   "type": "cumul",
+   "learn_program": "Information Security",
+   "faculty": "Московский институт электроники и математики им. А.Н. Тихонова",
+   "group": "БИБ255",
+   "course": 1,
+   "credits": 9,
+   "credits_precise": 9,
+   "discipline_list": [
+    {
+     "discipline": "Algebra and Geometry",
+     "current_rating": 6,
+     "grade": 9
+    },
+    {
+     "discipline": "Safe Living Basics",
+     "current_rating": 1,
+     "grade": 7
+    },
+    {
+     "discipline": "Foundations of Russian Statehood",
+     "current_rating": 2,
+     "grade": 5
+    }
+   ],
+   "degree": "DEGREE_BACHELOR",
+   "campus": "CAMPUS_MOS",
+   "grade_mid": 7,
+   "grade_min": 5,
+   "grade_minor": null,
+   "percentil": 46,
+   "exam_all": 3,
+   "exam3": 0,
+   "exam10": 1,
+   "exam5": 1,
+   "exam7": 1,
+   "examb": 0,
+   "exame": null,
+   "examf": null,
+   "examg": 3,
+   "examn": 0,
+   "examp": null,
+   "examz": 0,
+   "examretake": 0,
+   "examretakegood": 0,
+   "place_curr": 13042,
+   "place_total": 27779,
+   "place_group_op_curr": 63,
+   "place_group_op_total": 133,
+   "place_op_curr": 223,
+   "place_op_course_curr": 63,
+   "place_op_course_total": 133,
+   "place_op_total": 478,
+   "gpa": 7.89,
+   "rating_koef": 1,
+   "rating_norm": 71,
+   "rating_group_norm": 71,
+   "rating_group_koef": 1,
+   "rating": 71
+  }
+ ],
+ "selected_academic_year": "2025/2026",
+ "selected_type": "cumul",
+ "selected_program": 1306560,
+ "available_programs": [
+  {
+   "id": 1306560,
+   "title": "Information Security",
+   "description": "БИБ255, 2 course"
+  }
+ ],
+ "available_types": [
+  "minor",
+  "retake",
+  "cumul",
+  "current"
+ ],
+ "available_module_numbers": [
+  2
+ ],
+ "current_academic_year": "2026/2027",
+ "available_academic_years": [
+  "2025/2026"
+ ]
+}

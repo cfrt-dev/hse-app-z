@@ -1,0 +1,66 @@
+{
+ "cafe_id": "65109fbeb78246260f15bc88",
+ "cafe_name": "Столовая на Таллинской",
+ "opening_hours": [
+  {
+   "day_of_week": "monday",
+   "is_open": true,
+   "start_time": "08:45",
+   "end_time": "19:00"
+  },
+  {
+   "day_of_week": "tuesday",
+   "is_open": true,
+   "start_time": "08:45",
+   "end_time": "19:00"
+  },
+  {
+   "day_of_week": "wednesday",
+   "is_open": true,
+   "start_time": "08:45",
+   "end_time": "19:00"
+  },
+  {
+   "day_of_week": "thursday",
+   "is_open": true,
+   "start_time": "08:45",
+   "end_time": "19:00"
+  },
+  {
+   "day_of_week": "friday",
+   "is_open": true,
+   "start_time": "08:45",
+   "end_time": "19:00"
+  },
+  {
+   "day_of_week": "saturday",
+   "is_open": true,
+   "start_time": "09:00",
+   "end_time": "17:00"
+  },
+  {
+   "day_of_week": "sunday",
+   "is_open": false
+  }
+ ],
+ "closed_dates": [
+  "2026-08-27",
+  "2026-08-28",
+  "2026-08-29",
+  "2026-08-30",
+  "2026-08-31"
+ ],
+ "address": "Ул. Таллинская, д. 34",
+ "coordinates": {
+  "lat": 55.80343019999999,
+  "lng": 37.4099802
+ },
+ "has_menu": true,
+ "photos": [
+  "https://www.hse.ru/pubs/share/direct/212322791.jpg",
+  "https://www.hse.ru/pubs/share/direct/212322805.jpg",
+  "https://www.hse.ru/pubs/share/direct/842944912.jpg",
+  "https://www.hse.ru/pubs/share/direct/843296981.jpg"
+ ],
+ "description": "От главного входа налево, вниз на цокольный этаж, идти прямо"
+}

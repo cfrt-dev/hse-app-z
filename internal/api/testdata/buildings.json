@@ -1,0 +1,7617 @@
+[
+ {
+  "campus": "CAMPUS_MOS",
+  "near": false,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    37.617698,
+    55.755864
+   ]
+  },
+  "buildings": [
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.636376,
+      55.759396
+     ]
+    },
+    "name": "Armyanskiy per., 4, h. 2",
+    "address": "Armyanskiy per., 4, h. 2",
+    "campus": "CAMPUS_MOS",
+    "id": "46",
+    "cafes": [
+     {
+      "cafe_id": "64ed04c9411dc0b2e4890e3d",
+      "cafe_name": "Кофейня на Армянском",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "",
+       "2025-07-01",
+       "2025-07-02",
+       "2025-07-03",
+       "2025-07-04",
+       "2025-07-05",
+       "2025-07-06",
+       "2025-07-07",
+       "2025-07-08",
+       "2025-07-09",
+       "2025-07-10",
+       "2025-07-11",
+       "2025-07-12",
+       "2025-07-13",
+       "2025-07-14",
+       "2025-07-15",
+       "2025-07-16",
+       "2025-07-17",
+       "2025-07-18",
+       "2025-07-19",
+       "2025-07-20",
+       "2025-07-21",
+       "2025-07-22",
+       "2025-07-23",
+       "2025-07-24",
+       "2025-07-25",
+       "2025-07-26",
+       "2025-07-27",
+       "2025-07-28",
+       "2025-07-29",
+       "2025-07-30",
+       "2025-07-31",
+       "2025-08-01",
+       "2025-08-02",
+       "2025-08-03",
+       "2025-08-04",
+       "2025-08-05",
+       "2025-08-06",
+       "2025-08-07",
+       "2025-08-08",
+       "2025-08-09",
+       "2025-08-10",
+       "2025-08-11",
+       "2025-08-12",
+       "2025-08-13",
+       "2025-08-14",
+       "2025-08-15",
+       "2025-08-16",
+       "2025-08-17",
+       "2025-08-18",
+       "2025-08-19",
+       "2025-08-20",
+       "2025-08-21",
+       "2025-08-22",
+       "2025-08-23",
+       "2025-08-24",
+       "2025-08-25",
+       "2025-08-26",
+       "2025-08-27",
+       "2025-08-28",
+       "2025-08-29",
+       "2025-08-30",
+       "2025-08-31"
+      ],
+      "address": "Армянский пер., д.4, стр.2",
+      "coordinates": {
+       "lat": 55.759396,
+       "lng": 37.636376
+      },
+      "has_menu": false,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/818181851.jpg",
+       "https://www.hse.ru/pubs/share/direct/818181856.jpg",
+       "https://www.hse.ru/pubs/share/direct/818181864.jpg"
+      ],
+      "description": "Из вестибюля по лестнице «Б» подняться на второй этаж, вход в кофейню - направо."
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6247039,
+      55.73426199999999
+     ]
+    },
+    "name": "B. Ordynka ul., 47/7, h. 1",
+    "address": "B. Ordynka ul., 47/7, h. 1",
+    "campus": "CAMPUS_MOS",
+    "id": "36",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6254165,
+      55.7343035
+     ]
+    },
+    "name": "B. Ordynka ul., 47/7, h. 2",
+    "address": "B. Ordynka ul., 47/7, h. 2",
+    "campus": "CAMPUS_MOS",
+    "id": "37",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.64656009999999,
+      55.7552971
+     ]
+    },
+    "name": "B. Trekhsvyatitelsky per., 3",
+    "address": "Moscow, B. Trekhsvyatitelsky per., 3",
+    "campus": "CAMPUS_MOS",
+    "id": "12",
+    "cafes": [
+     {
+      "cafe_id": "65109fbeb78246260f15bc89",
+      "cafe_name": "Столовая на Большом Трехсвятительском",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2026-08-27",
+       "2026-08-28",
+       "2026-08-29",
+       "2026-08-30"
+      ],
+      "address": "Б. Трехсвятительский пер, д.3",
+      "coordinates": {
+       "lat": 55.7552971,
+       "lng": 37.64656009999999
+      },
+      "has_menu": true,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/602291932.jpg",
+       "https://www.hse.ru/pubs/share/direct/773499890.jpeg",
+       "https://www.hse.ru/pubs/share/direct/773499910.jpeg",
+       "https://www.hse.ru/pubs/share/direct/581712809.jpg",
+       "https://www.hse.ru/pubs/share/direct/773499816.jpg"
+      ],
+      "description": "Первый этаж, налево от главного входа"
+     },
+     {
+      "cafe_id": "65109fbeb78246260f15bc8a",
+      "cafe_name": "Буфет на Большом Трехсвятительском",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2026-08-27",
+       "2026-08-28",
+       "2026-08-29",
+       "2026-08-30"
+      ],
+      "address": "Б. Трехсвятительский пер, д.3",
+      "coordinates": {
+       "lat": 55.7552971,
+       "lng": 37.64656009999999
+      },
+      "has_menu": false,
+      "description": "Первый этаж, налево от главного входа"
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.7337221,
+      55.778422
+     ]
+    },
+    "name": "Izmailovskoye Sh., h.44, h. 2",
+    "address": "Moscow, Izmailovskoye Sh., h.44, h. 2",
+    "campus": "CAMPUS_MOS",
+    "id": "69",
+    "cafes": [
+     {
+      "cafe_id": "66427971e0553407d5b07a85",
+      "cafe_name": "Кофейня \"Glitch\" на Измайловском шоссе",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "",
+       "2025-07-01",
+       "2025-07-02",
+       "2025-07-03",
+       "2025-07-04",
+       "2025-07-05",
+       "2025-07-06",
+       "2025-07-07",
+       "2025-07-08",
+       "2025-07-09",
+       "2025-07-10",
+       "2025-07-11",
+       "2025-07-12",
+       "2025-07-13",
+       "2025-07-14",
+       "2025-07-15",
+       "2025-07-16",
+       "2025-07-17",
+       "2025-07-18",
+       "2025-07-19",
+       "2025-07-20",
+       "2025-07-21",
+       "2025-07-22",
+       "2025-07-23",
+       "2025-07-24",
+       "2025-07-25",
+       "2025-07-26",
+       "2025-07-27",
+       "2025-07-28",
+       "2025-07-29",
+       "2025-07-30",
+       "2025-07-31",
+       "2025-08-01",
+       "2025-08-02",
+       "2025-08-03",
+       "2025-08-04",
+       "2025-08-05",
+       "2025-08-06",
+       "2025-08-07",
+       "2025-08-08",
+       "2025-08-09",
+       "2025-08-10",
+       "2025-08-11",
+       "2025-08-12",
+       "2025-08-13",
+       "2025-08-14",
+       "2025-08-15",
+       "2025-08-16",
+       "2025-08-17",
+       "2025-08-18",
+       "2025-08-19",
+       "2025-08-20",
+       "2025-08-21",
+       "2025-08-22",
+       "2025-08-23",
+       "2025-08-24",
+       "2025-08-25",
+       "2025-08-26",
+       "2025-08-27",
+       "2025-08-28",
+       "2025-08-29",
+       "2025-08-30",
+       "2025-08-31"
+      ],
+      "address": "Измайловское шоссе, д. 44, стр.2",
+      "coordinates": {
+       "lat": 55.778467,
+       "lng": 37.733958
+      },
+      "has_menu": true,
+      "photo": "https://s3.hseapp.ru/static/cafe/glitch_logo.jpeg",
+      "photos": [
+       "https://www.hse.ru/pubs/share/thumb/866997063:c1267x844+13+115:r1118x745!.jpg"
+      ],
+      "description": "Первый этаж. От главного входа внутри здания – прямо до основного холла, левая часть"
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6455207,
+      55.7544134
+     ]
+    },
+    "name": "Khitrovsky per., 2/8, bldg.5",
+    "address": "Khitrovsky per., 2/8, building 5",
+    "campus": "CAMPUS_MOS",
+    "id": "9",
+    "cafes": [
+     {
+      "cafe_id": "65109fbeb78246260f15bc8d",
+      "cafe_name": "Кафетерий на Хитровском",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2026-08-27",
+       "2026-08-28",
+       "2026-08-29",
+       "2026-08-30",
+       "2026-08-31",
+       "2026-09-01",
+       "2026-09-02",
+       "2026-09-03",
+       "2026-09-04",
+       "2026-09-05",
+       "2026-09-06",
+       "2026-09-07",
+       "2026-09-08",
+       "2026-09-09",
+       "2026-09-10",
+       "2026-09-11",
+       "2026-09-12",
+       "2026-09-13"
+      ],
+      "address": "Хитровский п, 2/8, стр.5",
+      "coordinates": {
+       "lat": 55.7544134,
+       "lng": 37.6455207
+      },
+      "has_menu": false,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/765604619.jpg",
+       "https://www.hse.ru/pubs/share/direct/765604772.jpg"
+      ],
+      "description": "Первый этаж, от главного входа направо"
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.645548,
+      55.753881
+     ]
+    },
+    "name": "Khitrovsky per., h. 4 building 10",
+    "address": "Khitrovsky per., h. 4 building 10",
+    "campus": "CAMPUS_MOS",
+    "id": "8",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6335787,
+      55.76103639999999
+     ]
+    },
+    "name": "Krivokolenny per., 3",
+    "address": "Moscow, Krivokolenny per., 3",
+    "campus": "CAMPUS_MOS",
+    "id": "38",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.606145,
+      55.761697
+     ]
+    },
+    "name": "M. Gnezdnikovsky per., 4",
+    "address": "Moscow, M. Gnezdnikovsky per., 4",
+    "campus": "CAMPUS_MOS",
+    "id": "5",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.62629889999999,
+      55.7375366
+     ]
+    },
+    "name": "M. Ordynka ul., 17",
+    "address": "Moscow, M. Ordynka ul., 17",
+    "campus": "CAMPUS_MOS",
+    "id": "6",
+    "cafes": [
+     {
+      "cafe_id": "6581d8855d5668ce9f9a79f0",
+      "cafe_name": "Кофейня \"Glitch\" на Ордынке 17",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "",
+       "2025-07-01",
+       "2025-07-02",
+       "2025-07-03",
+       "2025-07-04",
+       "2025-07-05",
+       "2025-07-06",
+       "2025-07-07",
+       "2025-07-08",
+       "2025-07-09",
+       "2025-07-10",
+       "2025-07-11",
+       "2025-07-12",
+       "2025-07-13",
+       "2025-07-14",
+       "2025-07-15",
+       "2025-07-16",
+       "2025-07-17",
+       "2025-07-18",
+       "2025-07-19",
+       "2025-07-20",
+       "2025-07-21",
+       "2025-07-22",
+       "2025-07-23",
+       "2025-07-24",
+       "2025-07-25",
+       "2025-07-26",
+       "2025-07-27",
+       "2025-07-28",
+       "2025-07-29",
+       "2025-07-30",
+       "2025-07-31",
+       "2025-08-01",
+       "2025-08-02",
+       "2025-08-03",
+       "2025-08-04",
+       "2025-08-05",
+       "2025-08-06",
+       "2025-08-07",
+       "2025-08-08",
+       "2025-08-09",
+       "2025-08-10",
+       "2025-08-11",
+       "2025-08-12",
+       "2025-08-13",
+       "2025-08-14",
+       "2025-08-15",
+       "2025-08-16",
+       "2025-08-17",
+       "2025-08-18",
+       "2025-08-19",
+       "2025-08-20",
+       "2025-08-21",
+       "2025-08-22",
+       "2025-08-23",
+       "2025-08-24",
+       "2025-08-25",
+       "2025-08-26",
+       "2025-08-27",
+       "2025-08-28",
+       "2025-08-29",
+       "2025-08-30",
+       "2025-08-31"
+      ],
+      "address": "Ул. М. Ордынка, д. 17",
+      "coordinates": {
+       "lat": 55.7375924,
+       "lng": 37.6263031
+      },
+      "has_menu": true,
+      "photo": "https://s3.hseapp.ru/static/cafe/glitch_logo.jpeg",
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/871249888.jpg",
+       "https://www.hse.ru/pubs/share/direct/871230948.jpg"
+      ],
+      "description": "Первый этаж, от центрального входа направо"
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6257836,
+      55.7340735
+     ]
+    },
+    "name": "M. Ordynka ul., 29",
+    "address": "Moscow, M. Ordynka ul., 29",
+    "campus": "CAMPUS_MOS",
+    "id": "72",
+    "cafes": [
+     {
+      "cafe_id": "64ed04c9411dc0b2e4890e44",
+      "cafe_name": "Столовая на Малой Ордынке 29",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2026-08-27",
+       "2026-08-28",
+       "2026-08-29",
+       "2026-08-30",
+       "2026-08-31"
+      ],
+      "address": "Ул. Малая Ордынка, д. 29",
+      "coordinates": {
+       "lat": 55.73392,
+       "lng": 37.625755
+      },
+      "has_menu": true,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/843309824.jpg",
+       "https://www.hse.ru/pubs/share/direct/843309844.jpg",
+       "https://www.hse.ru/pubs/share/direct/843309848.jpg"
+      ],
+      "description": "Первый этаж, от центрального входа направо - вход в цокольный этаж"
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6355529,
+      55.7287107
+     ]
+    },
+    "name": "M. Pionerskaya ul, h.12/4",
+    "address": "Moscow, M. Pionerskaya ul, h.12",
+    "campus": "CAMPUS_MOS",
+    "id": "13",
+    "cafes": [
+     {
+      "cafe_id": "64ed04c9411dc0b2e4890e45",
+      "cafe_name": "Кофейня \"Glitch\" на Пионерской",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "22:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "22:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "22:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "22:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "22:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": true,
+        "start_time": "11:00",
+        "end_time": "18:00"
+       }
+      ],
+      "closed_dates": [
+       "",
+       "2025-07-01",
+       "2025-07-02",
+       "2025-07-03",
+       "2025-07-04",
+       "2025-07-05",
+       "2025-07-06",
+       "2025-07-07",
+       "2025-07-08",
+       "2025-07-09",
+       "2025-07-10",
+       "2025-07-11",
+       "2025-07-12",
+       "2025-07-13",
+       "2025-07-14",
+       "2025-07-15",
+       "2025-07-16",
+       "2025-07-17",
+       "2025-07-18",
+       "2025-07-19",
+       "2025-07-20",
+       "2025-07-21",
+       "2025-07-22",
+       "2025-07-23",
+       "2025-07-24",
+       "2025-07-25",
+       "2025-07-26",
+       "2025-07-27",
+       "2025-07-28",
+       "2025-07-29",
+       "2025-07-30",
+       "2025-07-31",
+       "2025-08-01",
+       "2025-08-02",
+       "2025-08-03",
+       "2025-08-04",
+       "2025-08-05",
+       "2025-08-06",
+       "2025-08-07",
+       "2025-08-08",
+       "2025-08-09",
+       "2025-08-10",
+       "2025-08-11",
+       "2025-08-12",
+       "2025-08-13",
+       "2025-08-14",
+       "2025-08-15",
+       "2025-08-16",
+       "2025-08-17",
+       "2025-08-18",
+       "2025-08-19",
+       "2025-08-20",
+       "2025-08-21",
+       "2025-08-22",
+       "2025-08-23",
+       "2025-08-24",
+       "2025-08-25",
+       "2025-08-26",
+       "2025-08-27",
+       "2025-08-28",
+       "2025-08-29",
+       "2025-08-30",
+       "2025-08-31"
+      ],
+      "address": "М. Пионерская улица, д. 12",
+      "coordinates": {
+       "lat": 55.7287107,
+       "lng": 37.6355529
+      },
+      "has_menu": true,
+      "photo": "https://s3.hseapp.ru/static/cafe/glitch_logo.jpeg",
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/813090128.png",
+       "https://www.hse.ru/pubs/share/direct/813090192.png",
+       "https://www.hse.ru/pubs/share/direct/813090213.png"
+      ],
+      "description": "Первый этаж, направо от главного входа"
+     },
+     {
+      "cafe_id": "66d60fcf4a610b4f09d61790",
+      "cafe_name": "Столовая на Пионерской",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "08:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "08:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "08:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "08:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "08:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2026-08-27",
+       "2026-08-28",
+       "2026-08-29",
+       "2026-08-30",
+       "2026-08-31"
+      ],
+      "address": "М. Пионерская улица, д. 12",
+      "coordinates": {
+       "lat": 55.7287107,
+       "lng": 37.6355529
+      },
+      "has_menu": false,
+      "photos": [
+       "https://www.hse.ru/pubs/share/thumb/305927664.jpg",
+       "https://www.hse.ru/pubs/share/thumb/306167788:c957x638+3+63:r1118x745!.jpg",
+       "https://www.hse.ru/pubs/share/direct/306167885.jpg"
+      ],
+      "description": "Первый этаж, прямо от главного входа"
+     }
+    ],
+    "libraries": [
+     {
+      "_id": "5b97df4e02df285a5883c5f6",
+      "name": "Библиотека на Малой Пионерской",
+      "offices": [
+       {
+        "name": "Читальный зал",
+        "phone_numbers": [
+         "+74957729590,22047"
+        ],
+        "address_hint": null,
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "607d9545bdda914352154aeb",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-2100"
+            },
+            {
+             "day": 2,
+             "time": "1000-2100"
+            },
+            {
+             "day": 3,
+             "time": "1000-2100"
+            },
+            {
+             "day": 4,
+             "time": "1000-2100"
+            },
+            {
+             "day": 5,
+             "time": "1000-2100"
+            },
+            {
+             "day": 6,
+             "time": "1000-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "13",
+      "building_source": "ruz",
+      "index": 4,
+      "building": {
+       "id": 13,
+       "campus": "CAMPUS_MOS",
+       "name": "М. Пионерская ул., д. 12/4",
+       "address": "Москва, М. Пионерская ул., д. 12",
+       "coordinates": {
+        "lat": 55.7287107,
+        "lng": 37.6355529
+       }
+      }
+     }
+    ],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.646544,
+      55.754122
+     ]
+    },
+    "name": "M. Trekhvvyatitelsky per., h. 8/2",
+    "address": "Moscow, M. Trekhvvyatitelsky per., h. 8/2 h. 1",
+    "campus": "CAMPUS_MOS",
+    "id": "10",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.4099802,
+      55.80343019999999
+     ]
+    },
+    "name": "MIEM",
+    "address": "Moscow, Tallinskaya ul., h.34",
+    "campus": "CAMPUS_MOS",
+    "id": "27",
+    "cafes": [
+     {
+      "cafe_id": "65109fbeb78246260f15bc88",
+      "cafe_name": "Столовая на Таллинской",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "08:45",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "08:45",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "08:45",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "08:45",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "08:45",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2026-08-27",
+       "2026-08-28",
+       "2026-08-29",
+       "2026-08-30",
+       "2026-08-31"
+      ],
+      "address": "Ул. Таллинская, д. 34",
+      "coordinates": {
+       "lat": 55.80343019999999,
+       "lng": 37.4099802
+      },
+      "has_menu": true,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/212322791.jpg",
+       "https://www.hse.ru/pubs/share/direct/212322805.jpg",
+       "https://www.hse.ru/pubs/share/direct/842944912.jpg",
+       "https://www.hse.ru/pubs/share/direct/843296981.jpg"
+      ],
+      "description": "От главного входа налево, вниз на цокольный этаж, идти прямо"
+     },
+     {
+      "cafe_id": "66d612f84a610b4f09d61796",
+      "cafe_name": "Кофейня Jeffrey’s на Таллинской",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "",
+       "2025-07-01",
+       "2025-07-02",
+       "2025-07-03",
+       "2025-07-04",
+       "2025-07-05",
+       "2025-07-06",
+       "2025-07-07",
+       "2025-07-08",
+       "2025-07-09",
+       "2025-07-10",
+       "2025-07-11",
+       "2025-07-12",
+       "2025-07-13",
+       "2025-07-14",
+       "2025-07-15",
+       "2025-07-16",
+       "2025-07-17",
+       "2025-07-18",
+       "2025-07-19",
+       "2025-07-20",
+       "2025-07-21",
+       "2025-07-22",
+       "2025-07-23",
+       "2025-07-24",
+       "2025-07-25",
+       "2025-07-26",
+       "2025-07-27",
+       "2025-07-28",
+       "2025-07-29",
+       "2025-07-30",
+       "2025-07-31",
+       "2025-08-01",
+       "2025-08-02",
+       "2025-08-03",
+       "2025-08-04",
+       "2025-08-05",
+       "2025-08-06",
+       "2025-08-07",
+       "2025-08-08",
+       "2025-08-09",
+       "2025-08-10",
+       "2025-08-11",
+       "2025-08-12",
+       "2025-08-13",
+       "2025-08-14",
+       "2025-08-15",
+       "2025-08-16",
+       "2025-08-17",
+       "2025-08-18",
+       "2025-08-19",
+       "2025-08-20",
+       "2025-08-21",
+       "2025-08-22",
+       "2025-08-23",
+       "2025-08-24",
+       "2025-08-25",
+       "2025-08-26",
+       "2025-08-27",
+       "2025-08-28",
+       "2025-08-29",
+       "2025-08-30",
+       "2025-08-31"
+      ],
+      "address": "Ул. Таллинская, д. 34",
+      "coordinates": {
+       "lat": 55.80343019999999,
+       "lng": 37.4099802
+      },
+      "has_menu": false,
+      "photo": "https://s3.hseapp.ru/static/cafe/jeffreys_logo.jpeg",
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/891066894.jpg",
+       "https://www.hse.ru/pubs/share/direct/891070192.jpg",
+       "https://www.hse.ru/pubs/share/direct/913945252.jpg",
+       "https://www.hse.ru/pubs/share/direct/913945350.jpg"
+      ],
+      "description": "От главного входа - налево, пройти атриум, зайти в учебный корпус. От двери учебного корпуса – прямо. Дойти до библиотеки. С левой стороны от неё – дверь в буфет."
+     }
+    ],
+    "libraries": [
+     {
+      "_id": "604b81134f740b40280dc63c",
+      "name": "Библиотека МИЭМ",
+      "offices": [
+       {
+        "name": "Читальный зал",
+        "phone_numbers": [
+         "+74957729590,15241"
+        ],
+        "address_hint": null,
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "607d9545bdda914352154af2",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-2100"
+            },
+            {
+             "day": 2,
+             "time": "1000-2100"
+            },
+            {
+             "day": 3,
+             "time": "1000-2100"
+            },
+            {
+             "day": 4,
+             "time": "1000-2100"
+            },
+            {
+             "day": 5,
+             "time": "1000-2100"
+            },
+            {
+             "day": 6,
+             "time": "1000-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Абонемент учебной литературы",
+        "phone_numbers": [
+         "+74957729590,15131"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "607d9545bdda914352154af3",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1200-2000"
+            },
+            {
+             "day": 2,
+             "time": "1200-2000"
+            },
+            {
+             "day": 3,
+             "time": "1200-2000"
+            },
+            {
+             "day": 4,
+             "time": "1200-2000"
+            },
+            {
+             "day": 5,
+             "time": "1200-2000"
+            },
+            {
+             "day": 6,
+             "time": "1200-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Абонемент научной литературы",
+        "phone_numbers": [
+         "+74957729590,15241"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "607d9545bdda914352154af4",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1200-2000"
+            },
+            {
+             "day": 2,
+             "time": "1200-2000"
+            },
+            {
+             "day": 3,
+             "time": "1200-2000"
+            },
+            {
+             "day": 4,
+             "time": "1200-2000"
+            },
+            {
+             "day": 5,
+             "time": "1200-2000"
+            },
+            {
+             "day": 6,
+             "time": "1200-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "27",
+      "building_source": "ruz",
+      "index": 5,
+      "building": {
+       "id": 27,
+       "campus": "CAMPUS_MOS",
+       "name": "МИЭМ",
+       "address": "Москва, Таллинская ул., д. 34",
+       "coordinates": {
+        "lat": 55.80343019999999,
+        "lng": 37.4099802
+       }
+      }
+     }
+    ],
+    "libraries_v3": [
+     {
+      "_id": "654cb01abb294d9d542c9d65",
+      "name": "Библиотека МИЭМ",
+      "building_id": "27",
+      "building_source": "ruz",
+      "index": 5,
+      "offices": [
+       {
+        "name": "Читальный зал",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "18:00"
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74957729590,15241"
+        ]
+       },
+       {
+        "name": "Абонемент учебной литературы",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "18:00"
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74957729590,15131"
+        ]
+       },
+       {
+        "name": "Абонемент научной литературы",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "18:00"
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74957729590,15241"
+        ]
+       }
+      ],
+      "building": {
+       "location": {
+        "type": "Point",
+        "coordinates": [
+         37.4099802,
+         55.80343019999999
+        ]
+       },
+       "name": "Таллинская ул., д. 34 (МИЭМ)",
+       "address": "Москва, Таллинская ул., д. 34",
+       "campus": "CAMPUS_MOS",
+       "id": "27"
+      }
+     }
+    ]
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.509496,
+      55.647191
+     ]
+    },
+    "name": "Miklukho-Maclay ul., 16/10 K.7",
+    "address": "Miklukho-Maclay ul., 16/10 K.7",
+    "campus": "CAMPUS_MOS",
+    "id": "61",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6324014,
+      55.7610945
+     ]
+    },
+    "name": "Myasnitskaya ul., 18",
+    "address": "Myasnitskaya ul., 18",
+    "campus": "CAMPUS_MOS",
+    "id": "44",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6334455,
+      55.762338068994
+     ]
+    },
+    "name": "Myasnitskaya ul., h. 13, h. 4",
+    "address": "Myasnitskaya ul., h. 13, h. 4",
+    "campus": "CAMPUS_MOS",
+    "id": "47",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6324756,
+      55.7615434
+     ]
+    },
+    "name": "Myasnitskaya ul., h.11",
+    "address": "Moscow, Myasnitskaya ul., h.11",
+    "campus": "CAMPUS_MOS",
+    "id": "15",
+    "cafes": [
+     {
+      "cafe_id": "64ed04c9411dc0b2e4890e40",
+      "cafe_name": "Столовая на Мясницкой 11",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2026-08-27",
+       "2026-08-28",
+       "2026-08-29",
+       "2026-08-30",
+       "2026-08-31"
+      ],
+      "address": "Мясницкая улица, д. 11",
+      "coordinates": {
+       "lat": 55.7615434,
+       "lng": 37.6324756
+      },
+      "has_menu": true,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/216104112.jpg",
+       "https://www.hse.ru/pubs/share/direct/843468062.png",
+       "https://www.hse.ru/pubs/share/direct/843468099.png"
+      ],
+      "description": "Второй этаж. От главного входа внутри здания налево, далее вверх по лестнице."
+     },
+     {
+      "cafe_id": "64ed04c9411dc0b2e4890e41",
+      "cafe_name": "Кофейня на Мясницкой 11",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2026-05-01",
+       "2026-05-02",
+       "2026-05-03",
+       "2026-05-04",
+       "2026-05-05",
+       "2026-05-06",
+       "2026-05-07",
+       "2026-05-08",
+       "2026-05-09",
+       "2026-05-10",
+       "2026-05-11"
+      ],
+      "address": "Мясницкая улица, д. 11",
+      "coordinates": {
+       "lat": 55.7615434,
+       "lng": 37.6324756
+      },
+      "has_menu": false,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/841313094.jpg"
+      ],
+      "description": "В помещении столовой"
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.633323,
+      55.7615816
+     ]
+    },
+    "name": "Myasnitskaya ul., h.20",
+    "address": "Moscow, Myasnitskaya ul., h.20",
+    "campus": "CAMPUS_MOS",
+    "id": "3",
+    "cafes": [
+     {
+      "cafe_id": "64ed04c9411dc0b2e4890e42",
+      "cafe_name": "Столовая на Мясницкой 20",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2026-08-27",
+       "2026-08-28",
+       "2026-08-29",
+       "2026-08-30",
+       "2026-08-31"
+      ],
+      "address": "Мясницкая улица, д. 20",
+      "coordinates": {
+       "lat": 55.7615816,
+       "lng": 37.633323
+      },
+      "has_menu": true,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/807534670.jpg",
+       "https://www.hse.ru/pubs/share/direct/807536124.jpg",
+       "https://www.hse.ru/pubs/share/direct/807536184.jpg"
+      ],
+      "description": "Находится в подвальном этаже. Вниз по лестнице из холла на первом этаже, с правой стороны"
+     },
+     {
+      "cafe_id": "651459349a3c1c0dd7cf7334",
+      "cafe_name": "Кофейня Jeffrey's на Мясницкой 20",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       }
+      ],
+      "closed_dates": [
+       "2025-08-01",
+       "2025-08-02",
+       "2025-08-03",
+       "2025-08-04",
+       "2025-08-05",
+       "2025-08-06",
+       "2025-08-07",
+       "2025-08-08",
+       "2025-08-09",
+       "2025-08-10",
+       "2025-08-11",
+       "2025-08-12",
+       "2025-08-13",
+       "2025-08-14",
+       "2025-08-15",
+       "2025-08-16",
+       "2025-08-17",
+       "2025-08-18",
+       "2025-08-19",
+       "2025-08-20",
+       "2025-08-21",
+       "2025-08-22",
+       "2025-08-23",
+       "2025-08-24",
+       "2025-08-25",
+       "2025-08-26",
+       "2025-08-27",
+       "2025-08-28",
+       "2025-08-29",
+       "2025-08-30",
+       "2025-08-31"
+      ],
+      "address": "Мясницкая улица, д. 20",
+      "coordinates": {
+       "lat": 55.7615816,
+       "lng": 37.633323
+      },
+      "has_menu": false,
+      "photo": "https://s3.hseapp.ru/static/cafe/jeffreys_logo.jpeg",
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/212320586.jpg"
+      ],
+      "description": "В подвальном этаже. Вниз по лестнице из холла на первом этаже, с левой стороны"
+     }
+    ],
+    "libraries": [
+     {
+      "_id": "5b97dff402df285a5883c5f8",
+      "name": "Библиотека на Мясницкой",
+      "offices": [
+       {
+        "name": "Читальный зал",
+        "phone_numbers": [
+         "+74956288510"
+        ],
+        "address_hint": null,
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6061503144eae84a7f0d4f9e",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-2300"
+            },
+            {
+             "day": 2,
+             "time": "1000-2300"
+            },
+            {
+             "day": 3,
+             "time": "1000-2300"
+            },
+            {
+             "day": 4,
+             "time": "1000-2300"
+            },
+            {
+             "day": 5,
+             "time": "1000-2300"
+            },
+            {
+             "day": 6,
+             "time": "1000-2300"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Абонемент научной литературы",
+        "phone_numbers": [
+         "+74956288510"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6061516044eae84a7f0d4fa2",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1200-2000"
+            },
+            {
+             "day": 2,
+             "time": "1200-2000"
+            },
+            {
+             "day": 3,
+             "time": "1200-2000"
+            },
+            {
+             "day": 4,
+             "time": "1200-2000"
+            },
+            {
+             "day": 5,
+             "time": "1200-2000"
+            },
+            {
+             "day": 6,
+             "time": "1200-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Абонемент учебной литературы",
+        "phone_numbers": [
+         "+74957729590,15571"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6061516044eae84a7f0d4fa2",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1200-2000"
+            },
+            {
+             "day": 2,
+             "time": "1200-2000"
+            },
+            {
+             "day": 3,
+             "time": "1200-2000"
+            },
+            {
+             "day": 4,
+             "time": "1200-2000"
+            },
+            {
+             "day": 5,
+             "time": "1200-2000"
+            },
+            {
+             "day": 6,
+             "time": "1200-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Абонемент художественной литературы",
+        "phone_numbers": [
+         "+74956288510"
+        ],
+        "rules": [
+         {
+          "name": "Необходимо предварительное бронирование книг",
+          "schedule": {
+           "_id": "606151eb44eae84a7f0d4fa6",
+           "open_periods": [
+            {
+             "day": 2,
+             "time": "1200-2000"
+            },
+            {
+             "day": 4,
+             "time": "1200-2000"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "3",
+      "building_source": "ruz",
+      "index": 1,
+      "building": {
+       "id": 3,
+       "campus": "CAMPUS_MOS",
+       "name": "Мясницкая ул., д. 20",
+       "address": "Москва, Мясницкая ул., д. 20",
+       "coordinates": {
+        "lat": 55.7615816,
+        "lng": 37.633323
+       }
+      }
+     }
+    ],
+    "libraries_v3": [
+     {
+      "_id": "654cb01abb294d9d542c9d61",
+      "name": "Библиотека на Мясницкой",
+      "building_id": "3",
+      "building_source": "ruz",
+      "index": 1,
+      "offices": [
+       {
+        "name": "Читальный зал",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "23:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "23:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "23:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "23:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "23:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "23:00"
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74956288510"
+        ]
+       },
+       {
+        "name": "Абонемент научной литературы",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "18:00"
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74956288510"
+        ]
+       },
+       {
+        "name": "Абонемент учебной литературы",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "18:00"
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74957729590,15571"
+        ]
+       },
+       {
+        "name": "Абонемент художественной литературы",
+        "rules": [
+         {
+          "name": "Необходимо предварительное бронирование книг",
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            }
+           ]
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74956288510"
+        ]
+       }
+      ],
+      "building": {
+       "location": {
+        "type": "Point",
+        "coordinates": [
+         37.633323,
+         55.7615816
+        ]
+       },
+       "name": "Мясницкая ул., д. 20",
+       "address": "Москва, Мясницкая ул., д. 20",
+       "campus": "CAMPUS_MOS",
+       "id": "3"
+      }
+     }
+    ]
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.641764,
+      55.7873
+     ]
+    },
+    "name": "Panteleyevskaya Street, 53",
+    "address": "Moscow, Panteleyevskaya Street, 53",
+    "campus": "CAMPUS_MOS",
+    "id": "76",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.648605,
+      55.7545571
+     ]
+    },
+    "name": "Pokrovsky B., h.11",
+    "address": "Moscow, Pokrovsky Blvd, h.11",
+    "campus": "CAMPUS_MOS",
+    "id": "58",
+    "cafes": [
+     {
+      "cafe_id": "64ed04c9411dc0b2e4890e46",
+      "cafe_name": "Столовая на Покровке",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [],
+      "current_load": "normal",
+      "address": "Покровский бульвар, д. 11",
+      "coordinates": {
+       "lat": 55.7545571,
+       "lng": 37.648605
+      },
+      "has_menu": true,
+      "photo": "https://www.hse.ru/pubs/share/direct/1136627247.jpg",
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/773470005.jpg",
+       "https://www.hse.ru/pubs/share/thumb/465310026:c2549x1699+0+321:r1118x745!.jpg",
+       "https://www.hse.ru/pubs/share/direct/773471625.jpg",
+       "https://www.hse.ru/pubs/share/direct/773471861.jpg",
+       "https://www.hse.ru/pubs/share/direct/773476285.jpg",
+       "https://www.hse.ru/pubs/share/direct/773476379.jpg",
+       "https://www.hse.ru/pubs/share/direct/465310378.jpg"
+      ],
+      "navigation": {
+       "room": 104,
+       "floor": 1
+      },
+      "description": "В корпусе N на первом этаже (этаж N1) Северного атриума"
+     },
+     {
+      "cafe_id": "64ed04c9411dc0b2e4890e47",
+      "cafe_name": "Кофейня \"Беринг\" (1 этаж) на Покровке",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [],
+      "address": "Покровский бульвар, д. 11, корпус К",
+      "coordinates": {
+       "lat": 55.7545571,
+       "lng": 37.648605
+      },
+      "banner": "Кофейня \"Беринг\" с 24 августа 2026 г.  временно закрыта на ремонт.  О дате возобновления работы точки будет сообщено дополнительно.\n",
+      "has_menu": false,
+      "photo": "https://s3.hseapp.ru/static/cafe/bering_photo.jpg",
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/305812280.jpg",
+       "https://www.hse.ru/pubs/share/direct/305812370.jpg",
+       "https://www.hse.ru/pubs/share/direct/305812519.jpg"
+      ],
+      "navigation": {
+       "room": 74,
+       "floor": 1
+      },
+      "description": "В корпусе К на первом этаже (этаж К1) Центрального атриума"
+     },
+     {
+      "cafe_id": "655266920c2c919132a6dcd7",
+      "cafe_name": "Ресторан \"Казаковъ\" (2 этаж) на Покровке",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": false,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": false,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": false,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": false,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": false,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2026-05-01",
+       "2026-05-02",
+       "2026-05-03",
+       "2026-05-09",
+       "2026-05-10",
+       "2026-05-11"
+      ],
+      "address": "Покровский бульвар, д. 11, корпус К",
+      "coordinates": {
+       "lat": 55.7545571,
+       "lng": 37.648605
+      },
+      "has_menu": false,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/305812952.jpg",
+       "https://www.hse.ru/pubs/share/direct/305812969.jpg",
+       "https://www.hse.ru/pubs/share/direct/305813043.jpg",
+       "https://www.hse.ru/pubs/share/direct/305813141.jpg"
+      ],
+      "navigation": {
+       "room": 333,
+       "floor": 2
+      },
+      "description": "В корпусе К на втором этаже Центрального атриума (два входа – с этажа D2 и непосредственно c этажа К2)"
+     },
+     {
+      "cafe_id": "66427675e0553407d5b07a7a",
+      "cafe_name": "Кофейня \"Glitch\" на Покровке",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "08:00",
+        "end_time": "23:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "08:00",
+        "end_time": "23:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "08:00",
+        "end_time": "23:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "08:00",
+        "end_time": "23:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "08:00",
+        "end_time": "23:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "08:00",
+        "end_time": "22:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       }
+      ],
+      "address": "Покровский бульвар, д. 11",
+      "coordinates": {
+       "lat": 55.7545571,
+       "lng": 37.648605
+      },
+      "has_menu": true,
+      "photo": "https://s3.hseapp.ru/static/cafe/glitch_logo.jpeg",
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/308136216.jpg",
+       "https://www.hse.ru/pubs/share/direct/311624673.jpg",
+       "https://www.hse.ru/pubs/share/direct/311624688.jpg"
+      ],
+      "description": "Вход №3 (со стороны Дурасовского пер.) в корпусе S на первом этаже"
+     },
+     {
+      "cafe_id": "66d610dd4a610b4f09d61792",
+      "cafe_name": "Кофейня 2Grind на Покровке",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2025-07-01",
+       "2025-07-02",
+       "2025-07-03",
+       "2025-07-04",
+       "2025-07-05",
+       "2025-07-06",
+       "2025-07-07",
+       "2025-07-08",
+       "2025-07-09",
+       "2025-07-10",
+       "2025-07-11",
+       "2025-07-12",
+       "2025-07-13",
+       "2025-07-14",
+       "2025-07-15",
+       "2025-07-16",
+       "2025-07-17",
+       "2025-07-18",
+       "2025-07-19",
+       "2025-07-20",
+       "2025-07-21",
+       "2025-07-22",
+       "2025-07-23",
+       "2025-07-24",
+       "2025-07-25",
+       "2025-07-26",
+       "2025-07-27",
+       "2025-07-28",
+       "2025-07-29",
+       "2025-07-30",
+       "2025-07-31",
+       "2025-08-01",
+       "2025-08-02",
+       "2025-08-03",
+       "2025-08-04",
+       "2025-08-05",
+       "2025-08-06",
+       "2025-08-07",
+       "2025-08-08",
+       "2025-08-09",
+       "2025-08-10",
+       "2025-08-11",
+       "2025-08-12",
+       "2025-08-13",
+       "2025-08-14",
+       "2025-08-15",
+       "2025-08-16",
+       "2025-08-17",
+       "2025-08-18",
+       "2025-08-19",
+       "2025-08-20",
+       "2025-08-21",
+       "2025-08-22",
+       "2025-08-23",
+       "2025-08-24",
+       "2025-08-25",
+       "2025-08-26",
+       "2025-08-27",
+       "2025-08-28",
+       "2025-08-29",
+       "2025-08-30",
+       "2025-08-31"
+      ],
+      "address": "Покровский бульвар, д. 11, корпус F",
+      "coordinates": {
+       "lat": 55.7545571,
+       "lng": 37.648605
+      },
+      "has_menu": false,
+      "photo": "https://s3.hseapp.ru/static/cafe/grind_logo.jpg",
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/858914926.jpeg",
+       "https://www.hse.ru/pubs/share/direct/858914964.jpeg",
+       "https://www.hse.ru/pubs/share/direct/858914966.jpeg",
+       "https://www.hse.ru/pubs/share/direct/858914974.jpeg"
+      ],
+      "navigation": {
+       "room": 1439,
+       "floor": 1
+      },
+      "description": "В корпусе F на первом этаже Южного атриума"
+     },
+     {
+      "cafe_id": "66d611ae4a610b4f09d61794",
+      "cafe_name": "Кофейня Jeffrey's на Покровке",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "22:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "22:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "22:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "22:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "22:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       }
+      ],
+      "address": "Покровский бульвар, д. 11, корпус S",
+      "coordinates": {
+       "lat": 55.7545571,
+       "lng": 37.648605
+      },
+      "has_menu": false,
+      "photo": "https://s3.hseapp.ru/static/cafe/jeffreys_logo.jpeg",
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/877490958.jpg",
+       "https://www.hse.ru/pubs/share/direct/877490969.jpeg",
+       "https://www.hse.ru/pubs/share/direct/877490971.jpg",
+       "https://www.hse.ru/pubs/share/direct/877490993.jpg"
+      ],
+      "navigation": {
+       "room": 1647,
+       "floor": -1
+      },
+      "description": "Вход №2 (со стороны Покровского бульвара) пройти мимо главной столовой корпуса N в Северном атриуме налево по лестнице в корпус S – спуститься по лестнице на -1 этаж. • Вход №3 (со стороны Дурасовского пер.) в корпусе S на -1 этаже."
+     },
+     {
+      "cafe_id": "6ab10a340af7284a0e7b8ac9",
+      "cafe_name": "Кафетерий на Покровке",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "21:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [],
+      "address": "Покровский бульвар, д. 11",
+      "coordinates": {
+       "lat": 55.7545571,
+       "lng": 37.648605
+      },
+      "has_menu": false,
+      "photos": [],
+      "description": "В столовой корпуса N на первом этаже (этаж N1) Северного атриума. Кофе, сэндвичи, роллы, выпечка, десерты"
+     }
+    ],
+    "libraries": [
+     {
+      "_id": "604b80f54f740b40280dc63b",
+      "name": "Центральная библиотека",
+      "offices": [
+       {
+        "name": "Читальный зал",
+        "phone_numbers": [
+         "+74959168927"
+        ],
+        "rules": [
+         {
+          "name": "2 этаж",
+          "schedule": {
+           "_id": "604b8d2ca20b2337cc82319a",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 0,
+             "time": "0000"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         },
+         {
+          "name": "3, 4 этаж",
+          "schedule": {
+           "_id": "605e027944eae84a7f0d4f58",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-2100"
+            },
+            {
+             "day": 2,
+             "time": "1000-2100"
+            },
+            {
+             "day": 3,
+             "time": "1000-2100"
+            },
+            {
+             "day": 4,
+             "time": "1000-2100"
+            },
+            {
+             "day": 5,
+             "time": "1000-2100"
+            },
+            {
+             "day": 6,
+             "time": "1000-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Абонемент научной литературы",
+        "phone_numbers": [
+         "+74959168927"
+        ],
+        "rules": [
+         {
+          "name": "2, 3, 4 этаж",
+          "schedule": {
+           "_id": "605e02d744eae84a7f0d4f5c",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1200-2000"
+            },
+            {
+             "day": 2,
+             "time": "1200-2000"
+            },
+            {
+             "day": 3,
+             "time": "1200-2000"
+            },
+            {
+             "day": 4,
+             "time": "1200-2000"
+            },
+            {
+             "day": 5,
+             "time": "1200-2000"
+            },
+            {
+             "day": 6,
+             "time": "1200-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Абонемент учебной литературы",
+        "phone_numbers": [
+         "+74959168927"
+        ],
+        "rules": [
+         {
+          "name": "2, 3, 4 этаж",
+          "schedule": {
+           "_id": "605e02d744eae84a7f0d4f5c",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1200-2000"
+            },
+            {
+             "day": 2,
+             "time": "1200-2000"
+            },
+            {
+             "day": 3,
+             "time": "1200-2000"
+            },
+            {
+             "day": 4,
+             "time": "1200-2000"
+            },
+            {
+             "day": 5,
+             "time": "1200-2000"
+            },
+            {
+             "day": 6,
+             "time": "1200-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "58",
+      "building_source": "ruz",
+      "index": 0,
+      "address_hint": "корпус N",
+      "building": {
+       "id": 58,
+       "campus": "CAMPUS_MOS",
+       "name": "Покровский б-р, д.11",
+       "address": "Москва, Покровский б-р, д.11",
+       "coordinates": {
+        "lat": 55.7545571,
+        "lng": 37.648605
+       }
+      }
+     }
+    ],
+    "libraries_v3": [
+     {
+      "_id": "654cb01abb294d9d542c9d63",
+      "name": "Центральная библиотека",
+      "building_id": "58",
+      "building_source": "ruz",
+      "address_hint": "корпус N",
+      "index": 0,
+      "offices": [
+       {
+        "name": "Читальный зал",
+        "rules": [
+         {
+          "name": "2 этаж",
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true
+            },
+            {
+             "day_of_week": "sunday",
+             "is_open": true
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         },
+         {
+          "name": "3, 4 этаж",
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "18:00"
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74959168927"
+        ]
+       },
+       {
+        "name": "Абонемент научной литературы",
+        "rules": [
+         {
+          "name": "2, 3, 4 этаж",
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "18:00"
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74959168927"
+        ]
+       },
+       {
+        "name": "Абонемент учебной литературы",
+        "rules": [
+         {
+          "name": "2, 3, 4 этаж",
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "18:00"
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74959168927"
+        ]
+       }
+      ],
+      "building": {
+       "location": {
+        "type": "Point",
+        "coordinates": [
+         37.648605,
+         55.7545571
+        ]
+       },
+       "name": "Покровский б-р, д.11",
+       "address": "Москва, Покровский б-р, д.11",
+       "campus": "CAMPUS_MOS",
+       "id": "58"
+      }
+     }
+    ]
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6404986,
+      55.759507
+     ]
+    },
+    "name": "Potapovsky per., 16 h. 10",
+    "address": "Potapovsky per., 16 h. 10",
+    "campus": "CAMPUS_MOS",
+    "id": "32",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.56063109999999,
+      55.67101
+     ]
+    },
+    "name": "Profsoyuznaya ul., 33, bldg.4",
+    "address": "Moscow, Profsoyuznaya ul., 33, bldg.4",
+    "campus": "CAMPUS_MOS",
+    "id": "35",
+    "cafes": [
+     {
+      "cafe_id": "6ab10a340af7284a0e7b8ac8",
+      "cafe_name": "Столовая на Профсоюзной",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [],
+      "address": "Профсоюзная улица, д. 33, корп. 4",
+      "coordinates": {
+       "lat": 55.67101,
+       "lng": 37.56063109999999
+      },
+      "has_menu": false,
+      "photo": "https://www.hse.ru/pubs/share/direct/1087610136.png",
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/1087610136.png",
+       "https://www.hse.ru/pubs/share/direct/1087785669.jpg",
+       "https://www.hse.ru/pubs/share/direct/1087785592.jpg"
+      ],
+      "description": "Первый этаж. От главного входа внутри здания повернуть налево, пройти 10 метров, вход в столовую — справа"
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.608479,
+      55.719781
+     ]
+    },
+    "name": "Shabolovka ul., 28/11 h.9",
+    "address": "Moscow, Shabolovka ul., 28/11 h.9",
+    "campus": "CAMPUS_MOS",
+    "id": "45",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.60903,
+      55.720007
+     ]
+    },
+    "name": "Shabolovka ul., h. 26-28",
+    "address": "Moscow, Shabolovka 26-28",
+    "campus": "CAMPUS_MOS",
+    "id": "11",
+    "cafes": [
+     {
+      "cafe_id": "65109fbeb78246260f15bc8e",
+      "cafe_name": "Кафетерий на Шаболовке",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [],
+      "address": "Ул. Шаболовка, д. 26, стр. 4",
+      "coordinates": {
+       "lat": 55.72018,
+       "lng": 37.607906
+      },
+      "has_menu": true,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/585420559.jpg",
+       "https://www.hse.ru/pubs/share/direct/585420629.jpg",
+       "https://www.hse.ru/pubs/share/direct/585420652.jpg",
+       "https://www.hse.ru/pubs/share/direct/585420714.jpg"
+      ],
+      "description": "Первый этаж"
+     },
+     {
+      "cafe_id": "66d76dee135d40aa2415a134",
+      "cafe_name": "Лаундж-кафе",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "Ул. Шаболовка, 28/11, стр.2",
+      "coordinates": {
+       "lat": 55.720144,
+       "lng": 37.609029
+      },
+      "has_menu": false,
+      "photos": [
+       "https://gsb.hse.ru/pubs/share/direct/834496362.jpg",
+       "https://gsb.hse.ru/pubs/share/direct/834496365.jpg"
+      ],
+      "description": "Цокольный этаж корпуса № 2, напротив входа в библиотеку, помещение 2010. Ассортимент лаундж-кафе включает: пиццу, суши, роллы, бургеры, шаурму, вок, десерты, мороженое, фруктово-ягодные коктейли, свежевыжатые соки, кофе, чай."
+     },
+     {
+      "cafe_id": "69bbe50c8f6061963f261bf9",
+      "cafe_name": "Кафе «Слой»",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "Улица Шаболовка, 26, корпус 4, первый этаж, коворкинг «Альфа-Спейс»",
+      "coordinates": {
+       "lat": 55.719698,
+       "lng": 37.60885
+      },
+      "has_menu": false,
+      "photo": "https://storage.yandexcloud.net/hseapp-media/manual/sloy.jpg",
+      "photos": [
+       "https://gsb.hse.ru/pubs/share/direct/1048080369.jpg",
+       "https://gsb.hse.ru/pubs/share/direct/1048080426.jpg"
+      ],
+      "description": "Расположенное в коворкинге «Альфа-Спейс» на 1-м этаже корпуса 4, кафе «Слой» предлагает широкий выбор эксклюзивной выпечки: круассаны, мини-пирожные, печенье и многое другое. Также можно заказать горячий или холодный кофе и чай. После 17:00 вся оставшаяся выпечка продается со скидкой."
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": [
+     {
+      "_id": "654cb01abb294d9d542c9d5d",
+      "name": "Библиотека на Шаболовке",
+      "building_id": "11",
+      "building_source": "ruz",
+      "index": 8,
+      "offices": [
+       {
+        "name": "Читальный зал",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": false
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74957729590,15024"
+        ]
+       },
+       {
+        "name": "Абонемент",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": false
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74957729590,15024"
+        ]
+       }
+      ],
+      "building": {
+       "location": {
+        "type": "Point",
+        "coordinates": [
+         37.60903,
+         55.720007
+        ]
+       },
+       "name": "Шаболовка ул., д. 26-28",
+       "address": "Москва, Шаболовка 26-28",
+       "campus": "CAMPUS_MOS",
+       "id": "11"
+      }
+     }
+    ]
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.608918,
+      55.719673
+     ]
+    },
+    "name": "Shabolovka ul., h.28",
+    "address": "Moscow, Shabolovka 28/11 h. 2",
+    "campus": "CAMPUS_MOS",
+    "id": "16",
+    "libraries": [
+     {
+      "_id": "5b97dedc02df285a5883c5f3",
+      "name": "Библиотека на Шаболовке",
+      "offices": [
+       {
+        "name": "Читальный зал",
+        "address_hint": null,
+        "phone_numbers": [
+         "+74957729590,15024"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "607d9545bdda914352154af0",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-2300"
+            },
+            {
+             "day": 2,
+             "time": "1000-2300"
+            },
+            {
+             "day": 3,
+             "time": "1000-2300"
+            },
+            {
+             "day": 4,
+             "time": "1000-2300"
+            },
+            {
+             "day": 5,
+             "time": "1000-2300"
+            },
+            {
+             "day": 6,
+             "time": "1000-2300"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Абонемент",
+        "phone_numbers": [
+         "+74957729590,15024"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "607d9545bdda914352154af1",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1200-2000"
+            },
+            {
+             "day": 2,
+             "time": "1200-2000"
+            },
+            {
+             "day": 3,
+             "time": "1200-2000"
+            },
+            {
+             "day": 4,
+             "time": "1200-2000"
+            },
+            {
+             "day": 5,
+             "time": "1200-2000"
+            },
+            {
+             "day": 6,
+             "time": "1200-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "16",
+      "building_source": "ruz",
+      "index": 8,
+      "building": {
+       "id": 16,
+       "campus": "CAMPUS_MOS",
+       "name": "Шаболовка ул., д. 28",
+       "address": "Москва, Шаболовка 28/11 стр.2",
+       "coordinates": {
+        "lat": 55.719673,
+        "lng": 37.608918
+       }
+      }
+     }
+    ],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.636275,
+      55.75346099999999
+     ]
+    },
+    "name": "Slavyanskaya pl., 4 b. 2",
+    "address": "Moscow, Slavyanskaya pl, 4 b. 2",
+    "campus": "CAMPUS_MOS",
+    "id": "4",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6635452,
+      55.7668094
+     ]
+    },
+    "name": "Staraya Basmannaya ul., 21/4, Building А",
+    "address": "Moscow, Starya Basmannaya ul., 21/4, Building А",
+    "campus": "CAMPUS_MOS",
+    "id": "17",
+    "cafes": [
+     {
+      "cafe_id": "65109fbeb78246260f15bc85",
+      "cafe_name": "Столовая на Басманной • 2 этаж",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2026-08-27",
+       "2026-08-28",
+       "2026-08-29",
+       "2026-08-30",
+       "2026-08-31"
+      ],
+      "address": "С.Басманная ул, д. 21/6, корпус Л, 2 этаж",
+      "coordinates": {
+       "lat": 55.7668094,
+       "lng": 37.6635452
+      },
+      "has_menu": true,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/228595875.jpg",
+       "https://www.hse.ru/pubs/share/direct/814392260.jpg",
+       "https://www.hse.ru/pubs/share/direct/817518059.jpg",
+       "https://www.hse.ru/pubs/share/direct/844959004.jpg",
+       "https://www.hse.ru/pubs/share/direct/844966149.png"
+      ],
+      "description": "Из корпуса «А» идти по переходу в корпус «Л». Вход с второго этажа корпуса «Л». Также можно идти через главный вход в корпус «Л», далее налево на второй этаж"
+     },
+     {
+      "cafe_id": "65109fbeb78246260f15bc86",
+      "cafe_name": "Кофейня «Возьми с собой»",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "С.Басманная ул, д. 21/6, корпус Л, 2 этаж",
+      "coordinates": {
+       "lat": 55.7668094,
+       "lng": 37.6635452
+      },
+      "has_menu": false,
+      "description": "Из корпуса «А» идти по переходу в корпус «Л». Вход с второго этажа корпуса «Л». Также можно идти через главный вход в корпус «Л», далее налево на второй этаж"
+     },
+     {
+      "cafe_id": "65109fbeb78246260f15bc87",
+      "cafe_name": "Буфет на Басманной",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:30"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "С.Басманная улица, д. 21/4, стр.5",
+      "coordinates": {
+       "lat": 55.7668094,
+       "lng": 37.6635452
+      },
+      "has_menu": false,
+      "photos": [
+       "https://www.hse.ru/pubs/share/thumb/227776541:c1025x683+0+0:r1118x745!.jpg",
+       "https://www.hse.ru/pubs/share/direct/227776566.jpg",
+       "https://www.hse.ru/pubs/share/direct/773174927.jpg"
+      ],
+      "description": "Первый этаж, слева от гардероба в вестибюле"
+     },
+     {
+      "cafe_id": "660bc7354f833863c8152cf4",
+      "cafe_name": "Столовая на Басманной • 1 этаж",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": false,
+        "start_time": null,
+        "end_time": null
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2024-12-16",
+       "2024-12-17",
+       "2024-12-18",
+       "2024-12-19",
+       "2024-12-20",
+       "2024-12-21",
+       "2024-12-22",
+       "2024-12-23",
+       "2024-12-24",
+       "2024-12-25",
+       "2024-12-26",
+       "2024-12-27",
+       "2024-12-28",
+       "2024-12-29",
+       "2024-12-30",
+       "2024-12-31",
+       "2025-01-01",
+       "2025-01-02",
+       "2025-01-03",
+       "2025-01-04",
+       "2025-01-05",
+       "2025-01-06",
+       "2025-01-07",
+       "2025-01-08",
+       "2025-01-09",
+       "2025-01-10",
+       "2025-01-11",
+       "2025-01-12",
+       "2025-01-13"
+      ],
+      "address": "С.Басманная ул, д. 21/4, стр. 6, корпус Л, 1 этаж",
+      "coordinates": {
+       "lat": 55.7668094,
+       "lng": 37.6635452
+      },
+      "banner": "Столовая временно закрыта.",
+      "has_menu": false,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/228594725.jpg",
+       "https://www.hse.ru/pubs/share/direct/228594823.jpg",
+       "https://www.hse.ru/pubs/share/direct/228594834.jpg"
+      ],
+      "description": "Из корпуса «А» идти по переходу в корпус «Л». Вход с первого этажа корпуса «Л». Также можно идти через главный вход в корпус «Л», далее налево на первый этаж"
+     }
+    ],
+    "libraries": [
+     {
+      "_id": "604b81364f740b40280dc63d",
+      "name": "Библиотека на Старой Басманной корпус А",
+      "offices": [
+       {
+        "name": "Читальный зал",
+        "phone_numbers": [
+         "+74957729590,15357"
+        ],
+        "address_hint": null,
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "607d9545bdda914352154aec",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-2300"
+            },
+            {
+             "day": 2,
+             "time": "1000-2300"
+            },
+            {
+             "day": 3,
+             "time": "1000-2300"
+            },
+            {
+             "day": 4,
+             "time": "1000-2300"
+            },
+            {
+             "day": 5,
+             "time": "1000-2300"
+            },
+            {
+             "day": 6,
+             "time": "1000-2300"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Абонемент научной литературы",
+        "phone_numbers": [
+         "+74957729590,15357"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "607d9545bdda914352154aed",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-2100"
+            },
+            {
+             "day": 2,
+             "time": "1000-2100"
+            },
+            {
+             "day": 3,
+             "time": "1000-2100"
+            },
+            {
+             "day": 4,
+             "time": "1000-2100"
+            },
+            {
+             "day": 5,
+             "time": "1000-2100"
+            },
+            {
+             "day": 6,
+             "time": "1000-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "17",
+      "building_source": "ruz",
+      "index": 2,
+      "building": {
+       "id": 17,
+       "campus": "CAMPUS_MOS",
+       "name": "Москва, Старая Басманная ул., д. 21/4, корпус А",
+       "address": "Москва, Старая Басманная ул., д. 21/4, корпус А",
+       "coordinates": {
+        "lat": 55.7668094,
+        "lng": 37.6635452
+       }
+      }
+     }
+    ],
+    "libraries_v3": [
+     {
+      "_id": "654cb01abb294d9d542c9d67",
+      "name": "Библиотека на Старой Басманной корпус А",
+      "building_id": "17",
+      "building_source": "ruz",
+      "index": 2,
+      "offices": [
+       {
+        "name": "Читальный зал",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "18:00"
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74957729590,15357"
+        ]
+       },
+       {
+        "name": "Абонемент научной литературы",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "18:00"
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74957729590,15357"
+        ]
+       }
+      ],
+      "building": {
+       "location": {
+        "type": "Point",
+        "coordinates": [
+         37.6635452,
+         55.7668094
+        ]
+       },
+       "name": "Старая Басманная ул., д. 21/4, корпус А",
+       "address": "Москва, Старая Басманная ул., д. 21/4, корпус А",
+       "campus": "CAMPUS_MOS",
+       "id": "17"
+      }
+     }
+    ]
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6635452,
+      55.7668094
+     ]
+    },
+    "name": "Staraya Basmannaya ul., 21/4, Building Б",
+    "address": "Moscow, Starya Basmannaya ul., 21/4, Building Б",
+    "campus": "CAMPUS_MOS",
+    "id": "49",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6635452,
+      55.7668094
+     ]
+    },
+    "name": "Staraya Basmannaya ul., 21/4, Building В",
+    "address": "Moscow, Starya Basmannaya ul., 21/4, Building B.",
+    "campus": "CAMPUS_MOS",
+    "id": "48",
+    "libraries": [
+     {
+      "_id": "604b814a4f740b40280dc63e",
+      "name": "Библиотека на Старой Басманной корпус В",
+      "offices": [
+       {
+        "name": "Читальный зал",
+        "phone_numbers": [
+         "+74957729590,15541"
+        ],
+        "address_hint": null,
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "607d9545bdda914352154aee",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-2300"
+            },
+            {
+             "day": 2,
+             "time": "1000-2300"
+            },
+            {
+             "day": 3,
+             "time": "1000-2300"
+            },
+            {
+             "day": 4,
+             "time": "1000-2300"
+            },
+            {
+             "day": 5,
+             "time": "1000-2300"
+            },
+            {
+             "day": 6,
+             "time": "1000-2300"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Абонемент научной литературы",
+        "phone_numbers": [
+         "+74957729590,15541"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "607d9545bdda914352154aef",
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-2100"
+            },
+            {
+             "day": 2,
+             "time": "1000-2100"
+            },
+            {
+             "day": 3,
+             "time": "1000-2100"
+            },
+            {
+             "day": 4,
+             "time": "1000-2100"
+            },
+            {
+             "day": 5,
+             "time": "1000-2100"
+            },
+            {
+             "day": 6,
+             "time": "1000-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "48",
+      "building_source": "ruz",
+      "index": 3,
+      "building": {
+       "id": 48,
+       "campus": "CAMPUS_MOS",
+       "name": "Старая Басманная ул., д.21/4, корпус В",
+       "address": "Москва, Старая Басманная ул., д.21/4, корпус В",
+       "coordinates": {
+        "lat": 55.7668094,
+        "lng": 37.6635452
+       }
+      }
+     }
+    ],
+    "libraries_v3": [
+     {
+      "_id": "654cb01abb294d9d542c9d69",
+      "name": "Библиотека на Старой Басманной корпус В",
+      "building_id": "48",
+      "building_source": "ruz",
+      "index": 3,
+      "offices": [
+       {
+        "name": "Читальный зал",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "23:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "23:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "23:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "23:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "23:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "23:00"
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74957729590,15541"
+        ]
+       },
+       {
+        "name": "Абонемент научной литературы",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "20:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "12:00",
+             "end_time": "18:00"
+            }
+           ],
+           "sanitary_day": "SANITARY_DAY_FIRST_FRIDAY"
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+74957729590,15541"
+        ]
+       }
+      ],
+      "building": {
+       "location": {
+        "type": "Point",
+        "coordinates": [
+         37.6635452,
+         55.7668094
+        ]
+       },
+       "name": "Старая Басманная ул., д.21/4, корпус В",
+       "address": "Москва, Старая Басманная ул., д.21/4, корпус В",
+       "campus": "CAMPUS_MOS",
+       "id": "48"
+      }
+     }
+    ]
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.6308021,
+      55.790488
+     ]
+    },
+    "name": "Trifonovskaya ul., 57",
+    "address": "Moscow, Trifonovskaya ul., 57",
+    "campus": "CAMPUS_MOS",
+    "id": "14",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.5719148,
+      55.72931029999999
+     ]
+    },
+    "name": "Usacheva ul., h.6",
+    "address": "Moscow, Usacheva, 6",
+    "campus": "CAMPUS_MOS",
+    "id": "34",
+    "cafes": [
+     {
+      "cafe_id": "65109fbeb78246260f15bc8c",
+      "cafe_name": "Столовая на Усачева",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "2026-08-27",
+       "2026-08-28",
+       "2026-08-29",
+       "2026-08-30",
+       "2026-08-31"
+      ],
+      "address": "Улица Усачева, д.6",
+      "coordinates": {
+       "lat": 55.72931029999999,
+       "lng": 37.5719148
+      },
+      "has_menu": false,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/259387964.jpg",
+       "https://www.hse.ru/pubs/share/direct/259387853.jpg"
+      ],
+      "description": "Первый этаж, рядом с главным входом"
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      37.587291,
+      55.702956
+     ]
+    },
+    "name": "Vavilova ul., h.7",
+    "address": "Moscow, Vavilova 7a",
+    "campus": "CAMPUS_MOS",
+    "id": "7",
+    "cafes": [
+     {
+      "cafe_id": "64ed04c9411dc0b2e4890e3e",
+      "cafe_name": "Столовая на Вавилова",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "closed_dates": [
+       "",
+       "2025-07-01",
+       "2025-07-02",
+       "2025-07-03",
+       "2025-07-04",
+       "2025-07-05",
+       "2025-07-06",
+       "2025-07-07",
+       "2025-07-08",
+       "2025-07-09",
+       "2025-07-10",
+       "2025-07-11",
+       "2025-07-12",
+       "2025-07-13",
+       "2025-07-14",
+       "2025-07-15",
+       "2025-07-16",
+       "2025-07-17",
+       "2025-07-18",
+       "2025-07-19",
+       "2025-07-20",
+       "2025-07-21",
+       "2025-07-22",
+       "2025-07-23",
+       "2025-07-24",
+       "2025-07-25",
+       "2025-07-26",
+       "2025-07-27",
+       "2025-07-28",
+       "2025-07-29",
+       "2025-07-30",
+       "2025-07-31",
+       "2025-08-01",
+       "2025-08-02",
+       "2025-08-03",
+       "2025-08-04",
+       "2025-08-05",
+       "2025-08-06",
+       "2025-08-07",
+       "2025-08-08",
+       "2025-08-09",
+       "2025-08-10",
+       "2025-08-11",
+       "2025-08-12",
+       "2025-08-13",
+       "2025-08-14",
+       "2025-08-15",
+       "2025-08-16",
+       "2025-08-17",
+       "2025-08-18",
+       "2025-08-19",
+       "2025-08-20",
+       "2025-08-21",
+       "2025-08-22",
+       "2025-08-23",
+       "2025-08-24",
+       "2025-08-25",
+       "2025-08-26",
+       "2025-08-27",
+       "2025-08-28",
+       "2025-08-29",
+       "2025-08-30",
+       "2025-08-31"
+      ],
+      "address": "Ул.Вавилова, д.7",
+      "coordinates": {
+       "lat": 55.702956,
+       "lng": 37.587291
+      },
+      "has_menu": false,
+      "photos": [
+       "https://www.hse.ru/pubs/share/direct/405952269.jpg"
+      ],
+      "description": "Главный вход, из вестибюля подняться на лифте на 10 этаж. Далее - налево по коридору, до конца."
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   }
+  ]
+ },
+ {
+  "campus": "CAMPUS_PERM",
+  "near": false,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    56.229443,
+    58.010455
+   ]
+  },
+  "buildings": [
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      56.2770289,
+      58.01623600000001
+     ]
+    },
+    "name": "P B. Gagarina 37",
+    "address": "Perm, Boulevard Gagarina h.37",
+    "campus": "CAMPUS_PERM",
+    "id": "29",
+    "cafes": [
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d89",
+      "cafe_name": "Столовая на Гагарина",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "14:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "Пермь, Бульвар Гагарина, 37",
+      "coordinates": {
+       "lat": 58.01623600000001,
+       "lng": 56.2770289
+      },
+      "has_menu": false,
+      "photos": [
+       "https://perm.hse.ru/pubs/share/direct/807714990.jpg:r1118x745.jpg",
+       "https://perm.hse.ru/pubs/share/direct/807714996.jpg:r1118x745.jpg",
+       "https://perm.hse.ru/pubs/share/direct/807714998.jpg:r1118x745.jpg",
+       "https://perm.hse.ru/pubs/share/direct/807715605.jpg:r1118x745.jpg",
+       "https://perm.hse.ru/pubs/share/direct/807716489.jpg:r1118x745.jpg"
+      ],
+      "description": "Первый этаж. От главного входа налево"
+     }
+    ],
+    "libraries": [
+     {
+      "_id": "6512b1cf87c21169db069b9e",
+      "name": "Библиотека в Перми на Гагарина",
+      "offices": [
+       {
+        "name": "Абонемент, читальный зал и медиатека",
+        "phone_numbers": [
+         "+73422545620,6272"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6512b17287c21169db069b9c",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "0930-1900"
+            },
+            {
+             "day": 2,
+             "time": "0930-1900"
+            },
+            {
+             "day": 3,
+             "time": "0930-1900"
+            },
+            {
+             "day": 4,
+             "time": "0930-1900"
+            },
+            {
+             "day": 5,
+             "time": "0930-1900"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "29",
+      "building_source": "ruz",
+      "address_hint": "к.117, к.120, к.121",
+      "index": 11,
+      "building": {
+       "id": 29,
+       "campus": "CAMPUS_PERM",
+       "name": "П Б.Гагарина 37",
+       "address": "Пермь, бульвар Гагарина д.37",
+       "coordinates": {
+        "lat": 58.01623600000001,
+        "lng": 56.2770289
+       }
+      }
+     }
+    ],
+    "libraries_v3": [
+     {
+      "_id": "654cb01abb294d9d542c9d71",
+      "name": "Библиотека в Перми на Гагарина",
+      "building_id": "29",
+      "building_source": "ruz",
+      "address_hint": "к.117, к.120, к.121",
+      "index": 11,
+      "offices": [
+       {
+        "name": "Абонемент, читальный зал и медиатека",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "09:30",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "09:30",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "09:30",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "09:30",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "09:30",
+             "end_time": "18:00"
+            }
+           ]
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+73422545620,6272"
+        ]
+       }
+      ],
+      "building": {
+       "location": {
+        "type": "Point",
+        "coordinates": [
+         56.2770289,
+         58.01623600000001
+        ]
+       },
+       "name": "П Б.Гагарина 37",
+       "address": "Пермь, бульвар Гагарина д.37",
+       "campus": "CAMPUS_PERM",
+       "id": "29"
+      }
+     }
+    ]
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      56.2768826,
+      58.01640010000001
+     ]
+    },
+    "name": "P Gagarina 37a",
+    "address": "Perm, Bul.Yu.A. Gagarina h.37a",
+    "campus": "CAMPUS_PERM",
+    "id": "18",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      56.2877911,
+      58.020202
+     ]
+    },
+    "name": "P Lebedeva, 27",
+    "address": "Perm, Lebedeva ul. h.27",
+    "campus": "CAMPUS_PERM",
+    "id": "30",
+    "cafes": [
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d8a",
+      "cafe_name": "Столовая на Лебедева",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "Пермь, ул. Лебедева, 27",
+      "coordinates": {
+       "lat": 58.020202,
+       "lng": 56.2877911
+      },
+      "has_menu": false,
+      "photos": [
+       "https://perm.hse.ru/pubs/share/direct/808597001.jpg:r1118x745.jpg",
+       "https://perm.hse.ru/pubs/share/direct/808597003.jpg:r1118x745.jpg",
+       "https://perm.hse.ru/pubs/share/direct/808597013.jpg:r1118x745.jpg",
+       "https://perm.hse.ru/pubs/share/direct/808597001.jpg:r1118x745.jpg"
+      ],
+      "description": "Первый этаж. От главного входа внутри здания прямо до конца коридора"
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      56.283358,
+      58.010566
+     ]
+    },
+    "name": "P Studchenskaya, 23",
+    "address": "Perm, Studchenskaya ul., h.23",
+    "campus": "CAMPUS_PERM",
+    "id": "39",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      56.281996,
+      58.01072699999999
+     ]
+    },
+    "name": "P Studencheskaya, 38",
+    "address": "Perm, Studencheskaya h.38",
+    "campus": "CAMPUS_PERM",
+    "id": "28",
+    "cafes": [
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d88",
+      "cafe_name": "Столовая на Студенческой",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "14:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "Пермь, ул. Студенческая, 38",
+      "coordinates": {
+       "lat": 58.01072699999999,
+       "lng": 56.281996
+      },
+      "has_menu": false,
+      "photos": [
+       "https://perm.hse.ru/pubs/share/direct/759568275.jpg:r1118x745.jpg",
+       "https://perm.hse.ru/pubs/share/direct/759568337.jpg:r1118x745.jpg",
+       "https://perm.hse.ru/pubs/share/direct/759568370.jpg:r1118x745.jpg",
+       "https://perm.hse.ru/pubs/share/direct/759568383.jpg:r1118x745.jpg"
+      ],
+      "description": "Первый этаж. От главного входа налево и до конца коридора."
+     }
+    ],
+    "libraries": [
+     {
+      "_id": "6512b11c87c21169db069b9a",
+      "name": "Библиотека в Перми на Студенческой",
+      "offices": [
+       {
+        "name": "Абонемент, читальный зал и медиатека",
+        "phone_numbers": [
+         "+73422055217,6017"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6512b09c87c21169db069b98",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "0930-1900"
+            },
+            {
+             "day": 2,
+             "time": "0930-1900"
+            },
+            {
+             "day": 3,
+             "time": "0930-1900"
+            },
+            {
+             "day": 4,
+             "time": "0930-1900"
+            },
+            {
+             "day": 5,
+             "time": "0930-1900"
+            },
+            {
+             "day": 6,
+             "time": "0900-1700"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "28",
+      "building_source": "ruz",
+      "address_hint": "к.106",
+      "index": 10,
+      "building": {
+       "id": 28,
+       "campus": "CAMPUS_PERM",
+       "name": "П Студенческая, 38",
+       "address": "Пермь, Студенческая д.38",
+       "coordinates": {
+        "lat": 58.01072699999999,
+        "lng": 56.281996
+       }
+      }
+     }
+    ],
+    "libraries_v3": [
+     {
+      "_id": "654cb01abb294d9d542c9d6f",
+      "name": "Библиотека в Перми на Студенческой",
+      "building_id": "28",
+      "building_source": "ruz",
+      "address_hint": "к.106",
+      "index": 10,
+      "offices": [
+       {
+        "name": "Абонемент, читальный зал и медиатека",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "09:30",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "09:30",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "09:30",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "09:30",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "09:30",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": false
+            }
+           ]
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+73422055217,6017"
+        ]
+       }
+      ],
+      "building": {
+       "location": {
+        "type": "Point",
+        "coordinates": [
+         56.281996,
+         58.01072699999999
+        ]
+       },
+       "name": "П Студенческая, 38",
+       "address": "Пермь, Студенческая д.38",
+       "campus": "CAMPUS_PERM",
+       "id": "28"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "campus": "CAMPUS_SPB",
+  "near": false,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    30.314997,
+    59.938784
+   ]
+  },
+  "buildings": [
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      30.263913,
+      59.928891
+     ]
+    },
+    "name": "St. Petersburg, building Kanatniy Tsekh",
+    "address": "Saint Petersburg, liniya 25 Vasilyevskogo ostrova, dom 6, block 1, unit B",
+    "campus": "CAMPUS_SPB",
+    "id": "85",
+    "cafes": [
+     {
+      "cafe_id": "67f3b0f69dcbf584a78a3f22",
+      "cafe_name": "Слой в Канатном",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "СПб, линия 25-я В.О., дом 6, корпус 1, литера Б",
+      "coordinates": {
+       "lat": 59.928891,
+       "lng": 30.263913
+      },
+      "has_menu": false,
+      "photo": "https://storage.yandexcloud.net/hseapp-media/manual/sloy.jpg",
+      "photos": [
+       "https://storage.yandexcloud.net/hseapp-media/manual/photo_2025-04-04%2014.39.04.jpeg",
+       "https://storage.yandexcloud.net/hseapp-media/manual/photo_2025-04-04%2014.39.14.jpeg"
+      ],
+      "description": "Первый этаж"
+     },
+     {
+      "cafe_id": "69e7aec44f700fdcf4ee9b2c",
+      "cafe_name": "Микромаркет Self",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": true
+       }
+      ],
+      "address": "СПб, линия 25-я В.О., дом 6, корпус 1, литера Б",
+      "coordinates": {
+       "lat": 59.928767,
+       "lng": 30.264197
+      },
+      "has_menu": false,
+      "photo": "https://s3.hseapp.ru/static/cafe/self_logo.jpeg",
+      "description": "Первый этаж. Помещение 112.\n\nЧто предлагается:\n— завтраки и обеды в контейнерах\n— снэки\n— кофе с собой\n— напитки\n— десерты"
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      30.303247,
+      59.923743
+     ]
+    },
+    "name": "St. Petersburg, nab. Canala Griboedova, h.123, 119-121, lit.A",
+    "address": "St. Petersburg, nab. Canala Griboedova, h.123,119-121 lit.A",
+    "campus": "CAMPUS_SPB",
+    "id": "40",
+    "cafes": [
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d91",
+      "cafe_name": "Столовая на Грибоедова",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "СПб, наб. Канала Грибоедова, д.121",
+      "coordinates": {
+       "lat": 59.923743,
+       "lng": 30.303247
+      },
+      "has_menu": false,
+      "photos": [
+       "https://spb.hse.ru/pubs/share/direct/231962351.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231962355.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231962368.jpg:r1118x745.jpg"
+      ],
+      "description": "Цокольный этаж. От центрального входа  вниз по лестнице."
+     },
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d92",
+      "cafe_name": "Слой на Грибоедова",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "СПб, наб. Канала Грибоедова, д.121",
+      "coordinates": {
+       "lat": 59.923743,
+       "lng": 30.303247
+      },
+      "has_menu": false,
+      "photo": "https://storage.yandexcloud.net/hseapp-media/manual/sloy.jpg",
+      "photos": [
+       "https://spb.hse.ru/pubs/share/direct/231962441.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231962451.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231962460.jpg:r1118x745.jpg"
+      ],
+      "description": "Второй этаж. С главной лестницы прямо."
+     },
+     {
+      "cafe_id": "69e7ad624f700fdcf4ee9b2b",
+      "cafe_name": "Микромаркет Self",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": true
+       }
+      ],
+      "address": "СПб, наб. Канала Грибоедова, д.121",
+      "coordinates": {
+       "lat": 59.92304,
+       "lng": 30.303444
+      },
+      "has_menu": false,
+      "photo": "https://s3.hseapp.ru/static/cafe/self_logo.jpeg",
+      "description": "Холл 3 этажа. От лифта направо.\n\nЧто предлагается:\n— завтраки и обеды в контейнерах\n— снэки\n— кофе с собой\n— напитки\n— десерты"
+     }
+    ],
+    "libraries": [
+     {
+      "_id": "6512b38b87c21169db069ba2",
+      "name": "Библиотека в Питере на Грибоедова",
+      "offices": [
+       {
+        "name": "Абонемент, читальный зал",
+        "address_hint": null,
+        "phone_numbers": [
+         "+76635911,61291"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6512b32487c21169db069ba0",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-2100"
+            },
+            {
+             "day": 2,
+             "time": "1000-2100"
+            },
+            {
+             "day": 3,
+             "time": "1000-2100"
+            },
+            {
+             "day": 4,
+             "time": "1000-2100"
+            },
+            {
+             "day": 5,
+             "time": "1000-2100"
+            },
+            {
+             "day": 6,
+             "time": "1000-2100"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Помещение для самостоятельной работы",
+        "address_hint": null,
+        "phone_numbers": [
+         "+76635911,61291"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6512b32487c21169db069ba0",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-2100"
+            },
+            {
+             "day": 2,
+             "time": "1000-2100"
+            },
+            {
+             "day": 3,
+             "time": "1000-2100"
+            },
+            {
+             "day": 4,
+             "time": "1000-2100"
+            },
+            {
+             "day": 5,
+             "time": "1000-2100"
+            },
+            {
+             "day": 6,
+             "time": "1000-2100"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "40",
+      "building_source": "ruz",
+      "index": 12,
+      "building": {
+       "id": 40,
+       "campus": "CAMPUS_SPB",
+       "name": "СПб, наб. канала Грибоедова, д.123, 119-121, лит. А",
+       "address": "Санкт-Петербург, наб. канала Грибоедова, д.123,119-121 лит. А",
+       "coordinates": {
+        "lat": 59.923743,
+        "lng": 30.303247
+       }
+      }
+     }
+    ],
+    "libraries_v3": [
+     {
+      "_id": "654cb01abb294d9d542c9d73",
+      "name": "Библиотека в Питере на Грибоедова",
+      "building_id": "40",
+      "building_source": "ruz",
+      "index": 12,
+      "offices": [
+       {
+        "name": "Абонемент, читальный зал",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            }
+           ]
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+76635911,61291"
+        ]
+       },
+       {
+        "name": "Помещение для самостоятельной работы",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "21:00"
+            }
+           ]
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+76635911,61291"
+        ]
+       }
+      ],
+      "building": {
+       "location": {
+        "type": "Point",
+        "coordinates": [
+         30.303247,
+         59.923743
+        ]
+       },
+       "name": "СПб, наб. канала Грибоедова, д.123, 119-121, лит. А",
+       "address": "Санкт-Петербург, наб. канала Грибоедова, д.123,119-121 лит. А",
+       "campus": "CAMPUS_SPB",
+       "id": "40"
+      }
+     }
+    ]
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      30.2901387,
+      59.9231245
+     ]
+    },
+    "name": "St. Petersburg, ul. Soyuza Pechatnikov 16",
+    "address": "St. Petersburg, ul. Soyuza Pechatnikov, 16",
+    "campus": "CAMPUS_SPB",
+    "id": "22",
+    "cafes": [
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d8f",
+      "cafe_name": "Столовая на Союзе Печатников",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "17:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "СПб, ул. Союза Печатников, д.16",
+      "coordinates": {
+       "lat": 59.9231245,
+       "lng": 30.2901387
+      },
+      "has_menu": false,
+      "photos": [
+       "https://spb.hse.ru/pubs/share/direct/231962237.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231962241.jpg:r1118x745.jpg"
+      ],
+      "description": "Первый этаж. От центрального входа  через пропускной пункт направо."
+     },
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d90",
+      "cafe_name": "Слой на Союзе Печатников",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "СПб, ул. Союза Печатников, д.16",
+      "coordinates": {
+       "lat": 59.9231245,
+       "lng": 30.2901387
+      },
+      "has_menu": false,
+      "photo": "https://storage.yandexcloud.net/hseapp-media/manual/sloy.jpg",
+      "photos": [
+       "https://spb.hse.ru/pubs/share/direct/231962304.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231962311.jpg:r1118x745.jpg"
+      ],
+      "description": "Третий этаж. С главной лестницы налево, прямо по коридору."
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      30.3272148,
+      59.9800492
+     ]
+    },
+    "name": "St. Petersburg, ul.Kantemirovskaya 3",
+    "address": "St. Petersburg, l.Kantemirovskaya h. 3, building.1, lit.A",
+    "campus": "CAMPUS_SPB",
+    "id": "19",
+    "cafes": [
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d8b",
+      "cafe_name": "Столовая на Канте",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "СПб, ул. Кантемировская, д.3",
+      "coordinates": {
+       "lat": 59.9800492,
+       "lng": 30.3272148
+      },
+      "has_menu": false,
+      "photos": [
+       "https://spb.hse.ru/pubs/share/direct/231960265.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231960284.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231960290.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231960294.jpg:r1118x745.jpg"
+      ],
+      "description": "Первый этаж. От главного входа  направо"
+     },
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d8c",
+      "cafe_name": "Кафе на Канте",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "СПб, ул. Кантемировская, д.3",
+      "coordinates": {
+       "lat": 59.9800492,
+       "lng": 30.3272148
+      },
+      "has_menu": false,
+      "photos": [
+       "https://spb.hse.ru/pubs/share/direct/231960404.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231960434.jpg:r1118x745.jpg"
+      ],
+      "description": "Первый этаж. От главного входа  направо"
+     },
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d8d",
+      "cafe_name": "Слой на Канте • 3 этаж",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "20:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "СПб, ул. Кантемировская, д.3",
+      "coordinates": {
+       "lat": 59.9800492,
+       "lng": 30.3272148
+      },
+      "has_menu": false,
+      "photo": "https://storage.yandexcloud.net/hseapp-media/manual/sloy.jpg",
+      "photos": [
+       "https://spb.hse.ru/pubs/share/direct/231961457.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231961467.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231961480.jpg:r1118x745.jpg"
+      ],
+      "description": "Третий этаж. Из лифта налево"
+     },
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d8e",
+      "cafe_name": "Кофейня на Канте • 4 этаж",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "СПб, ул. Кантемировская, д.3",
+      "coordinates": {
+       "lat": 59.9800492,
+       "lng": 30.3272148
+      },
+      "has_menu": false,
+      "photos": [
+       "https://spb.hse.ru/pubs/share/direct/231962178.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231962182.jpg:r1118x745.jpg"
+      ],
+      "description": "Четвертый  этаж. Из лифта направо"
+     },
+     {
+      "cafe_id": "69e7af234f700fdcf4ee9b2d",
+      "cafe_name": "Микромаркет Self",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": true
+       }
+      ],
+      "address": "СПб, ул. Кантемировская, д.3",
+      "coordinates": {
+       "lat": 59.980249,
+       "lng": 30.327025
+      },
+      "has_menu": false,
+      "photo": "https://s3.hseapp.ru/static/cafe/self_logo.jpeg",
+      "description": "От главного входа налево. ЛАТТ, холл 1 этажа.\n\nЧто предлагается:\n— завтраки и обеды в контейнерах\n— снэки\n— кофе с собой\n— напитки\n— десерты"
+     }
+    ],
+    "libraries": [
+     {
+      "_id": "6512b47687c21169db069ba6",
+      "name": "Библиотека в Питере на Канте",
+      "offices": [
+       {
+        "name": "Абонемент, читальный зал, к.427",
+        "address_hint": null,
+        "phone_numbers": [
+         "+78126645911,61533"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6512b3cd87c21169db069ba4",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-1800"
+            },
+            {
+             "day": 2,
+             "time": "1000-1800"
+            },
+            {
+             "day": 3,
+             "time": "1000-1800"
+            },
+            {
+             "day": 4,
+             "time": "1000-1800"
+            },
+            {
+             "day": 5,
+             "time": "1000-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Помещение для самостоятельной работы, к.1006, 1008, 1009",
+        "address_hint": null,
+        "phone_numbers": [
+         "+78126645911,61612"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6512b48687c21169db069ba8",
+           "open_periods": [
+            {
+             "day": 0,
+             "time": "0000"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Коворкинг, к.1010",
+        "address_hint": null,
+        "phone_numbers": [
+         "+78126645911,61612"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6512b48687c21169db069ba8",
+           "open_periods": [
+            {
+             "day": 0,
+             "time": "0000"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "19",
+      "building_source": "ruz",
+      "index": 13,
+      "building": {
+       "id": 19,
+       "campus": "CAMPUS_SPB",
+       "name": "СПб, ул. Кантемировская 3",
+       "address": "Санкт-Петербург, л. Кантемировская д. 3, корп. 1, лит. А",
+       "coordinates": {
+        "lat": 59.9800492,
+        "lng": 30.3272148
+       }
+      }
+     }
+    ],
+    "libraries_v3": [
+     {
+      "_id": "654cb01abb294d9d542c9d75",
+      "name": "Библиотека в Питере на Канте",
+      "building_id": "19",
+      "building_source": "ruz",
+      "index": 13,
+      "offices": [
+       {
+        "name": "Абонемент, читальный зал, к.427",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "18:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "10:00",
+             "end_time": "18:00"
+            }
+           ]
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+78126645911,61533"
+        ]
+       },
+       {
+        "name": "Помещение для самостоятельной работы, к.1006, 1008, 1009",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            },
+            {
+             "day_of_week": "sunday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            }
+           ]
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+78126645911,61612"
+        ]
+       },
+       {
+        "name": "Коворкинг, к.1010",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            },
+            {
+             "day_of_week": "sunday",
+             "is_open": true,
+             "start_time": "00:00",
+             "end_time": "23:59"
+            }
+           ]
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+78126645911,61612"
+        ]
+       }
+      ],
+      "building": {
+       "location": {
+        "type": "Point",
+        "coordinates": [
+         30.3272148,
+         59.9800492
+        ]
+       },
+       "name": "СПб, ул. Кантемировская 3",
+       "address": "Санкт-Петербург, л. Кантемировская д. 3, корп. 1, лит. А",
+       "campus": "CAMPUS_SPB",
+       "id": "19"
+      }
+     }
+    ]
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      30.263982,
+      59.897732
+     ]
+    },
+    "name": "St. Petersburg, ul.Promyshlennaya 17",
+    "address": "St. Petersburg, ul.Promyshlennaya, h.17 ,, LIT.To a",
+    "campus": "CAMPUS_SPB",
+    "id": "20",
+    "cafes": [
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d93",
+      "cafe_name": "Столовая на Промышленной",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "СПб, ул. Промышленная, д.17",
+      "coordinates": {
+       "lat": 59.897732,
+       "lng": 30.263982
+      },
+      "has_menu": false,
+      "photos": [
+       "https://spb.hse.ru/pubs/share/direct/231962565.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231962557.jpg:r1118x745.jpg"
+      ],
+      "description": "Первый этаж. От главного входа  направо, прямо по коридору"
+     },
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d94",
+      "cafe_name": "Кофейня на Промышленной",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "СПб, ул. Промышленная, д.17",
+      "coordinates": {
+       "lat": 59.897732,
+       "lng": 30.263982
+      },
+      "has_menu": false,
+      "photos": [
+       "https://spb.hse.ru/pubs/share/direct/231962611.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231962616.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231962622.jpg:r1118x745.jpg"
+      ],
+      "description": "Четвертый этаж. Подняться по левой лестнице, прямо."
+     }
+    ],
+    "libraries": [
+     {
+      "_id": "6512b55187c21169db069baa",
+      "name": "Библиотека в Питере на Промышленной",
+      "offices": [
+       {
+        "name": "Абонемент, читальный зал",
+        "address_hint": null,
+        "phone_numbers": [
+         "+78126645911,61413"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6512b3cd87c21169db069ba4",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-1800"
+            },
+            {
+             "day": 2,
+             "time": "1000-1800"
+            },
+            {
+             "day": 3,
+             "time": "1000-1800"
+            },
+            {
+             "day": 4,
+             "time": "1000-1800"
+            },
+            {
+             "day": 5,
+             "time": "1000-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "20",
+      "building_source": "ruz",
+      "address_hint": "к.218",
+      "index": 14,
+      "building": {
+       "id": 20,
+       "campus": "CAMPUS_SPB",
+       "name": "СПб, ул. Промышленная 17",
+       "address": "Санкт-Петербург, ул. Промышленная, д. 17, к. 305",
+       "coordinates": {
+        "lat": 59.897732,
+        "lng": 30.263982
+       }
+      }
+     }
+    ],
+    "libraries_v3": [
+     {
+      "_id": "654cb01abb294d9d542c9d77",
+      "name": "Библиотека в Питере на Промышленной",
+      "building_id": "20",
+      "building_source": "ruz",
+      "address_hint": "к.218",
+      "index": 14,
+      "offices": [
+       {
+        "name": "Абонемент, читальный зал",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": false
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": false
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": false
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": false
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": false
+            }
+           ]
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+78126645911,61413"
+        ]
+       }
+      ],
+      "building": {
+       "location": {
+        "type": "Point",
+        "coordinates": [
+         30.263982,
+         59.897732
+        ]
+       },
+       "name": "СПб, ул. Промышленная 17",
+       "address": "Санкт-Петербург, ул. Промышленная, д. 17,, лит. А",
+       "campus": "CAMPUS_SPB",
+       "id": "20"
+      }
+     }
+    ]
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      30.423447,
+      59.88115899999999
+     ]
+    },
+    "name": "St. Petersburg, ul.Sedova 55 K. 2",
+    "address": "St. Petersburg, ul.Sedova, 55 Corp.2",
+    "campus": "CAMPUS_SPB",
+    "id": "21",
+    "cafes": [
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d95",
+      "cafe_name": "Столовая на Седова",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "19:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "10:00",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "СПб, Ул. Седова, д.55",
+      "coordinates": {
+       "lat": 59.88115899999999,
+       "lng": 30.423447
+      },
+      "has_menu": false,
+      "photos": [
+       "https://spb.hse.ru/pubs/share/direct/231962939.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231962948.jpg:r1118x745.jpg"
+      ],
+      "description": "Первый этаж. От главного входа  налево, прямо по коридору."
+     },
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d96",
+      "cafe_name": "Слой на Седова",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": true,
+        "start_time": "08:30",
+        "end_time": "18:00"
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "СПб, Ул. Седова, д.55",
+      "coordinates": {
+       "lat": 59.88115899999999,
+       "lng": 30.423447
+      },
+      "has_menu": false,
+      "photo": "https://storage.yandexcloud.net/hseapp-media/manual/sloy.jpg",
+      "photos": [
+       "https://spb.hse.ru/pubs/share/direct/231963015.jpg:r1118x745.jpg",
+       "https://spb.hse.ru/pubs/share/direct/231963023.jpg:r1118x745.jpg"
+      ],
+      "description": "Первый этаж. От главного входа  налево, прямо по коридору."
+     }
+    ],
+    "libraries": [
+     {
+      "_id": "6512b62a87c21169db069bb0",
+      "name": "Библиотека в Питере на Седова",
+      "offices": [
+       {
+        "name": "Абонемент, к.111",
+        "address_hint": null,
+        "phone_numbers": [
+         "+78125600574"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6512b58587c21169db069bac",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "1000-1800"
+            },
+            {
+             "day": 2,
+             "time": "1000-1800"
+            },
+            {
+             "day": 4,
+             "time": "1000-1800"
+            },
+            {
+             "day": 5,
+             "time": "1000-1800"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       },
+       {
+        "name": "Помещение для самостоятельной работы, к.218",
+        "address_hint": null,
+        "phone_numbers": [
+         "+78125600574"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6512b5ca87c21169db069bae",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "0900-2100"
+            },
+            {
+             "day": 2,
+             "time": "0900-2100"
+            },
+            {
+             "day": 3,
+             "time": "0900-2100"
+            },
+            {
+             "day": 4,
+             "time": "0900-2100"
+            },
+            {
+             "day": 5,
+             "time": "0900-2100"
+            },
+            {
+             "day": 6,
+             "time": "0900-2100"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "21",
+      "building_source": "ruz",
+      "index": 14,
+      "building": {
+       "id": 21,
+       "campus": "CAMPUS_SPB",
+       "name": "СПб, ул. Седова 55 к. 2",
+       "address": "Санкт-Петербург, ул. Седова, 55 корп. 2",
+       "coordinates": {
+        "lat": 59.88115899999999,
+        "lng": 30.423447
+       }
+      }
+     }
+    ],
+    "libraries_v3": [
+     {
+      "_id": "654cb01abb294d9d542c9d79",
+      "name": "Библиотека в Питере на Седова",
+      "building_id": "21",
+      "building_source": "ruz",
+      "index": 14,
+      "offices": [
+       {
+        "name": "Абонемент, к.111",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": false
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": false
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": false
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": false
+            }
+           ]
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+78125600574"
+        ]
+       },
+       {
+        "name": "Помещение для самостоятельной работы, к.218",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": false
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": false
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": false
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": false
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": false
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": false
+            }
+           ]
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+78125600574"
+        ]
+       }
+      ],
+      "building": {
+       "location": {
+        "type": "Point",
+        "coordinates": [
+         30.423447,
+         59.88115899999999
+        ]
+       },
+       "name": "СПб, ул. Седова 55 к. 2",
+       "address": "Санкт-Петербург, ул. Седова, 55 корп. 2",
+       "campus": "CAMPUS_SPB",
+       "id": "21"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "campus": "CAMPUS_NNOV",
+  "near": false,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    44.006516,
+    56.326797
+   ]
+  },
+  "buildings": [
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      44.02208,
+      56.324897
+     ]
+    },
+    "name": "N.N., B. Pecherskaya, 25/12",
+    "address": "Nizhny Novgorod, ul.B.Pecherskaya, 25/12",
+    "campus": "CAMPUS_NNOV",
+    "id": "23",
+    "cafes": [
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d84",
+      "cafe_name": "Столовая на Большой Печерской",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "НН, Большая Печерская ул., д. 25/12",
+      "coordinates": {
+       "lat": 56.324897,
+       "lng": 44.02208
+      },
+      "has_menu": false,
+      "description": "Первый этаж, после главного входа – налево по коридору, крайнее помещение слева"
+     }
+    ],
+    "libraries": [
+     {
+      "_id": "6512afe387c21169db069b96",
+      "name": "Библиотека в Нижнем на Печерской",
+      "offices": [
+       {
+        "name": "Абонемент и читальный зал",
+        "phone_numbers": [
+         "+78314367409,6343",
+         "+78314363904,6336"
+        ],
+        "rules": [
+         {
+          "name": null,
+          "schedule": {
+           "_id": "6512af2387c21169db069b94",
+           "open_periods": [
+            {
+             "day": 1,
+             "time": "0830-1900"
+            },
+            {
+             "day": 2,
+             "time": "0830-1900"
+            },
+            {
+             "day": 3,
+             "time": "0830-1900"
+            },
+            {
+             "day": 4,
+             "time": "0830-1900"
+            },
+            {
+             "day": 5,
+             "time": "0830-1900"
+            },
+            {
+             "day": 6,
+             "time": "0830-1700"
+            }
+           ],
+           "close_periods": [],
+           "open_now": true
+          }
+         }
+        ]
+       }
+      ],
+      "building_id": "23",
+      "building_source": "ruz",
+      "address_hint": "корпус N",
+      "index": 9,
+      "building": {
+       "id": 23,
+       "campus": "CAMPUS_NNOV",
+       "name": "Н.Н., Б. Печерская, 25/12",
+       "address": "Нижний Новгород, ул. Б. Печерская, 25/12",
+       "coordinates": {
+        "lat": 56.324897,
+        "lng": 44.02208
+       }
+      }
+     }
+    ],
+    "libraries_v3": [
+     {
+      "_id": "654cb01abb294d9d542c9d6d",
+      "name": "Библиотека в Нижнем на Печерской",
+      "building_id": "23",
+      "building_source": "ruz",
+      "address_hint": "корпус N",
+      "index": 9,
+      "offices": [
+       {
+        "name": "Абонемент и читальный зал",
+        "rules": [
+         {
+          "schedule": {
+           "opening_hours": [
+            {
+             "day_of_week": "monday",
+             "is_open": true,
+             "start_time": "08:30",
+             "end_time": "17:00"
+            },
+            {
+             "day_of_week": "tuesday",
+             "is_open": true,
+             "start_time": "08:30",
+             "end_time": "17:00"
+            },
+            {
+             "day_of_week": "wednesday",
+             "is_open": true,
+             "start_time": "08:30",
+             "end_time": "17:00"
+            },
+            {
+             "day_of_week": "thursday",
+             "is_open": true,
+             "start_time": "08:30",
+             "end_time": "17:00"
+            },
+            {
+             "day_of_week": "friday",
+             "is_open": true,
+             "start_time": "08:30",
+             "end_time": "17:00"
+            },
+            {
+             "day_of_week": "saturday",
+             "is_open": false
+            }
+           ]
+          }
+         }
+        ],
+        "phone_numbers": [
+         "+78314367409,6343",
+         "+78314363904,6336"
+        ]
+       }
+      ],
+      "building": {
+       "location": {
+        "type": "Point",
+        "coordinates": [
+         44.02208,
+         56.324897
+        ]
+       },
+       "name": "Н.Н., Б. Печерская, 25/12",
+       "address": "Нижний Новгород, ул. Б. Печерская, 25/12",
+       "campus": "CAMPUS_NNOV",
+       "id": "23"
+      }
+     }
+    ]
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      43.991838,
+      56.31265
+     ]
+    },
+    "name": "N.N., Kostina, 2b",
+    "address": "Nizhny Novgorod, ul.Kostina, 2b",
+    "campus": "CAMPUS_NNOV",
+    "id": "73",
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      43.8777569,
+      56.268482
+     ]
+    },
+    "name": "N.N., Lvovskaya, 1B",
+    "address": "Nizhny Novgorod, ul. Lvovskaya, 1в",
+    "campus": "CAMPUS_NNOV",
+    "id": "26",
+    "cafes": [
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d85",
+      "cafe_name": "Столовая на Львовской",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": true,
+        "start_time": "09:00",
+        "end_time": "16:00"
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "НН, Львовская ул., д. 1в",
+      "coordinates": {
+       "lat": 56.268482,
+       "lng": 43.8777569
+      },
+      "has_menu": false,
+      "description": "Первый этаж, столовая расположена в отдельном крыле, вход в которое находится напротив главного входа под основной лестницей."
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      44.0672824,
+      56.3173819
+     ]
+    },
+    "name": "N.N., Rodionova 136",
+    "address": "Nizhny Novgorod, ul.Rodionova, 136",
+    "campus": "CAMPUS_NNOV",
+    "id": "25",
+    "cafes": [
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d86",
+      "cafe_name": "Буфет на Родионова",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "НН, Родионова ул., д. 136",
+      "coordinates": {
+       "lat": 56.3173819,
+       "lng": 44.0672824
+      },
+      "has_menu": false,
+      "description": "Первый этаж, столовая расположена в отдельном крыле, вход в которое находится напротив главного входа под основной лестницей."
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   },
+   {
+    "location": {
+     "type": "Point",
+     "coordinates": [
+      43.888166,
+      56.33496599999999
+     ]
+    },
+    "name": "N.N., Sormovskoe sh., 30",
+    "address": "Nizhny Novgorod, Sormovskoe sh., 30",
+    "campus": "CAMPUS_NNOV",
+    "id": "24",
+    "cafes": [
+     {
+      "cafe_id": "6510b5265e2e1af6e6281d87",
+      "cafe_name": "Столовая на Сормовском",
+      "opening_hours": [
+       {
+        "day_of_week": "monday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "tuesday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "wednesday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "thursday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "friday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "saturday",
+        "is_open": false
+       },
+       {
+        "day_of_week": "sunday",
+        "is_open": false
+       }
+      ],
+      "address": "НН, Сормовское ш, д. 30",
+      "coordinates": {
+       "lat": 56.33496599999999,
+       "lng": 43.888166
+      },
+      "has_menu": false,
+      "description": "Первый этаж, после главного входа направо (с лестничных клеток – налево) по коридору, крайнее помещение слева"
+     }
+    ],
+    "libraries": [],
+    "libraries_v3": []
+   }
+  ]
+ }
+]

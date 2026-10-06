@@ -1,0 +1,82 @@
+[
+ {
+  "type": "GROUP",
+  "id": "ruz47990",
+  "label": "БИБ255",
+  "description": "Б 10.03.01 миэм м 2019 очная информационная безопасность 97",
+  "course": 2,
+  "program_name": "2019 очная Информационная безопасность 97",
+  "kind": "edu"
+ },
+ {
+  "type": "GROUP",
+  "id": "ruz45853",
+  "label": "БИБ215",
+  "description": "Б 10.03.01 миэм м 2019 очная информационная безопасность 97",
+  "course": 4,
+  "program_name": "2019 очная Информационная безопасность 97",
+  "kind": "edu"
+ },
+ {
+  "type": "GROUP",
+  "id": "ruz47986",
+  "label": "БИБ251",
+  "description": "Б 10.03.01 миэм м 2019 очная информационная безопасность 97",
+  "course": 2,
+  "program_name": "2019 очная Информационная безопасность 97",
+  "kind": "edu"
+ },
+ {
+  "type": "GROUP",
+  "id": "ruz47987",
+  "label": "БИБ252",
+  "description": "Б 10.03.01 миэм м 2019 очная информационная безопасность 97",
+  "course": 2,
+  "program_name": "2019 очная Информационная безопасность 97",
+  "kind": "edu"
+ },
+ {
+  "type": "GROUP",
+  "id": "ruz47988",
+  "label": "БИБ253",
+  "description": "Б 10.03.01 миэм м 2019 очная информационная безопасность 97",
+  "course": 2,
+  "program_name": "2019 очная Информационная безопасность 97",
+  "kind": "edu"
+ },
+ {
+  "type": "GROUP",
+  "id": "ruz47989",
+  "label": "БИБ254",
+  "description": "Б 10.03.01 миэм м 2019 очная информационная безопасность 97",
+  "course": 2,
+  "program_name": "2019 очная Информационная безопасность 97",
+  "kind": "edu"
+ },
+ {
+  "id": "lk171725",
+  "full_name": "Bogova Valeriya Ruslanovna",
+  "email": "vrbogova@edu.hse.ru",
+  "description": "Student",
+  "has_phone": false,
+  "type": "STUDENT"
+ },
+ {
+  "id": "lk96853",
+  "full_name": "Shirikov Ilya Romanovich",
+  "birth_date": "2005-11-28",
+  "email": "irshirikov@edu.hse.ru",
+  "description": "Bachelor БМБ235",
+  "has_phone": false,
+  "type": "STUDENT"
+ },
+ {
+  "id": "lk98902",
+  "full_name": "Avstriyskiy Vladimir Aleksandrovich",
+  "birth_date": "2005-09-18",
+  "email": "vaavstriiskii@edu.hse.ru",
+  "description": "Bachelor ББИ235",
+  "has_phone": false,
+  "type": "STUDENT"
+ }
+]

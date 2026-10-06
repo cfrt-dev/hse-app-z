@@ -1,0 +1,435 @@
+{
+ "items": [
+  {
+   "id": "8119242",
+   "program_id": "000275111",
+   "discipline": "Algebra and Geometry",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 9,
+    "five_point_scale": 5,
+    "pass": false
+   },
+   "date": "2025-12-24T00:00:00",
+   "module_name": "2 module",
+   "period_credits": 4,
+   "credits": 4,
+   "entire_hours": 152,
+   "aud_hours": 56,
+   "academic_year": "2025/2026",
+   "module_num": "2",
+   "lecturer": "Kuvshinov Aleksey Vladimirovich, Anohin Vyacheslav Vladimirovich, Ivanov Fedor Ilich"
+  },
+  {
+   "id": "8119222",
+   "program_id": "000275111",
+   "discipline": "Informatics, Computer Systems and Networks",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 6,
+    "five_point_scale": 4,
+    "pass": false
+   },
+   "date": "2026-06-22T00:00:00",
+   "module_name": "4 module",
+   "period_credits": 3,
+   "credits": 3,
+   "entire_hours": 114,
+   "aud_hours": 18,
+   "academic_year": "2025/2026",
+   "module_num": "4",
+   "lecturer": "Minchenkov Viktor Olegovich"
+  },
+  {
+   "id": "8119218",
+   "program_id": "000275111",
+   "discipline": "Algorithmization and Programming",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 8,
+    "five_point_scale": 5,
+    "pass": false
+   },
+   "date": "2026-06-26T00:00:00",
+   "module_name": "4 module",
+   "period_credits": 6,
+   "credits": 6,
+   "entire_hours": 228,
+   "aud_hours": 88,
+   "academic_year": "2025/2026",
+   "module_num": "4",
+   "lecturer": "Nikitin Bogdan Sergeevich, Morozov Vladimir Igorevich, Lukashov Sergey Aleksandrovich"
+  },
+  {
+   "id": "8119228",
+   "program_id": "000275111",
+   "discipline": "Calculus",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 5,
+    "five_point_scale": 3,
+    "pass": false
+   },
+   "date": "2026-06-23T00:00:00",
+   "module_name": "4 module",
+   "period_credits": 6,
+   "credits": 6,
+   "entire_hours": 228,
+   "aud_hours": 120,
+   "academic_year": "2025/2026",
+   "module_num": "4",
+   "lecturer": "Ahmetev Petr Mihaylovich, Chetverikov Viktor Mihaylovich"
+  },
+  {
+   "id": "8654232",
+   "program_id": "000275111",
+   "discipline": "Algorithmization and Programming",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 7,
+    "five_point_scale": 4,
+    "pass": false
+   },
+   "date": "2026-06-30T00:00:00",
+   "module_name": "4 module",
+   "period_credits": 0,
+   "credits": 0,
+   "entire_hours": 0,
+   "aud_hours": 2,
+   "academic_year": "2025/2026",
+   "module_num": "4",
+   "lecturer": "Nikitin Bogdan Sergeevich"
+  },
+  {
+   "id": "8119212",
+   "program_id": "000275111",
+   "discipline": "Russian History",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 5,
+    "five_point_scale": 3,
+    "pass": false
+   },
+   "date": "2025-12-25T00:00:00",
+   "module_name": "2 module",
+   "period_credits": 1,
+   "credits": 1,
+   "entire_hours": 38,
+   "aud_hours": 28,
+   "academic_year": "2025/2026",
+   "module_num": "2",
+   "lecturer": "Hatanzeyskaya Elizaveta Vladimirovna"
+  },
+  {
+   "id": "8119232",
+   "program_id": "000275111",
+   "discipline": "English Language Integrative Exam",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 6,
+    "five_point_scale": 4,
+    "pass": false
+   },
+   "date": "2026-07-07T00:00:00",
+   "module_name": "4 module",
+   "period_credits": 0,
+   "credits": 0,
+   "entire_hours": 0,
+   "aud_hours": 2,
+   "academic_year": "2025/2026",
+   "module_num": "4"
+  },
+  {
+   "id": "8119207",
+   "program_id": "000275111",
+   "discipline": "Safe Living Basics",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 7,
+    "five_point_scale": 4,
+    "pass": false
+   },
+   "date": "2025-12-22T00:00:00",
+   "module_name": "2 module",
+   "period_credits": 1,
+   "credits": 1,
+   "entire_hours": 0,
+   "aud_hours": 18,
+   "academic_year": "2025/2026",
+   "module_num": "2",
+   "lecturer": "Efimov Dmitriy Borisovich"
+  },
+  {
+   "id": "8119220",
+   "program_id": "000275111",
+   "discipline": "Informatics, Computer Systems and Networks",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 8,
+    "five_point_scale": 5,
+    "pass": false
+   },
+   "date": "2026-03-28T00:00:00",
+   "module_name": "3 module",
+   "period_credits": 7,
+   "credits": 7,
+   "entire_hours": 266,
+   "aud_hours": 102,
+   "academic_year": "2025/2026",
+   "module_num": "3",
+   "lecturer": "Ilyuhin Ruslan Vasilevich, Uymin Anton Grigorevich, Yakimenko Svyatoslav Igorevich"
+  },
+  {
+   "id": "8119214",
+   "program_id": "000275111",
+   "discipline": "Russian History",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 6,
+    "five_point_scale": 4,
+    "pass": false
+   },
+   "date": "2026-06-24T00:00:00",
+   "module_name": "4 module",
+   "period_credits": 3,
+   "credits": 3,
+   "entire_hours": 114,
+   "aud_hours": 48,
+   "academic_year": "2025/2026",
+   "module_num": "4",
+   "lecturer": "Hatanzeyskaya Elizaveta Vladimirovna"
+  },
+  {
+   "id": "8119234",
+   "program_id": "000275111",
+   "discipline": "Physics",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 5,
+    "five_point_scale": 3,
+    "pass": false
+   },
+   "date": "2026-03-31T00:00:00",
+   "module_name": "3 module",
+   "period_credits": 4,
+   "credits": 4,
+   "entire_hours": 152,
+   "aud_hours": 88,
+   "academic_year": "2025/2026",
+   "module_num": "3",
+   "lecturer": "Yagovcev Vladimir Olegovich, Gayduchenko Igor Andreevich, Shanenko Arkadiy Arkadevich"
+  },
+  {
+   "id": "8119224",
+   "program_id": "000275111",
+   "discipline": "The Foundations of Cryptography and Steganography",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 6,
+    "five_point_scale": 4,
+    "pass": false
+   },
+   "date": "2026-06-30T00:00:00",
+   "module_name": "4 module",
+   "period_credits": 4,
+   "credits": 4,
+   "entire_hours": 152,
+   "aud_hours": 60,
+   "academic_year": "2025/2026",
+   "module_num": "4",
+   "lecturer": "Dzhanashia Kristina Malhazovna, Evsyutin Oleg Olegovich"
+  },
+  {
+   "id": "8119238",
+   "program_id": "000275111",
+   "discipline": "Discrete Mathematics",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 10,
+    "five_point_scale": 5,
+    "pass": false
+   },
+   "date": "2026-06-25T00:00:00",
+   "module_name": "4 module",
+   "period_credits": 4,
+   "credits": 4,
+   "entire_hours": 152,
+   "aud_hours": 48,
+   "academic_year": "2025/2026",
+   "module_num": "4",
+   "lecturer": "Pahlov Pavel Nikolaevich, Nesterenko Anastasiya Aleksandrovna"
+  },
+  {
+   "id": "8119216",
+   "program_id": "000275111",
+   "discipline": "Algorithmization and Programming",
+   "type_raw": "Exam",
+   "repass_count": 1,
+   "grade": {
+    "ten_point_scale": 6,
+    "five_point_scale": 4,
+    "pass": false
+   },
+   "date": "2026-01-26T00:00:00",
+   "module_name": "2 module",
+   "period_credits": 4,
+   "credits": 4,
+   "entire_hours": 152,
+   "aud_hours": 78,
+   "academic_year": "2025/2026",
+   "module_num": "2",
+   "lecturer": "Morozov Vladimir Igorevich"
+  },
+  {
+   "id": "8119209",
+   "program_id": "000275111",
+   "discipline": "Physical Training",
+   "type_raw": "Test",
+   "repass_count": 0,
+   "grade": {
+    "pass": true
+   },
+   "date": "2026-06-30T00:00:00",
+   "module_name": "4 module",
+   "period_credits": 0,
+   "credits": 0,
+   "entire_hours": 200,
+   "aud_hours": 144,
+   "academic_year": "2025/2026",
+   "module_num": "4",
+   "lecturer": "Emelyanov Artem Yurevich"
+  },
+  {
+   "id": "8119226",
+   "program_id": "000275111",
+   "discipline": "Calculus",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 7,
+    "five_point_scale": 4,
+    "pass": false
+   },
+   "date": "2025-12-23T00:00:00",
+   "module_name": "2 module",
+   "period_credits": 6,
+   "credits": 6,
+   "entire_hours": 228,
+   "aud_hours": 68,
+   "academic_year": "2025/2026",
+   "module_num": "2",
+   "lecturer": "Ahmetev Petr Mihaylovich, Chetverikov Viktor Mihaylovich"
+  },
+  {
+   "id": "8119240",
+   "program_id": "000275111",
+   "discipline": "Algebra and Geometry",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 10,
+    "five_point_scale": 5,
+    "pass": false
+   },
+   "date": "2025-10-28T00:00:00",
+   "module_name": "1 module",
+   "period_credits": 2,
+   "credits": 2,
+   "entire_hours": 76,
+   "aud_hours": 56,
+   "academic_year": "2025/2026",
+   "module_num": "1",
+   "lecturer": "Kuvshinov Aleksey Vladimirovich, Anohin Vyacheslav Vladimirovich, Ivanov Fedor Ilich"
+  },
+  {
+   "id": "8119244",
+   "program_id": "000275111",
+   "discipline": "Foundations of Russian Statehood",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 5,
+    "five_point_scale": 3,
+    "pass": false
+   },
+   "date": "2025-12-22T00:00:00",
+   "module_name": "2 module",
+   "period_credits": 2,
+   "credits": 2,
+   "entire_hours": 76,
+   "aud_hours": 26,
+   "academic_year": "2025/2026",
+   "module_num": "2",
+   "lecturer": "Lyubkov Vladimir Dmitrievich"
+  },
+  {
+   "id": "8119236",
+   "program_id": "000275111",
+   "discipline": "Physics",
+   "type_raw": "Exam",
+   "repass_count": 0,
+   "grade": {
+    "ten_point_scale": 5,
+    "five_point_scale": 3,
+    "pass": false
+   },
+   "date": "2026-06-29T00:00:00",
+   "module_name": "4 module",
+   "period_credits": 3,
+   "credits": 3,
+   "entire_hours": 114,
+   "aud_hours": 48,
+   "academic_year": "2025/2026",
+   "module_num": "4",
+   "lecturer": "Yagovcev Vladimir Olegovich, Gayduchenko Igor Andreevich, Shanenko Arkadiy Arkadevich"
+  },
+  {
+   "id": "8119230",
+   "program_id": "000275111",
+   "discipline": "Independent Digital Literacy Test",
+   "type_raw": "Exam",
+   "repass_count": 1,
+   "grade": {
+    "ten_point_scale": 9,
+    "five_point_scale": 5,
+    "pass": false
+   },
+   "date": "2026-03-12T00:00:00",
+   "module_name": "3 module",
+   "period_credits": 0,
+   "credits": 0,
+   "entire_hours": 0,
+   "aud_hours": 2,
+   "academic_year": "2025/2026",
+   "module_num": "3",
+   "lecturer": "Bozhenova Valeriya Aleksanovna"
+  }
+ ],
+ "available_academic_years": [
+  "2026/2027",
+  "2025/2026"
+ ],
+ "selected_academic_year": "2025/2026",
+ "selected_program": "000275111",
+ "available_programs": [
+  {
+   "id": "000275111",
+   "name": "Информационная безопасность",
+   "description": "БИБ255, 2 course"
+  }
+ ],
+ "current_academic_year": "2026/2027"
+}

@@ -1,0 +1,89 @@
+[
+ {
+  "type": "STAFF",
+  "id": "ruz26936",
+  "full_name": "Кутуев Руслан Мухтарович",
+  "email": "rkutuev@hse.ru",
+  "description": "Преподаватель",
+  "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/2732132-fcc9f42f-481a-4e8e-8a4c-e0c2f70d85cb.jpg"
+ },
+ {
+  "type": "STAFF",
+  "id": "ruz27906",
+  "full_name": "Ильюхин Руслан Васильевич",
+  "email": "riliukhin@hse.ru",
+  "description": "Старший преподаватель"
+ },
+ {
+  "type": "STAFF",
+  "id": "ruz28068",
+  "full_name": "Гайдуков Роман Константинович",
+  "email": "rgaydukov@hse.ru",
+  "description": "Доцент",
+  "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/4090-3450896a-1798-41f1-aaf6-1b202da2bc92.jpg"
+ },
+ {
+  "type": "STAFF",
+  "id": "ruz28105",
+  "full_name": "Радаев Вадим Валерьевич",
+  "email": "radaev@hse.ru",
+  "description": "Профессор",
+  "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/142512.jpg"
+ },
+ {
+  "type": "AUDITORIUM",
+  "id": "ruz1033",
+  "room": "R615",
+  "description": "Покровский б-р, д.11",
+  "auditorium_type": "Компьютерный класс",
+  "auditorium_location": {
+   "type": "Point",
+   "coordinates": [
+    37.648605,
+    55.7545571
+   ]
+  }
+ },
+ {
+  "type": "AUDITORIUM",
+  "id": "ruz1034",
+  "room": "R614",
+  "description": "Покровский б-р, д.11",
+  "auditorium_type": "Компьютерный класс",
+  "auditorium_location": {
+   "type": "Point",
+   "coordinates": [
+    37.648605,
+    55.7545571
+   ]
+  }
+ },
+ {
+  "type": "AUDITORIUM",
+  "id": "ruz1035",
+  "room": "R613",
+  "description": "Покровский б-р, д.11",
+  "auditorium_type": "Компьютерный класс",
+  "auditorium_location": {
+   "type": "Point",
+   "coordinates": [
+    37.648605,
+    55.7545571
+   ]
+  }
+ },
+ {
+  "type": "AUDITORIUM",
+  "id": "ruz1036",
+  "room": "R612",
+  "description": "Покровский б-р, д.11",
+  "auditorium_type": "Компьютерный класс",
+  "auditorium_location": {
+   "type": "Point",
+   "coordinates": [
+    37.648605,
+    55.7545571
+   ]
+  }
+ }
+]

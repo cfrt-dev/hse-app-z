@@ -1,0 +1,36 @@
+{
+ "id": "lk3005711",
+ "full_name": "Reznichenko Mikhail Dmitrievich",
+ "birth_date": "2008-01-08",
+ "email": "midmreznichenko@edu.hse.ru",
+ "avatar_url": "https://elk.obs.ru-moscow-1.hc.sbercloud.ru/img/user/3005711-3739d493-7741-4041-974d-4e62a8a79fa8.jpeg",
+ "description": "Bachelor БИБ252",
+ "has_phone": false,
+ "type": "STUDENT",
+ "names": {
+  "last_name": "Reznichenko",
+  "first_name": "Mikhail",
+  "middle_name": "Dmitrievich"
+ },
+ "_id": "68b9b4d7131f304794627e85",
+ "sourceId": "647a3659-7a3d-11f0-a413-87ba01ce01e0",
+ "education": [
+  {
+   "id": "6616334b-7a3d-11f0-a413-87ba01ce01e0",
+   "university_title": "HSE - Moscow",
+   "start_year": "2024",
+   "degree_level": "DEGREE_BACHELOR",
+   "program_id": "1d475d66-3694-11ee-bc01-87ba01ce01e0",
+   "program_title": "Information Security",
+   "faculty_title": "Московский институт электроники и математики им. А.Н. Тихонова",
+   "campus": "CAMPUS_MOS",
+   "group_id": "b1650a29-8769-11f0-a413-87ba01ce01e0",
+   "group_title": "БИБ252",
+   "smart_plan_program_id": "97",
+   "degree": "Bachelor БИБ252"
+  }
+ ],
+ "campus": "CAMPUS_MOS",
+ "is_timetable_available": true,
+ "is_subordinates_available": false
+}

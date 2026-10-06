@@ -1,0 +1,7 @@
+{
+ "error": {
+  "name": "TOKEN_INVALID",
+  "message": "Доступ запрещен по причине: Bearer token is invalid."
+ },
+ "trace_id": "2736319f-2e77-4afe-9be2-97eed89b1618"
+}
