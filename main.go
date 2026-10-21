@@ -35,6 +35,7 @@ Usage:
   hse-app-z whoami             show the signed-in account
   hse-app-z doctor             show settings, files and image support
 
+` + queryUsage + `
 Flags:
   --demo                 run on recorded data, without signing in
   --fixtures DIR         recorded data for --demo (default: internal/api/testdata)
@@ -102,6 +103,14 @@ func run(args []string, stdout io.Writer) error {
 	rest := fs.Args()
 	if err == nil && len(rest) > 0 {
 		cmd, hasCmd = rest[0], true
+		if _, ok := queries[cmd]; ok {
+			for _, f := range []string{"port", "images", "refresh-token"} {
+				if isSet(fs, f) {
+					return usagef("--%s doesn't apply to %q", f, cmd)
+				}
+			}
+			return runQuery(cmd, rest[1:], stdout, *demo, *fixtures, *lang)
+		}
 		err = fs.Parse(rest[1:])
 		rest = fs.Args()
 	}
@@ -203,6 +212,12 @@ func run(args []string, stdout io.Writer) error {
 		return doctor(stdout, paths, store, *images)
 	}
 	return runTUI(paths, store, authClient, *demo, *fixtures, *lang, *images, *port)
+}
+
+func isSet(fs *flag.FlagSet, name string) bool {
+	found := false
+	fs.Visit(func(f *flag.Flag) { found = found || f.Name == name })
+	return found
 }
 
 func whoami(stdout io.Writer, store *auth.Store, client *auth.Client) error {

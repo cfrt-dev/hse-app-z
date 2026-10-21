@@ -387,3 +387,88 @@ func TestDoctor(t *testing.T) {
 		t.Errorf("doctor with tokens and forced images:\n%s", out)
 	}
 }
+
+func TestQueryCommandsDemo(t *testing.T) {
+	c := newCLI(t)
+	fx := filepath.Join("internal", "api", "testdata")
+	cases := []struct {
+		args []string
+		want string
+	}{
+		{[]string{"schedule", "--demo", "--fixtures", fx, "--week"}, "Probability Theory"},
+		{[]string{"--demo", "--fixtures", fx, "schedule", "--from", "2026-10-12"}, "Mon 12 Oct 2026"},
+		{[]string{"grades", "--demo", "--fixtures", fx, "--year", "2025/2026"}, "Algebra and Geometry"},
+		{[]string{"rating", "--demo", "--fixtures", fx, "--type", "current"}, "GPA"},
+		{[]string{"search", "ivan", "--demo", "--fixtures", fx}, "Reznichenko"},
+		{[]string{"person", "--demo", "--fixtures", fx}, "makvalnikitin@edu.hse.ru"},
+		{[]string{"cafes", "--demo", "--fixtures", fx}, "has menu"},
+		{[]string{"menu", "64ed04c9411dc0b2e4890e42", "--demo", "--fixtures", fx}, "₽"},
+		{[]string{"news", "--demo", "--fixtures", fx}, "https://"},
+	}
+	for _, tc := range cases {
+		out, err := c.run(tc.args...)
+		if err != nil || !strings.Contains(out, tc.want) {
+			t.Errorf("%v: err %v, want %q in:\n%s", tc.args, err, tc.want, out)
+		}
+	}
+}
+
+func TestQueryJSON(t *testing.T) {
+	c := newCLI(t)
+	fx := filepath.Join("internal", "api", "testdata")
+	out, err := c.run("schedule", "--demo", "--fixtures", fx, "--week", "--json")
+	if err != nil {
+		t.Fatal(err)
+	}
+	var lessons []map[string]any
+	if err := json.Unmarshal([]byte(out), &lessons); err != nil || len(lessons) == 0 {
+		t.Fatalf("schedule --json: %v, %d lessons:\n%s", err, len(lessons), out)
+	}
+	// An empty day is [] rather than null.
+	out, err = c.run("schedule", "--demo", "--fixtures", fx, "--from", "2020-01-01", "--json")
+	if err != nil || strings.TrimSpace(out) != "[]" {
+		t.Fatalf("empty schedule: err %v, %q", err, out)
+	}
+	out, err = c.run("grades", "--demo", "--fixtures", fx, "--json")
+	var g map[string]any
+	if err != nil || json.Unmarshal([]byte(out), &g) != nil || g["items"] == nil {
+		t.Fatalf("grades --json: err %v:\n%s", err, out)
+	}
+}
+
+func TestQueryUsageErrors(t *testing.T) {
+	c := newCLI(t)
+	cases := []struct {
+		args []string
+		want string
+	}{
+		{[]string{"grades", "extra"}, `unexpected argument "extra"`},
+		{[]string{"search"}, "needs an argument"},
+		{[]string{"menu"}, "needs an argument"},
+		{[]string{"schedule", "--group", "1", "--room", "2"}, "only one of"},
+		{[]string{"schedule", "--days", "0"}, "--days"},
+		{[]string{"schedule", "--week", "--days", "3"}, "--week"},
+		{[]string{"schedule", "--nope"}, "-nope"},
+		{[]string{"--port", "9000", "grades"}, "--port"},
+		{[]string{"grades", "--lang", "de"}, "--lang"},
+		{[]string{"grades", "--fixtures", "x"}, "--fixtures needs --demo"},
+	}
+	for _, tc := range cases {
+		_, err := c.run(tc.args...)
+		if err == nil || !strings.Contains(err.Error(), tc.want) || !usageCode(err) {
+			t.Errorf("%v: err %v, want a usage error mentioning %q", tc.args, err, tc.want)
+		}
+	}
+	// A bad date is caught before anything is requested.
+	if _, err := c.run("schedule", "--demo", "--from", "next week"); err == nil || !usageCode(err) {
+		t.Errorf("bad --from: %v", err)
+	}
+}
+
+func TestQuerySignedOut(t *testing.T) {
+	c := newCLI(t)
+	out, err := c.run("grades")
+	if err == nil || !strings.Contains(err.Error(), "hse-app-z login") || out != "" {
+		t.Fatalf("err %v, out %q", err, out)
+	}
+}

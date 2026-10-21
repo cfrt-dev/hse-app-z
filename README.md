@@ -43,6 +43,30 @@ expires, it opens the sign-in page and listens on
 Access tokens are refreshed automatically. Refresh tokens rotate, and
 concurrent refreshes are serialised so the session isn't invalidated.
 
+## Command-line mode (for scripts and agents)
+
+Every data command prints plain text, or the API's JSON with `--json`, and
+exits without starting the UI. Data goes to stdout; warnings (such as
+"showing cached data" when offline) go to stderr.
+
+```sh
+hse-app-z schedule                     # your lessons today
+hse-app-z schedule --from tomorrow
+hse-app-z schedule --week --json       # this Mon–Sun week as JSON
+hse-app-z schedule --from 2026-10-12 --days 3
+hse-app-z schedule --group ruz47990    # a group's / room's / person's timetable
+hse-app-z grades [--year 2025/2026] [--program ID]
+hse-app-z rating [--type current|cumul|retake|minor] [--module N]
+hse-app-z search Ivanov                # people, groups (--group ID), rooms (--room ID)
+hse-app-z person [EMAIL]               # a profile; yours by default
+hse-app-z cafes                        # café ids and today's hours
+hse-app-z menu CAFE_ID [--day monday]
+hse-app-z news
+```
+
+They use the saved session (run `hse-app-z login` once), accept `--lang en|ru`,
+and work on recorded data with `--demo`.
+
 ## Keys
 
 Everything is reachable from the keyboard. Press `?` in the app for the full
@@ -135,6 +159,7 @@ Layout:
 
 ```
 main.go                 CLI: flags, login/logout/token/whoami, starts the TUI
+query.go                data commands (schedule, grades, …) with text/JSON output
 internal/api            HTTP client (auth, ETag cache, offline fallback), types, fixtures
 internal/auth           Keycloak sign-in (loopback + PKCE), token refresh, storage
 internal/config         paths, settings, local favourites
